@@ -1,3 +1,4 @@
-from MessageParse import *
+from PokeOBJ import *
 
-test = MessageParse(".gen6 Venusaur Mega Shiny")
+test = PokeOBJ(".gen6 Venusaur Mega Shiny")
+print('test2')
