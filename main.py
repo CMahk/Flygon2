@@ -1,4 +1,10 @@
-from PokeOBJ import *
+# Chandler Mahkorn 7/11/20 - 1:20 AM
+import PokeOBJ
 
-test = PokeOBJ(".gen6 Venusaur Mega Shiny")
-print('test2')
+try:
+	test = PokeOBJ.PokeOBJ(".gen6 shiny flygon mega")
+
+except PokeOBJ.PokeError as err:
+	print(err)
+
+print(test)
