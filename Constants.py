@@ -15,15 +15,57 @@ ERROR_NO_SPECIES = 'No species was given.'
 ERROR_MEGA = 'This species can not mega evolve.'
 ERROR_MODIFIERS = 'Invalid modifiers given.'
 
-GEN_DICT = {
-	"gen1": 151,
-	"gen2": 251,
-	"gen3": 386,
-	"gen4": 493,
-	"gen5": 649,
-	"gen6": 721,
-	"gen7": 802
+DICT_GEN = {
+	'gen1': 'kanto',
+	'gen2': 'johto',
+	'gen3': 'hoenn',
+	'gen4': 'sinnoh',
+	'gen5': 'unova',
+	'gen6': 'kalos',
+	'gen7': 'alola'
 	}
+
+DICT_DEX = {
+	'gen1': 151,
+	'gen2': 251,
+	'gen3': 386,
+	'gen4': 493,
+	'gen5': 649,
+	'gen6': 721,
+	'gen7': 802
+	}
+
+DICT_VERSION = {
+	'red': 'kanto',
+	'blue': 'kanto',
+	'yellow': 'kanto',
+	'gold': 'johto',
+	'silver': 'johto',
+	'crystal': 'johto',
+	'ruby': 'hoenn',
+	'sapphire': 'hoenn',
+	'emerald': 'hoenn',
+	'firered': 'kanto',
+	'leafgreen': 'kanto',
+	'diamond': 'sinnoh',
+	'pearl': 'sinnoh',
+	'platinum': 'sinnoh',
+	'heartgold': 'johto',
+	'soulsilver': 'johto',
+	'black': 'unova',
+	'white': 'unova',
+	'black-2': 'unova',
+	'white-2': 'unova',
+	'x': 'kalos',
+	'y': 'kalos',
+	'omega-ruby': 'hoenn',
+	'alpha-sapphire': 'hoenn',
+	'sun': 'alola',
+	'moon': 'alola',
+	'ultra-sun': 'alola',
+	'ultra-moon': 'alola'
+	}
+
 
 DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan']
 TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'poison', 'psychic', 'rock', 'steel', 'water']
