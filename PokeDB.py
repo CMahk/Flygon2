@@ -1,5 +1,5 @@
-import os
 import Constants
+import os
 
 # Populate the given table via hashing
 def populateTable(fpath, table, size):

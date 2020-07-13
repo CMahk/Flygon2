@@ -12,6 +12,7 @@ ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and
 ERROR_SPECIES = 'Invalid species given.'
 ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
 ERROR_NO_SPECIES = 'No species was given.'
+ERROR_MEGA = 'This species can not mega evolve.'
 ERROR_MODIFIERS = 'Invalid modifiers given.'
 
 GEN_DICT = {
@@ -25,3 +26,7 @@ GEN_DICT = {
 	}
 
 DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan']
+TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'poison', 'psychic', 'rock', 'steel', 'water']
+
+URL_PNG_LIST = ['gen1', 'gen2', 'gen2-shiny', 'gen3', 'gen3-shiny', 'gen4']
+URL_GIF_LIST = ['gen5ani', 'gen5ani-shiny', 'ani', 'ani-shiny']

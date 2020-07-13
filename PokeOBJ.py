@@ -1,6 +1,6 @@
-import re
-import PokeDB
 import Constants
+import PokeDB
+import re
 
 class PokeError(Exception):
 	def __init__(this, problem, error):
@@ -40,12 +40,17 @@ class PokeOBJ():
 
 	# Determine if the given generation is valid
 	def __setGen(this, gen):
-		value = int(gen[-1:])
+		value = gen[-1:]
 
-		if (value >= 1 and value <= 7):
-			return gen
-		else:
-			raise PokeError(gen, Constants.ERROR_GEN)
+		# Ensure that the last character is actually a digit
+		if (value.isdigit()):
+			value = int(value)
+			if (value >= 1 and value <= 7):
+				this.__list.remove(gen)
+				return gen
+
+		# Throw an exception if anything is invalid
+		raise PokeError(gen, Constants.ERROR_GEN)
 
 	# Determine if the given species is valid
 	def __setSpecies(this, list):
@@ -64,6 +69,7 @@ class PokeOBJ():
 
 		# If the species exists, then that is the assigned name
 		if (species in PokeDB.speciesTable[speciesHash]):
+			this.__list.remove(species)
 			return species
 		else:
 			raise PokeError(str(species), Constants.ERROR_SPECIES)
@@ -80,6 +86,8 @@ class PokeOBJ():
 				hashVal = this.__hash(this.__species, Constants.TABLE_SIZE_MEGA)
 				if (this.__species in PokeDB.megasTable[hashVal]):
 					this.__mega = True
+				else:
+					raise PokeError(str(list), Constants.ERROR_MEGA)
 
 	def getGen(this):
 		return this.__gen
