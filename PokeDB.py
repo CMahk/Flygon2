@@ -24,3 +24,9 @@ populateTable('mega.txt', megasTable, Constants.TABLE_SIZE_MEGA)
 
 alolanTable = [[]] * Constants.TABLE_SIZE_ALOLAN
 populateTable('alolan.txt', alolanTable, Constants.TABLE_SIZE_ALOLAN)
+
+galarianTable = [[]] * Constants.TABLE_SIZE_GALARIAN
+populateTable('galarian.txt', galarianTable, Constants.TABLE_SIZE_GALARIAN)
+
+gmaxTable = [[]] * Constants.TABLE_SIZE_GMAX
+populateTable('gmax.txt', gmaxTable, Constants.TABLE_SIZE_GMAX)
