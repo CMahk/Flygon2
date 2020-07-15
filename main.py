@@ -1,4 +1,4 @@
-# Chandler Mahkorn 7/12/20 - 11:18 PM
+# Chandler Mahkorn 7/14/20 - 8:20 PM
 import aiohttp
 import asyncio
 import Constants
@@ -7,7 +7,7 @@ import PokeOBJ
 
 async def main():
 	try:
-		testObj = PokeOBJ.PokeOBJ('.gen6 shiny primarina')
+		testObj = PokeOBJ.PokeOBJ('.gen6 shiny mega venusaur')
 		print(testObj)
 
 	except PokeOBJ.PokeError as err:

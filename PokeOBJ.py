@@ -1,6 +1,7 @@
 import Constants
-import PokeDB
+import os
 import re
+import sqlite3
 
 class PokeError(Exception):
 	def __init__(this, problem, error):
@@ -13,11 +14,11 @@ class PokeError(Exception):
 class PokeOBJ():
 	def __init__(this, message = ""):
 		# Split the message; get the generation and species
-		this.__list = this.__splitMessage(message)
+		this.__split = this.__splitMessage(message)
 
 		try:
-			this.__gen = this.__setGen(this.__list[0])
-			this.__species = this.__setSpecies(this.__list)
+			this.__gen = this.__setGen(this.__split[0])
+			this.__species, this.__attributes = this.__setSpecies(this.__split)
 
 			# Prep for attributes; assume False until proven otherwise
 			this.__shiny = False
@@ -25,17 +26,11 @@ class PokeOBJ():
 			this.__alolan = False
 			this.__galarian = False
 			this.__gmax = False
-			this.__setAttributes(this.__list)
+			this.__setAttributes(this.__split, this.__attributes)
 
 		# Raise error back to main
 		except PokeError as err:
 			raise
-
-	# Return the hash of the given key and table
-	def __hash(this, data, size):
-		hashVal = hash(data)
-		hashVal %= size
-		return hashVal
 
 	# Splits the message up into generation, then species / attributes
 	def __splitMessage(this, message):
@@ -49,16 +44,16 @@ class PokeOBJ():
 		if (value.isdigit()):
 			value = int(value)
 			if (value >= 1 and value <= 7):
-				this.__list.remove(gen)
+				this.__split.remove(gen)
 				return gen
 
 		# Throw an exception if anything is invalid
 		raise PokeError(gen, Constants.ERROR_GEN)
 
 	# Determine if the given species is valid
-	def __setSpecies(this, list):
+	def __setSpecies(this, userList):
 		# Get just the species' name
-		species = [word for word in list if word not in Constants.DESCRIPTORS]
+		species = [word for word in userList if word not in Constants.DESCRIPTORS]
 
 		# Ensure that only one species is given
 		if (len(species) == 1):
@@ -68,59 +63,65 @@ class PokeOBJ():
 		else:
 			raise PokeError(str(species), Constants.ERROR_MULTIPLE_SPECIES)
 
-		speciesHash = this.__hash(species, Constants.TABLE_SIZE_SPECIES)
+		# Open up the SQL database to find the species
+		pokeDB = sqlite3.connect(os.path.abspath(os.path.dirname(__file__)) + '\\Poke.db')
+		cursor = pokeDB.cursor()
 
-		# If the species exists, then that is the assigned name
-		if (species in PokeDB.speciesTable[speciesHash]):
-			this.__list.remove(species)
-			return species
-		else:
+		cursor.execute('SELECT * FROM pokemon WHERE species LIKE ?', (species,))
+		result = cursor.fetchone()
+		
+		# If nothing was found, raise an exception
+		if (result == 'None'):
 			raise PokeError(str(species), Constants.ERROR_SPECIES)
 
-	def __setAttributes(this, list):
+		# Turn the tuple into a list; remove the species name
+		result = list(result)
+		del result[0]
+
+		# Convert the ints into booleans for easier checks later on
+		boolList = []
+		for value in result:
+			if (type(value) != str):
+				boolList.append(bool(value))
+			else:
+				boolList.append(value)
+
+		# If the species exists, then that is the assigned name
+		this.__split.remove(species)
+		return species, boolList
+
+	def __setAttributes(this, split, bools):
 		# Get the attributes
-		if (this.__gen != 'gen1'):
-			if ('shiny' in list):
-				this.__shiny = True
+		if ('shiny' in split):
+			this.__shiny = True
 
 		# Check if it can mega evolve
-		if (this.__gen == 'gen6' or this.__gen == 'gen7'):
-			try:
-				if (this.__checkAttribute('mega', list, PokeDB.alolanTable)):
-					this.__mega = True
-
-			except:
-				raise PokeError(str(list), Constants.ERROR_MEGA)
+		if ('mega' in split and bools[0]):
+			this.__mega = True
+		else:
+			raise PokeError(str(split), Constants.ERROR_MEGA)
 
 		# Check if it can be Alolan
-		if (this.__gen == 'gen7'):
-			try:
-				if (this.__checkAttribute('alolan', list, PokeDB.alolanTable)):
-					this.__alolan = True
-
-			except:
-				raise PokeError(str(list), Constants.ERROR_ALOLAN)
-
-		# Check if it can be Galarian / G-Max
-		if (this.__gen == 'gen8'):
-			try:
-				if (this.__checkAttribute('galarian', list, PokeDB.galarianTable)):
-					this.__galarian = True
-			except:
-				raise PokeError(str(list), Constants.ERROR_GALARIAN)
-
-			try:
-				if (this.__checkAttribute('gmax', list, PokeDB.gmaxTable)):
-					this.__gmax = True
-			except:
-				raise PokeError(str(list), Constants.ERROR_GMAX)
-
-	def __checkAttribute(this, attribute, list, table):
-		if (attribute in list):
-			if (this.__species in table[this.__hash(this.__species, len(table))]):
-				return True
+		if ('alolan' in split):
+			if (bools[1]):
+				this.__alolan = True
 			else:
-				return False
+				raise PokeError(str(split), Constants.ERROR_ALOLAN)
+
+		if ('galarian' in split):
+			if (bools[2]):
+				this.__galarian = True
+			else:
+				raise PokeError(str(split), Constants.ERROR_GALARIAN)
+
+		if ('gmax' in split):
+			if (bools[3]):
+				this.__gmax = True
+			else:
+				raise PokeError(str(split), Constants.ERROR_GMAX)
+
+		if (this.__mega and this.__gmax):
+			raise PokeError(str(split), Constants.ERROR_MEGA_GMAX)
 
 	def getGen(this):
 		return this.__gen

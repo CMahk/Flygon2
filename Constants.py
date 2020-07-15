@@ -15,6 +15,7 @@ TABLE_SIZE_GMAX = 43
 
 # Error messages
 ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
+ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
 ERROR_SPECIES = 'Invalid species given.'
 ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
 ERROR_NO_SPECIES = 'No species was given.'
@@ -22,8 +23,10 @@ ERROR_MEGA = 'This species can not mega evolve.'
 ERROR_ALOLAN = 'This species does not have an Alolan forme.'
 ERROR_GALARIAN = 'This species does not have a Galarian forme.'
 ERROR_GMAX = 'This species can not gigantamax.'
+ERROR_MEGA_GEN8 = 'Mega forms are unavailable in gen 8.'
+ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
 ERROR_FORME = 'This species does not have the specified forme.'
-ERROR_MODIFIERS = 'Invalid modifiers given.'
+ERROR_ATTRIBUTES = 'Invalid attributes given.'
 
 DICT_GEN = {
 	'gen1': 'kanto',
@@ -100,7 +103,7 @@ DICT_LANG = {
 	'es': 'spanish'
 	}
 
-DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian']
+DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
 TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'poison', 'psychic', 'rock', 'steel', 'water']
 
 # Directories to grab sprites from
