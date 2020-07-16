@@ -1,7 +1,7 @@
 abomasnow: f
 aegislash: blade, shield
 aipom: f
-alcremie: vanilla-cream, ruby-cream, matcha-cream, mint-cream, lemon-cream, salted-cream, ruby-swirl, caramel-swirl, rainbow-swirl
+alcremie: berry, clover, flower, love, ribbon, star, strawberry, caramel-swirl, lemon-cream, matcha-cream, mint-cream, rainbow-swirl, ruby-cream, ruby-swirl, salted-cream, vanilla-cream
 ambipom: f
 arceus: bug, dark, dragon, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water
 basculin: red, blue
@@ -98,7 +98,7 @@ rhydon: f
 rhyperior: f
 roselia: f
 roserade: f
-rotom: normal, heat, wash, frost, fan, mow
+rotom: heat, wash, frost, fan, mow
 sawsbuck: spring, summer, autumn, winter
 scizor: f
 scyther: f
