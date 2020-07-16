@@ -107,5 +107,5 @@ DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 
 TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'poison', 'psychic', 'rock', 'steel', 'water']
 
 # Directories to grab sprites from
-URL_PNG_LIST = ['gen1', 'gen2', 'gen2-shiny', 'gen3', 'gen3-shiny', 'gen4']
+URL_PNG_LIST = ['gen1', 'gen2', 'gen2-shiny', 'gen3', 'gen3-shiny', 'gen4', 'gen4-shiny']
 URL_GIF_LIST = ['gen5ani', 'gen5ani-shiny', 'ani', 'ani-shiny']
