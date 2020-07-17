@@ -1,18 +1,3 @@
-# 802 species * 1.3 rounded up to nearest prime number
-TABLE_SIZE_SPECIES = 1061
-
-# 46 megas
-TABLE_SIZE_MEGA = 61
-
-# 18 Alolan forms
-TABLE_SIZE_ALOLAN = 29
-
-# 15 Galarian forms
-TABLE_SIZE_GALARIAN = 23
-
-# 32 g-max forms
-TABLE_SIZE_GMAX = 43
-
 # Error messages
 ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
 ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
@@ -37,6 +22,16 @@ DICT_GEN = {
 	'gen6': 'kalos',
 	'gen7': 'alola',
 	'gen8': 'galar'
+	}
+
+DICT_DEFAULT_VERSION = {
+	'gen1': 1,
+	'gen2': 6,
+	'gen3': 9,
+	'gen4': 14,
+	'gen5': 21,
+	'gen6': 26,
+	'gen7': 29
 	}
 
 DICT_DEX = {
@@ -101,6 +96,39 @@ DICT_LANG = {
 	'deu': 'dutch',
 	'sp': 'spanish',
 	'es': 'spanish'
+	}
+
+DICT_VERSION_ID = {
+	'red': 1,
+	'blue': 2,
+	'yellow': 3,
+	'gold': 4,
+	'silver': 5,
+	'crystal': 6,
+	'ruby': 7,
+	'sapphire': 8,
+	'emerald': 9,
+	'firered': 10,
+	'leafgreen': 11,
+	'diamond': 12,
+	'pearl': 13,
+	'platinum': 14,
+	'heartgold': 15,
+	'soulsilver': 16,
+	'black': 17,
+	'white': 18,
+	'colosseum': 19,
+	'xd': 20,
+	'black2': 21,
+	'white2': 22,
+	'x': 23,
+	'y': 24,
+	'omegaruby': 25,
+	'alphasapphire': 26,
+	'sun': 27,
+	'moon': 28,
+	'ultrasun': 29,
+	'ultramoon': 30
 	}
 
 DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
