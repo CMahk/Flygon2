@@ -1,19 +1,22 @@
+from bidict import bidict
+
 # Error messages
 ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
 ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
 ERROR_SPECIES = 'Invalid species given.'
+ERROR_SPECIES_GEN = 'This species is not available in this generation.'
 ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
 ERROR_NO_SPECIES = 'No species was given.'
 ERROR_MEGA = 'This species can not mega evolve.'
+ERROR_MEGA_GEN = 'Mega evolution is not available in this generation.'
 ERROR_ALOLAN = 'This species does not have an Alolan forme.'
 ERROR_GALARIAN = 'This species does not have a Galarian forme.'
 ERROR_GMAX = 'This species can not gigantamax.'
-ERROR_MEGA_GEN8 = 'Mega forms are unavailable in gen 8.'
 ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
 ERROR_FORME = 'This species does not have the specified forme.'
 ERROR_ATTRIBUTES = 'Invalid attributes given.'
 
-DICT_GEN = {
+DICT_GEN_NAME = {
 	'gen1': 'kanto',
 	'gen2': 'johto',
 	'gen3': 'hoenn',
@@ -34,7 +37,7 @@ DICT_DEFAULT_VERSION = {
 	'gen7': 29
 	}
 
-DICT_DEX = {
+DICT_GEN_DEX = bidict({
 	'gen1': 151,
 	'gen2': 251,
 	'gen3': 386,
@@ -43,7 +46,7 @@ DICT_DEX = {
 	'gen6': 721,
 	'gen7': 809,
 	'gen8': 892
-	}
+	})
 
 # For comparing with DICT_GEN
 DICT_VERSION = {
@@ -132,7 +135,7 @@ DICT_VERSION_ID = {
 	}
 
 DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
-TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'poison', 'psychic', 'rock', 'steel', 'water']
+TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'normal', 'poison', 'psychic', 'rock', 'steel', 'water']
 
 # Directories to grab sprites from
 URL_PNG_LIST = ['gen1', 'gen2', 'gen2-shiny', 'gen3', 'gen3-shiny', 'gen4', 'gen4-shiny']

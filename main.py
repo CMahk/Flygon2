@@ -1,4 +1,3 @@
-# Chandler Mahkorn 7/14/20 - 8:20 PM
 import aiohttp
 import asyncio
 import Constants

@@ -14,11 +14,14 @@ class PokeError(Exception):
 class PokeOBJ():
 	def __init__(this, message = ""):
 		# Split the message; get the generation and species
-		this.__split = this.__splitMessage(message)
+		split = this.__splitMessage(message)
 
 		try:
-			this.__gen = this.__setGen(this.__split[0])
-			this.__species, this.__attributes = this.__setSpecies(this.__split)
+			this.__gen = this.__setGen(split[0])
+			split.remove(this.getGen())
+
+			this.__species, this.__info = this.__setSpecies(split)
+			split.remove(this.getSpecies())
 
 			# Prep for attributes; assume False until proven otherwise
 			this.__shiny = False
@@ -26,7 +29,7 @@ class PokeOBJ():
 			this.__alolan = False
 			this.__galarian = False
 			this.__gmax = False
-			this.__setAttributes(this.__split, this.__attributes)
+			this.__setAttributes(split)
 
 		# Raise error back to main
 		except PokeError as err:
@@ -44,7 +47,6 @@ class PokeOBJ():
 		if (value.isdigit()):
 			value = int(value)
 			if (value >= 1 and value <= 7):
-				this.__split.remove(gen)
 				return gen
 
 		# Throw an exception if anything is invalid
@@ -76,52 +78,77 @@ class PokeOBJ():
 
 		# Turn the tuple into a list; remove the species name
 		result = list(result)
-		del result[0]
+
+		if (result[1] > Constants.DICT_GEN_DEX[this.getGen()]):
+			raise PokeError(str(species), Constants.ERROR_SPECIES_GEN)
+
+		# Keep the dex number and gen; convert the rest to bools
+		info = [result[0], result[1], result[2]]
+		
+		for i in range(0, 3):
+			del result[0]
 
 		# Convert the ints into booleans for easier checks later on
-		boolList = []
 		for value in result:
-			if (type(value) != str):
-				boolList.append(bool(value))
+			if value is not None:
+				info.append(bool(value))
 			else:
-				boolList.append(value)
+				info.append(value)
 
 		# If the species exists, then that is the assigned name
-		this.__split.remove(species)
-		return species, boolList
+		return species, info
 
-	def __setAttributes(this, split, bools):
+	def __setAttributes(this, split):
 		# Get the attributes
 		if ('shiny' in split):
 			this.__shiny = True
+			split.remove('shiny')
 
 		# Check if it can mega evolve
-		if ('mega' in split and bools[0]):
+		if ('mega' in split and this.__info[3]):
 			this.__mega = True
+			split.remove('mega')
 		else:
 			raise PokeError(str(split), Constants.ERROR_MEGA)
 
 		# Check if it can be Alolan
 		if ('alolan' in split):
-			if (bools[1]):
+			if (this.__info[4]):
 				this.__alolan = True
+				split.remove('alolan')
 			else:
 				raise PokeError(str(split), Constants.ERROR_ALOLAN)
 
+		# Check if it can be Galarian
 		if ('galarian' in split):
-			if (bools[2]):
+			if (this.__info[5]):
 				this.__galarian = True
+				split.remove('galarian')
 			else:
 				raise PokeError(str(split), Constants.ERROR_GALARIAN)
 
+		# Check if it can G-Max
 		if ('gmax' in split):
-			if (bools[3]):
+			if (this.__info[6]):
 				this.__gmax = True
+				split.remove('gmax')
 			else:
 				raise PokeError(str(split), Constants.ERROR_GMAX)
 
-		if (this.__mega and this.__gmax):
+		# Check that the species can have the given forms
+		if (this.__shiny and this.__gen == 'gen1'):
+			raise PokeError(str(split), Constants.ERROR_SHINY)
+
+		elif (this.__mega and this.__gmax):
 			raise PokeError(str(split), Constants.ERROR_MEGA_GMAX)
+
+		elif (this.__mega and (this.__gen != 'gen6' and this.__gen != 'gen7')):
+				raise PokeError(str(split), Constants.ERROR_MEGA_GEN)
+
+		goodFormes = []
+		for item in split:
+			if item in this.__info[7]:
+				goodFormes.append(item)
 
 	def getGen(this):
 		return this.__gen
@@ -131,6 +158,9 @@ class PokeOBJ():
 
 	def getAttributes(this):
 		return this.__shiny, this.__mega, this.__alolan, this.__galarian, this.__gmax
+
+	def getInfo(this):
+		return this.__info
 
 	def __str__(this):
 		gen = ('Gen: %s\n' % this.getGen())

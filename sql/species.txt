@@ -471,7 +471,7 @@ leafeon
 glaceon
 gliscor
 mamoswine
-porygonz
+porygon-z
 gallade
 probopass
 dusknoir
