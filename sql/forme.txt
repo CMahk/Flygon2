@@ -1,5 +1,5 @@
 abomasnow: f
-aegislash: blade, shield
+aegislash: shield, blade
 aipom: f
 alcremie: berry, clover, flower, love, ribbon, star, strawberry, caramel-swirl, lemon-cream, matcha-cream, mint-cream, rainbow-swirl, ruby-cream, ruby-swirl, salted-cream, vanilla-cream
 ambipom: f
@@ -98,7 +98,7 @@ rhydon: f
 rhyperior: f
 roselia: f
 roserade: f
-rotom: heat, wash, frost, fan, mow
+rotom: normal, heat, wash, frost, fan, mow
 sawsbuck: spring, summer, autumn, winter
 scizor: f
 scyther: f

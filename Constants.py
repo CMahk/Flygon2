@@ -14,7 +14,10 @@ ERROR_GALARIAN = 'This species does not have a Galarian forme.'
 ERROR_GMAX = 'This species can not gigantamax.'
 ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
 ERROR_FORME = 'This species does not have the specified forme.'
+ERROR_MULTIPLE_FORMES = 'Multiple formes were given. Only one can be used at a time.'
 ERROR_ATTRIBUTES = 'Invalid attributes given.'
+
+INFO_FORMES = 'The valid formes for this species include:'
 
 DICT_GEN_NAME = {
 	'gen1': 'kanto',

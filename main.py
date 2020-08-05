@@ -10,8 +10,28 @@ path = os.path.abspath(os.path.dirname(__file__))
 
 async def main():
 	try:
-		testObj = PokeOBJ.PokeOBJ('.gen6 shiny mega venusaur')
+		testObj = PokeOBJ.PokeOBJ('.gen6 shiny aegislash')
 		print(testObj)
+
+		db = sqlite3.connect(path + '\\Poke.db')
+		cursor = db.cursor()
+
+		cursor.execute('SELECT * FROM pokemon WHERE species LIKE ?', (testObj.getSpecies(),))
+
+		# Get the species' dex number
+		speciesDex = list(cursor.fetchone())[0]
+
+		version = Constants.DICT_DEFAULT_VERSION[testObj.getGen()]
+
+		# 9 = English language
+		cursor.execute('SELECT * FROM pokedex WHERE species LIKE ? AND version LIKE ? AND language LIKE ?', (speciesDex, version, 9))
+		text = cursor.fetchone()
+	
+		if text is not None:
+			text = list(text)[4]
+			print(text)
+		else:
+			print('No dex entry found for this generation')
 
 	except PokeOBJ.PokeError as err:
 		print(err)
@@ -46,21 +66,6 @@ async def main():
 	#					break
 
 	#		print('Entry: %s' % speciesEntry)
-					
-	db = sqlite3.connect(path + '\\Poke.db')
-	cursor = db.cursor()
-
-	cursor.execute('SELECT * FROM pokemon WHERE species LIKE ?', (testObj.getSpecies(),))
-
-	# Get the species' dex number
-	speciesDex = list(cursor.fetchone())[0]
-
-	version = Constants.DICT_DEFAULT_VERSION[testObj.getGen()]
-
-	# 9 = English language
-	cursor.execute('SELECT * FROM pokedex WHERE species LIKE ? AND version LIKE ? AND language LIKE ?', (speciesDex, version, 9))
-	text = list(cursor.fetchone())[4]
-	print(text)
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
