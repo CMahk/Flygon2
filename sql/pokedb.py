@@ -8,20 +8,6 @@ import json
 class pokedb():
 	def __init__(this):
 		this.path = os.path.abspath(os.path.dirname(__file__))
-
-		# The list corresponds to: [species total for the generation, default game version, region, generation]
-		# See Constants.DICT_VERSION_ID for specifics on what default game version is used to get flavor text
-		this.dictIndex = {
-			1: [151, 1, 'kanto', 1],
-			152: [251, 6, 'johto', 2],
-			252: [386, 9, 'hoenn', 3],
-			387: [493, 14, 'sinnoh', 4],
-			494: [649, 21, 'unova', 5],
-			650: [721, 26, 'kalos', 6],
-			722: [809, 29, 'alola', 7],
-			#TODO: Flavor text for SwSh
-			810: [892, None, 'galar', 8]
-			}
 		
 	def __loadList(this, file):
 		fileList = []
@@ -33,6 +19,20 @@ class pokedb():
 		return fileList
 
 	async def populate(this):
+		# The list corresponds to: [species total for the generation, default game version, region, generation]
+		# See Constants.DICT_VERSION_ID for specifics on what default game version is used to get flavor text
+		dictIndex = {
+			1: [151, 1, 'kanto', 1],
+			152: [251, 6, 'johto', 2],
+			252: [386, 9, 'hoenn', 3],
+			387: [493, 14, 'sinnoh', 4],
+			494: [649, 21, 'unova', 5],
+			650: [721, 26, 'kalos', 6],
+			722: [809, 29, 'alola', 7],
+			#TODO: Flavor text for SwSh
+			810: [892, None, 'galar', 8]
+			}
+
 		# Load the files into lists
 		listMega = this.__loadList('mega.txt')
 		listAlolan = this.__loadList('alolan.txt')
@@ -48,7 +48,7 @@ class pokedb():
 				listFormes.append(split)
 
 		# Setup the db schema
-		db = await aiosqlite.connect('poke.db')
+		db = await aiosqlite.connect(this.path + '\\poke.db')
 		c = await db.cursor()
 		with open(this.path + '\\schema.sql', 'r') as schema:
 			await c.executescript(schema.read())
@@ -62,7 +62,7 @@ class pokedb():
 				line = line.rstrip()
 
 				# Use a bisect to create a range of indexes based on the species' generation
-				sortedDict = sorted(this.dictIndex.keys())
+				sortedDict = sorted(dictIndex.keys())
 				insertion = bisect.bisect_left(sortedDict, index)
 
 				# Offset if needed
@@ -70,7 +70,7 @@ class pokedb():
 					 insertion -=1
 
 				# Get the list and copy to itself so that it doesn't modify the dictionary
-				data = this.dictIndex[sortedDict[insertion]]
+				data = dictIndex[sortedDict[insertion]]
 				data = data[:]
 
 				# Put the species' dex number in the front, and then append its name
