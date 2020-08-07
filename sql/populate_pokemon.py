@@ -1,10 +1,7 @@
-import os
 import re
 import sqlite3
 
-path = os.path.abspath(os.path.dirname(__file__))
-
-db = sqlite3.connect(path + '\\Poke.db')
+db = sqlite3.connect('poke.db')
 c = db.cursor()
 
 c.execute('''CREATE TABLE pokemon
@@ -21,7 +18,7 @@ c.execute('''CREATE TABLE pokemon
 
 def loadList(file):
 	fileList = []
-	with open(path + '\\' + file, 'r') as infile:
+	with open('src\\' + file, 'r') as infile:
 		for line in infile:
 			line = line.rstrip()
 			fileList.append(line)
@@ -34,7 +31,7 @@ listGalarian = loadList('galarian.txt')
 listGmax = loadList('gmax.txt')
 
 index = 1
-with open(path + '\\species.txt', 'r') as infile:
+with open('src\\species.txt', 'r') as infile:
 	for line in infile:
 		line = line.rstrip()
 
@@ -90,7 +87,7 @@ with open(path + '\\species.txt', 'r') as infile:
 
 db.commit()
 
-with open(path + '\\forme.txt', 'r') as infile:
+with open('src\\forme.txt', 'r') as infile:
 	for line in infile:
 		line = line.rstrip()
 		line = re.sub('[:,]', '', line)

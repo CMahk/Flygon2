@@ -1,3 +1,0 @@
-print Making database...
-python sql/PopulatePokemon.py
-python sql/PopulatePokedex.py

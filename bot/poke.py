@@ -1,4 +1,4 @@
-import Constants
+from bot.constants import Constants
 import os
 import re
 import sqlite3
@@ -12,7 +12,7 @@ class PokeError(Exception):
 	def __str__(this):
 		return this.problem + '\n' + this.error + '\n' + this.extra
 
-class PokeOBJ():
+class Poke():
 	def __init__(this, message = ""):
 		# Split the message; get the generation and species
 		split = this.__splitMessage(message)
@@ -64,7 +64,8 @@ class PokeOBJ():
 		species = [word for word in userList if word not in Constants.DESCRIPTORS]
 
 		# Open up the SQL database to find the species
-		pokeDB = sqlite3.connect(os.path.abspath(os.path.dirname(__file__)) + '\\Poke.db')
+		dbPath = os.path.join(os.path.abspath(os.path.dirname(__file__)), '..\\sql\\poke.db')
+		pokeDB = sqlite3.connect(dbPath)
 		cursor = pokeDB.cursor()
 
 		possibleFormes = []

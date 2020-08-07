@@ -1,15 +1,11 @@
-import os
 import re
 import json
-import shutil
 import sqlite3
 
 # Grabbed the data from
 # https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/pokemon_species_flavor_text.csv
 
-path = os.path.abspath(os.path.dirname(__file__))
-
-db = sqlite3.connect(path + '\\Poke.db')
+db = sqlite3.connect('poke.db')
 c = db.cursor()
 
 c.execute('''CREATE TABLE pokedex
@@ -22,7 +18,7 @@ c.execute('''CREATE TABLE pokedex
 	)''')
 
 # Oh boy this is a thick lad
-with open(path + '\\pokedex.json', 'r', encoding = 'utf-8') as infile:
+with open('src\\pokedex.json', 'r', encoding = 'utf-8') as infile:
 	bigFile = json.load(infile)
 	for key in bigFile:
 		data = []
@@ -37,4 +33,3 @@ with open(path + '\\pokedex.json', 'r', encoding = 'utf-8') as infile:
 
 db.commit()
 db.close()
-shutil.move(path + '\\Poke.db', os.path.abspath(os.path.dirname(__file__) + os.sep + os.pardir) + '\\Poke.db')
