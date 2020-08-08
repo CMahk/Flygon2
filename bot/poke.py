@@ -1,6 +1,5 @@
 import asyncio
 import aiosqlite
-from bot.constants import Constants
 import os
 import re
 
@@ -60,12 +59,12 @@ class Poke():
 				return int(gen[-1:])
 
 		# Throw an exception if anything is invalid
-		raise PokeError(gen, Constants.ERROR_GEN)
+		raise PokeError(gen, PokeConstants.ERROR_GEN)
 
 	# Determine if the given species is valid
 	async def __setSpecies(this, userList):
 		# Get just the species' name
-		species = [word for word in userList if word not in Constants.DESCRIPTORS]
+		species = [word for word in userList if word not in PokeConstants.DESCRIPTORS]
 
 		possibleFormes = []
 		foundSpecies = 0
@@ -82,15 +81,15 @@ class Poke():
 		
 		# If nothing was found, or more than one species is found, raise an exception
 		if foundSpecies == 0:
-			raise PokeError(str(species), Constants.ERROR_SPECIES)
+			raise PokeError(str(species), PokeConstants.ERROR_SPECIES)
 		elif foundSpecies != 1:
-			raise PokeError(str(species), Constants.ERROR_MULTIPLE_SPECIES)
+			raise PokeError(str(species), PokeConstants.ERROR_MULTIPLE_SPECIES)
 
 		result = list(theSpecies)
 
 		# If the species is not available in the given gen, throw an error
 		if (result[4] > this.getGen()):
-			raise PokeError(str(species), Constants.ERROR_SPECIES_GEN)
+			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN)
 
 		# Keep the dex number, gen, and species; convert the rest to bools
 		info = [result[0], result[4], result[5]]
@@ -127,38 +126,41 @@ class Poke():
 			if (this.__info[3]):
 				this.__mega = True
 			else:
-				raise PokeError(str(split), Constants.ERROR_MEGA)
+				raise PokeError(str(split), PokeConstants.ERROR_MEGA)
 
 		# Check if it can be Alolan
 		if ('alolan' in split):
 			if (this.__info[4]):
 				this.__alolan = True
 			else:
-				raise PokeError(str(split), Constants.ERROR_ALOLAN)
+				raise PokeError(str(split), PokeConstants.ERROR_ALOLAN)
 
 		# Check if it can be Galarian
 		if ('galarian' in split):
 			if (this.__info[5]):
 				this.__galarian = True
 			else:
-				raise PokeError(str(split), Constants.ERROR_GALARIAN)
+				raise PokeError(str(split), PokeConstants.ERROR_GALARIAN)
 
 		# Check if it can G-Max
 		if ('gmax' in split):
 			if (this.__info[6]):
 				this.__gmax = True
 			else:
-				raise PokeError(str(split), Constants.ERROR_GMAX)
+				raise PokeError(str(split), PokeConstants.ERROR_GMAX)
 
 		# Check that the species can have the given forms
 		if (this.__shiny and this.__gen == 1):
-			raise PokeError(str(split), Constants.ERROR_SHINY)
+			raise PokeError(str(split), PokeConstants.ERROR_SHINY)
 
 		elif (this.__mega and this.__gmax):
-			raise PokeError(str(split), Constants.ERROR_MEGA_GMAX)
+			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GMAX)
 
 		elif (this.__mega and (this.__gen != 6 and this.__gen != 7)):
-				raise PokeError(str(split), Constants.ERROR_MEGA_GEN)
+			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GEN)
+
+		elif (this.__gmax and this.__gen != 8):
+			raise PokeError(str(split), PokeConstants.ERROR_GMAX_GEN)
 
 		# Get the valid formes and prep for checks
 		validFormes = this.__info[7]
@@ -174,13 +176,13 @@ class Poke():
 				else:
 					# If the possible forme is invalid, throw an error
 					if (len(validFormes) > 0):
-						raise PokeError(str(possibleFormes), Constants.ERROR_MULTIPLE_FORMES, Constants.INFO_FORMES + str(validFormes))
+						raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES, PokeConstants.INFO_FORMES + str(validFormes))
 					else:
-						raise PokeError(str(possibleFormes), Constants.ERROR_FORME)
+						raise PokeError(str(possibleFormes), PokeConstants.ERROR_FORME)
 			
 			# Also throw an error if there's more than one forme
 			if formeCount > 1:
-				raise PokeError(str(possibleFormes), Constants.ERROR_MULTIPLE_FORMES)
+				raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES)
 		
 			# Otherwise, we're all good
 			this.__forme = goodForme[0]
@@ -211,3 +213,25 @@ class Poke():
 		species = ('Species: %s\n' % this.getSpecies())
 		attributes = ('Attributes:\n  Shiny: %s\n  Mega: %s\n  Alolan: %s\n  Galarian: %s\n  G-Max: %s\n  Forme: %s\n' % this.getAttributes())
 		return gen + species + attributes
+
+# Error messages
+class PokeConstants:
+	ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
+	ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
+	ERROR_SPECIES = 'Invalid species given.'
+	ERROR_SPECIES_GEN = 'This species is not available in this generation.'
+	ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
+	ERROR_NO_SPECIES = 'No species was given.'
+	ERROR_MEGA = 'This species can not mega evolve.'
+	ERROR_MEGA_GEN = 'Mega evolution is not available in this generation.'
+	ERROR_ALOLAN = 'This species does not have an Alolan forme.'
+	ERROR_GALARIAN = 'This species does not have a Galarian forme.'
+	ERROR_GMAX = 'This species can not gigantamax.'
+	ERROR_GMAX_GEN = 'Gigantamaxed pokemon are only available in generation 8.'
+	ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
+	ERROR_FORME = 'This species does not have the specified forme.'
+	ERROR_MULTIPLE_FORMES = 'Multiple formes were given. Only one can be used at a time.'
+	ERROR_ATTRIBUTES = 'Invalid attributes given.'
+
+	DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
+	INFO_FORMES = 'The valid formes for this species include:'

@@ -12,18 +12,26 @@ class Flygon2():
 
 	async def run(this):
 		# Get information on the given pokemon
-		try:
-			pokemon = Poke('.gen7 shiny gmax venusaur', this.__db)
-			await pokemon.setup()
+		print('Please enter a command:\n .gen <attributes> <pokemon>\n')
 
-		except PokeError as err:
-			print(err)
-			found = False
+		loop = True
+		while(loop):
+			userInput = input()
+			if (userInput == 'x'):
+				break
 
-		else:
-			found = True
+			try:
+				pokemon = Poke(userInput, this.__db)
+				await pokemon.setup()
 
-		if (found):
-			print(pokemon)
-			entry = await this.__db.getPokedex(pokemon.getIndex(), 1, 9)
-			print(entry)
+			except PokeError as err:
+				print(err)
+				found = False
+
+			else:
+				found = True
+
+			if (found):
+				print(pokemon)
+				entry = await this.__db.getPokedex(pokemon.getIndex(), 1, 9)
+				print(entry)

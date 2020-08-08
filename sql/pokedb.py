@@ -1,9 +1,9 @@
 import aiosqlite
 import asyncio
 import bisect
+import json
 import re
 import os
-import json
 
 class pokedb():
 	def __init__(this):

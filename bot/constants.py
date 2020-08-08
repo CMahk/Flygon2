@@ -1,25 +1,6 @@
 from bidict import bidict
 
 class Constants:
-	# Error messages
-	ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
-	ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
-	ERROR_SPECIES = 'Invalid species given.'
-	ERROR_SPECIES_GEN = 'This species is not available in this generation.'
-	ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
-	ERROR_NO_SPECIES = 'No species was given.'
-	ERROR_MEGA = 'This species can not mega evolve.'
-	ERROR_MEGA_GEN = 'Mega evolution is not available in this generation.'
-	ERROR_ALOLAN = 'This species does not have an Alolan forme.'
-	ERROR_GALARIAN = 'This species does not have a Galarian forme.'
-	ERROR_GMAX = 'This species can not gigantamax.'
-	ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
-	ERROR_FORME = 'This species does not have the specified forme.'
-	ERROR_MULTIPLE_FORMES = 'Multiple formes were given. Only one can be used at a time.'
-	ERROR_ATTRIBUTES = 'Invalid attributes given.'
-
-	INFO_FORMES = 'The valid formes for this species include:'
-
 	DICT_GEN_NAME = {
 		'gen1': 'kanto',
 		'gen2': 'johto',
@@ -138,7 +119,6 @@ class Constants:
 		'ultramoon': 30
 		}
 
-	DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
 	TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'normal', 'poison', 'psychic', 'rock', 'steel', 'water']
 
 	# Directories to grab sprites from
