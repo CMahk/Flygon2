@@ -88,15 +88,15 @@ class Poke():
 		result = list(theSpecies)
 
 		# If the species is not available in the given gen, throw an error
-		if (result[4] > this.getGen()):
+		if (result[3] > this.getGen()):
 			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN)
 
 		# Keep the dex number, gen, and species; convert the rest to bools
-		info = [result[0], result[4], result[5]]
-		species = result[5]
+		info = [result[0], result[3], result[4]]
+		species = result[4]
 		
 		# Get rid of everything but the attributes
-		for i in range(0, 6):
+		for i in range(0, 5):
 			del result[0]
 
 		# Convert the ints into booleans for easier checks later on

@@ -33,5 +33,5 @@ class Flygon2():
 
 			if (found):
 				print(pokemon)
-				entry = await this.__db.getPokedex(pokemon.getIndex(), 1, 9)
+				entry = await this.__db.getPokedex(pokemon.getIndex(), Constants.DICT_DEFAULT_VERSION.get(pokemon.getGen()), 9)
 				print(entry)

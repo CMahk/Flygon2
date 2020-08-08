@@ -1,4 +1,3 @@
-import aiosqlite
 import asyncio
 from bot.flygon import Flygon2
 from sql.pokedb import pokedb
