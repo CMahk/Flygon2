@@ -1,9 +1,14 @@
 import aiohttp
 import asyncio
 from bot.flygon import Flygon2
+from sql.pokedb import pokedb
 
 async def main():
-	flygon = Flygon2()
+	pokemonDB = pokedb()
+	await pokemonDB.setup()
+
+	flygon = Flygon2('..\\config.ini', pokemonDB)
+	await flygon.run()
 
 if __name__ == '__main__':
 	loop = asyncio.get_event_loop()
