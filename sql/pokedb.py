@@ -33,6 +33,10 @@ class pokedb():
 		if check is None:
 			await this.__populate()
 
+	# Close the database
+	async def close(this):
+		await this.db.close()
+
 	async def __populate(this):
 		# The list corresponds to: [species total for the generation, default game version, region, generation]
 		# See Constants.DICT_VERSION_ID for specifics on what default game version is used to get flavor text

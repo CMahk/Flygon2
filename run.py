@@ -9,6 +9,7 @@ async def main():
 
 	flygon = Flygon2('..\\config.ini', pokemonDB)
 	await flygon.run()
+	await pokemonDB.close()
 
 if __name__ == '__main__':
 	loop = asyncio.get_event_loop()
