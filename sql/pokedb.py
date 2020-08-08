@@ -41,15 +41,15 @@ class pokedb():
 		# The list corresponds to: [species total for the generation, default game version, region, generation]
 		# See Constants.DICT_VERSION_ID for specifics on what default game version is used to get flavor text
 		dictIndex = {
-			1: [151, 1, 'kanto', 1],
-			152: [251, 6, 'johto', 2],
-			252: [386, 9, 'hoenn', 3],
-			387: [493, 14, 'sinnoh', 4],
-			494: [649, 21, 'unova', 5],
-			650: [721, 26, 'kalos', 6],
-			722: [809, 29, 'alola', 7],
+			1: [151, 'kanto', 1],
+			152: [251, 'johto', 2],
+			252: [386, 'hoenn', 3],
+			387: [493, 'sinnoh', 4],
+			494: [649, 'unova', 5],
+			650: [721, 'kalos', 6],
+			722: [809, 'alola', 7],
 			#TODO: Flavor text for SwSh
-			810: [892, None, 'galar', 8]
+			810: [892, 'galar', 8]
 			}
 
 		# Load the files into lists
@@ -110,7 +110,7 @@ class pokedb():
 
 				data.append(None)
 
-				await this.cursor.execute("INSERT INTO pokemon(dex_limit, dex_version, region, gen, species, mega, alolan, galarian, gmax, forme) VALUES (?,?,?,?,?,?,?,?,?,?)", data)
+				await this.cursor.execute("INSERT INTO pokemon(dex_limit, region, gen, species, mega, alolan, galarian, gmax, forme) VALUES (?,?,?,?,?,?,?,?,?)", data)
 				index += 1
 
 		# Add species formes

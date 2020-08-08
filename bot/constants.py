@@ -13,13 +13,14 @@ class Constants:
 		}
 
 	DICT_DEFAULT_VERSION = {
-		'gen1': 1,
-		'gen2': 6,
-		'gen3': 9,
-		'gen4': 14,
-		'gen5': 21,
-		'gen6': 26,
-		'gen7': 29
+		1: 1,
+		2: 6,
+		3: 9,
+		4: 14,
+		5: 21,
+		6: 26,
+		7: 29,
+		8: 29
 		}
 
 	DICT_GEN_DEX = bidict({
