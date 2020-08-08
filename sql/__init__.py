@@ -1,0 +1,1 @@
+from .pokedb import pokedb
