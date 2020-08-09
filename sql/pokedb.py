@@ -156,7 +156,7 @@ class pokedb():
 
 		# Search based on dex number
 		elif isinstance(value, int):
-			await this.cursor.execute('SELECT * FROM pokemon WHERE dex LIKE ?', value)
+			await this.cursor.execute('SELECT * FROM pokemon WHERE dex LIKE ?', (str(value),))
 
 		return await this.cursor.fetchone()
 
