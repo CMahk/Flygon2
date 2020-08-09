@@ -18,7 +18,7 @@ charizard: x, y
 cherrim: overcast, sunshine
 combee: f
 combusken: f
-cramorant: gorging, gulping
+cramorant: normal, gorging, gulping
 croagunk: f
 darmanitan: zen
 deerling: spring, autumn, summer, winter
