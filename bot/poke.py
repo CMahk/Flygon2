@@ -87,10 +87,6 @@ class Poke():
 
 		result = list(theSpecies)
 
-		# If the species is not available in the given gen, throw an error
-		if (result[3] > this.getGen()):
-			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN)
-
 		# Keep the dex number, gen, and species; convert the rest to bools
 		info = [result[0], result[3], result[4]]
 		species = result[4]
@@ -112,9 +108,14 @@ class Poke():
 
 		# If the species exists, then that is the assigned name
 		this.__species = info[2]
-		this.__index = info[0]
+		this.__dexNumber = info[0]
 		this.__info = info
 		this.__possibleFormes = possibleFormes
+
+		# If the species is not available in the given gen, throw an error
+		if (info[1] > this.getGen()):
+			speciesGen = await this.__db.getPokemon(this.getDexNumber())
+			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN, PokeConstants.INFO_SPECIES_GEN % speciesGen[3])
 
 	def __setAttributes(this, split, possibleFormes):
 		# Get the attributes
@@ -172,11 +173,11 @@ class Poke():
 			for word in possibleFormes:
 				if word in validFormes:
 					formeCount += 1
-					goodForme.append(word)
+					goodForme = word
 				else:
 					# If the possible forme is invalid, throw an error
 					if (len(validFormes) > 0):
-						raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES, PokeConstants.INFO_FORMES + str(validFormes))
+						raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES, PokeConstants.INFO_FORMES % validFormes)
 					else:
 						raise PokeError(str(possibleFormes), PokeConstants.ERROR_FORME)
 			
@@ -185,7 +186,7 @@ class Poke():
 				raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES)
 		
 			# Otherwise, we're all good
-			this.__forme = goodForme[0]
+			this.__forme = goodForme
 
 
 		# If there's valid formes but no formes are given, grab the first one
@@ -199,8 +200,8 @@ class Poke():
 	def getSpecies(this):
 		return this.__species
 
-	def getIndex(this):
-		return this.__index
+	def getDexNumber(this):
+		return this.__dexNumber
 
 	def getAttributes(this):
 		return this.__shiny, this.__mega, this.__alolan, this.__galarian, this.__gmax, this.__forme
@@ -216,22 +217,23 @@ class Poke():
 
 # Error messages
 class PokeConstants:
+	ERROR_ALOLAN = 'This species does not have an Alolan forme.'
+	ERROR_ATTRIBUTES = 'Invalid attributes given.'
+	ERROR_FORME = 'This species does not have the specified forme.'
+	ERROR_GALARIAN = 'This species does not have a Galarian forme.'
 	ERROR_GEN = 'Invalid generation given. Please provide a generation between 1 and 7'
+	ERROR_GMAX = 'This species can not gigantamax.'
+	ERROR_GMAX_GEN = 'Gigantamaxed pokemon are only available in generation 8.'
+	ERROR_MEGA = 'This species can not mega evolve.'
+	ERROR_MEGA_GEN = 'Mega evolution is not available in this generation.'
+	ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
+	ERROR_MULTIPLE_FORMES = 'Multiple formes were given. Only one can be used at a time.'
+	ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
+	ERROR_NO_SPECIES = 'No species was given.'
 	ERROR_SHINY = 'Shiny pokemon do not exist in gen 1'
 	ERROR_SPECIES = 'Invalid species given.'
 	ERROR_SPECIES_GEN = 'This species is not available in this generation.'
-	ERROR_MULTIPLE_SPECIES = 'Multiple species given. Please provide only one species.'
-	ERROR_NO_SPECIES = 'No species was given.'
-	ERROR_MEGA = 'This species can not mega evolve.'
-	ERROR_MEGA_GEN = 'Mega evolution is not available in this generation.'
-	ERROR_ALOLAN = 'This species does not have an Alolan forme.'
-	ERROR_GALARIAN = 'This species does not have a Galarian forme.'
-	ERROR_GMAX = 'This species can not gigantamax.'
-	ERROR_GMAX_GEN = 'Gigantamaxed pokemon are only available in generation 8.'
-	ERROR_MEGA_GMAX = 'Not all given forms can be used together.'
-	ERROR_FORME = 'This species does not have the specified forme.'
-	ERROR_MULTIPLE_FORMES = 'Multiple formes were given. Only one can be used at a time.'
-	ERROR_ATTRIBUTES = 'Invalid attributes given.'
 
 	DESCRIPTORS = ['gen1', 'gen2', 'gen3', 'gen4', 'gen5', 'gen6', 'gen7', 'shiny', 'mega', 'alolan', 'galarian', 'gmax']
-	INFO_FORMES = 'The valid formes for this species include:'
+	INFO_FORMES = 'The valid formes for this species include: %s'
+	INFO_SPECIES_GEN = 'It can be found in generation %i and above.'
