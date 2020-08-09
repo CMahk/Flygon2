@@ -1,4 +1,5 @@
 import aiosqlite
+import aiofiles
 import asyncio
 import bisect
 import json
@@ -10,34 +11,38 @@ class pokedb():
 		this.path = os.path.abspath(os.path.dirname(__file__))
 		this.db = None
 		this.cursor = None
-		
-	def __loadList(this, file):
-		fileList = []
-		with open(this.path + '\\src\\' + file, 'r') as infile:
-			for line in infile:
-				line = line.rstrip()
-				fileList.append(line)
-
-		return fileList
-
-	async def setup(this):
-		# Setup the db schema
-		this.db = await aiosqlite.connect(this.path + '\\poke.db')
-		this.cursor = await this.db.cursor()
-		with open(this.path + '\\schema.sql', 'r') as schema:
-			await this.cursor.executescript(schema.read())
-
-		# Setup the db if it isn't already (see if the first row exists)
-		await this.cursor.execute('SELECT * FROM pokemon WHERE dex LIKE ?', '1')
-		check = await this.cursor.fetchone()
-		if check is None:
-			await this.__populate()
 
 	# Close the database
 	async def close(this):
 		await this.db.close()
 
-	async def __populate(this):
+	async def setup(this):
+		# Setup the db schema
+		this.db = await aiosqlite.connect(this.path + '\\poke.db')
+		this.cursor = await this.db.cursor()
+		async with aiofiles.open(this.path + '\\schema.sql', 'r') as schema:
+			await this.cursor.executescript(await schema.read())
+
+		# Setup the db if it isn't already (see if the first row exists)
+		await this.cursor.execute('SELECT * FROM pokemon WHERE dex LIKE ?', '1')
+		check = await this.cursor.fetchone()
+		if check is None:
+			print('Database not found. Attempting to build one')
+			print('Building pokemon table...')
+			await this.__populatePokemon()
+
+			print('Building pokedex table...')
+			await this.__populatePokedex()
+
+	async def __loadList(this, file):
+		fileList = []
+		async with aiofiles.open(this.path + '\\src\\' + file, 'r') as infile:
+			async for line in infile:
+				fileList.append(line.rstrip())
+
+		return fileList
+
+	async def __populatePokemon(this):
 		# The list corresponds to: [species total for the generation, default game version, region, generation]
 		# See Constants.DICT_VERSION_ID for specifics on what default game version is used to get flavor text
 		dictIndex = {
@@ -53,31 +58,27 @@ class pokedb():
 			}
 
 		# Load the files into lists
-		listMega = this.__loadList('mega.txt')
-		listAlolan = this.__loadList('alolan.txt')
-		listGalarian = this.__loadList('galarian.txt')
-		listGmax = this.__loadList('gmax.txt')
+		listMega = await this.__loadList('mega.txt')
+		listAlolan = await  this.__loadList('alolan.txt')
+		listGalarian = await this.__loadList('galarian.txt')
+		listGmax = await this.__loadList('gmax.txt')
 
 		listFormes = []
-		with open(this.path + '\\src\\forme.txt', 'r') as infile:
-			for line in infile:
-				line = line.rstrip()
-				line = re.sub('[:,]', '', line)
-				split = line.split(' ')
-				listFormes.append(split)
+		async with aiofiles.open(this.path + '\\src\\forme.txt', 'r') as infile:
+			async for line in infile:
+				line = re.sub('[:,]', '', line.rstrip())
+				listFormes.append(line.split(' '))
 
 		# POKEMON TABLE
-		index = 1
-		with open(this.path + '\\src\\species.txt', 'r') as infile:
-			for line in infile:
-				line = line.rstrip()
-
+		dexNumber = 1
+		async with aiofiles.open(this.path + '\\src\\species.txt', 'r') as infile:
+			async for line in infile:
 				# Use a bisect to create a range of indexes based on the species' generation
 				sortedDict = sorted(dictIndex.keys())
-				insertion = bisect.bisect_left(sortedDict, index)
+				insertion = bisect.bisect_left(sortedDict, dexNumber)
 
 				# Offset if needed
-				if insertion == len(sortedDict) or sortedDict[insertion] != index:
+				if insertion == len(sortedDict) or sortedDict[insertion] != dexNumber:
 					 insertion -= 1
 
 				# Get the list and copy to itself so that it doesn't modify the dictionary
@@ -85,6 +86,7 @@ class pokedb():
 				data = data[:]
 
 				# Append the species' name
+				line = line.rstrip()
 				data.append(line)
 
 				# Add attributes
@@ -108,42 +110,40 @@ class pokedb():
 				else:
 					data.append(0)
 
+				# Pad for formes
 				data.append(None)
 
 				await this.cursor.execute("INSERT INTO pokemon(dex_limit, region, gen, species, mega, alolan, galarian, gmax, forme) VALUES (?,?,?,?,?,?,?,?,?)", data)
-				index += 1
+				dexNumber += 1
 
 		# Add species formes
-		with open(this.path + '\\src\\forme.txt', 'r') as infile:
-			for line in infile:
-				line = line.rstrip()
-				line = re.sub('[:,]', '', line)
+		async with aiofiles.open(this.path + '\\src\\forme.txt', 'r') as infile:
+			async for line in infile:
+				line = re.sub('[:,]', '', line.rstrip())
 				split = line.split(' ')
 
+				# Find the species' row
 				await this.cursor.execute("SELECT * FROM pokemon WHERE species LIKE ?", (split[0],))
-				result = await this.cursor.fetchone()
-				result =  list(result)
+				result = list(await this.cursor.fetchone())
 				del split[0]
+
+				# Add the forme to the row
 				joined = ', '.join(split)
 				await this.cursor.execute("UPDATE pokemon SET forme = ? WHERE dex = ?", (joined, result[0]))
 
 		await this.db.commit()
 
+	async def __populatePokedex(this):
 		# POKEDEX TABLE
 		# Grabbed the data from
 		# https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/pokemon_species_flavor_text.csv
 
 		# Oh boy this is a thick lad
-		with open(this.path + '\\src\\pokedex.json', 'r', encoding = 'utf-8') as infile:
-			bigFile = json.load(infile)
+		async with aiofiles.open(this.path + '\\src\\pokedex.json', mode = 'r', encoding = 'utf-8') as infile:
+			bigFile = json.loads(await infile.read())
 			for key in bigFile:
-				data = []
-				data.append(key['species_id'])
-				data.append(key['version_id'])
-				data.append(key['language_id'])
-				text = key['flavor_text']
-				text = re.sub(r'[\n\f]', ' ', text)
-				data.append(text)
+				text = re.sub(r'[\n\f]', ' ', key['flavor_text'])
+				data = [key['species_id'], key['version_id'],key['language_id'], text]
 
 				await this.cursor.execute("INSERT INTO pokedex (species, version, language, text) VALUES (?,?,?,?)", data)
 
