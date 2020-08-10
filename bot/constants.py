@@ -1,6 +1,6 @@
-from bidict import bidict
-
 class Constants:
+	CONFIG_DEFAULT_PATH = 'config.ini'
+
 	DICT_DEFAULT_VERSION = {
 		1: 1,
 		2: 6,
@@ -13,7 +13,7 @@ class Constants:
 		}
 
 	# For comparing with DICT_GEN
-	DICT_VERSION = {
+	DICT_GAME_REGION = {
 		'red': 'kanto',
 		'blue': 'kanto',
 		'yellow': 'kanto',
@@ -23,13 +23,13 @@ class Constants:
 		'ruby': 'hoenn',
 		'sapphire': 'hoenn',
 		'emerald': 'hoenn',
-		'firered': 'kanto',
-		'leafgreen': 'kanto',
+		'fire-red': 'kanto',
+		'leaf-green': 'kanto',
 		'diamond': 'sinnoh',
 		'pearl': 'sinnoh',
 		'platinum': 'sinnoh',
-		'heartgold': 'johto',
-		'soulsilver': 'johto',
+		'heart-gold': 'johto',
+		'soul-silver': 'johto',
 		'black': 'unova',
 		'white': 'unova',
 		'black-2': 'unova',
@@ -75,27 +75,29 @@ class Constants:
 		'ruby': 7,
 		'sapphire': 8,
 		'emerald': 9,
-		'firered': 10,
-		'leafgreen': 11,
+		'fire-red': 10,
+		'leaf-green': 11,
 		'diamond': 12,
 		'pearl': 13,
 		'platinum': 14,
-		'heartgold': 15,
-		'soulsilver': 16,
+		'heart-gold': 15,
+		'soul-silver': 16,
 		'black': 17,
 		'white': 18,
 		'colosseum': 19,
 		'xd': 20,
-		'black2': 21,
-		'white2': 22,
+		'black-2': 21,
+		'white-2': 22,
 		'x': 23,
 		'y': 24,
-		'omegaruby': 25,
-		'alphasapphire': 26,
+		'omega-ruby': 25,
+		'alpha-sapphire': 26,
 		'sun': 27,
 		'moon': 28,
-		'ultrasun': 29,
-		'ultramoon': 30
+		'ultra-sun': 29,
+		'ultra-moon': 30,
+		'sword': 31,
+		'shield': 32
 		}
 
 	TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'normal', 'poison', 'psychic', 'rock', 'steel', 'water']
