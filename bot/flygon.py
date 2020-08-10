@@ -2,36 +2,28 @@ import asyncio
 from bot.constants import Constants
 from bot.poke import Poke
 from bot.poke import PokeError
-from config import Config
 import os
 
 class Flygon2():
-	def __init__(this, configPath = '..\\config.ini', db = None):
-		this.__config = Config(configPath)
+	def __init__(this, config = None, db = None):
+		this.__config = config
 		this.__db = db
 
 	async def run(this):
 		# Get information on the given pokemon
-		print('Please enter a command:\n .gen <attributes> <pokemon>\n')
+		try:
+			pokemon = Poke('.gen6 shield shiny aegislash', this.__db)
+			await pokemon.setup()
 
-		loop = True
-		while(loop):
-			userInput = input()
-			if (userInput == 'x'):
-				break
+		except PokeError as err:
+			print(err)
+			found = False
 
-			try:
-				pokemon = Poke(userInput, this.__db)
-				await pokemon.setup()
+		else:
+			found = True
 
-			except PokeError as err:
-				print(err)
-				found = False
-
-			else:
-				found = True
-
-			if (found):
-				print(pokemon)
-				entry = await this.__db.getPokedex(pokemon.getIndex(), Constants.DICT_DEFAULT_VERSION.get(pokemon.getGen()), 9)
-				print(entry)
+		if (found):
+			print(pokemon)
+			version = Constants.DICT_VERSION_ID.get(this.__config.genDex[pokemon.getGen() - 1])
+			entry = await this.__db.getPokedex(pokemon.getDexNumber(), version, 9)
+			print(entry)
