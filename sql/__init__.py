@@ -1,1 +1,1 @@
-from .pokedb import pokedb
+from .pokedb import PokeDB

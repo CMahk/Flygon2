@@ -6,7 +6,7 @@ import json
 import re
 import os
 
-class pokedb():
+class PokeDB():
 	def __init__(this):
 		this.path = os.path.abspath(os.path.dirname(__file__))
 		this.db = None
