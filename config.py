@@ -1,15 +1,49 @@
+import aiofiles
 import configparser
 import os
 
 class Config():
-	def __init__(this, configPath):
+	def __init__(this, path):
+		this.__path = path
+		this.__setup()
+
+	# Default config
+	def __setup(this):
 		# Make a config file if one isn't found
-		if not os.path.exists(configPath):
-			this.__populateConfig(configPath)
+		if not os.path.exists(this.__path):
+			config = configparser.ConfigParser()
+			config.optionxform = str
+
+			config['GENERAL'] = {
+						'OnlineMode': '1', 
+						'OfflinePrompted': '0', 
+						'OfflineDownloaded': '0'
+						}
+
+			config['DISCORD'] = {
+						'Token': '', 
+						'CommandPrefix': '.', 
+						'LimitToChannels': '0', 
+						'Channels': ''
+						}
+
+			config['DEFAULTS'] = {
+						'Gen1Dex': 'red', 
+						'Gen2Dex': 'crystal', 
+						'Gen3Dex': 'emerald', 
+						'Gen4Dex': 'platinum', 
+						'Gen5Dex': 'black-2', 
+						'Gen6Dex': 'y', 
+						'Gen7Dex': 'ultra-sun', 
+						'Gen8Dex': 'sword'
+						}
+
+			with open(this.__path, 'w') as infile:
+				config.write(infile)
 
 		# Begin parsing through config.ini
 		config = configparser.ConfigParser()
-		config.read(configPath, encoding = 'utf-8')
+		config.read(this.__path, encoding = 'utf-8')
 
 		this.online = config.getboolean('GENERAL', 'OnlineMode', fallback = ConfigDefaults.online)
 		this.offlinePrompted = config.getboolean('GENERAL', 'OfflinePrompted', fallback = ConfigDefaults.offlinePrompted)
@@ -23,14 +57,9 @@ class Config():
 		if (this.limitToChannels):
 			this.channels = config.get('DISCORD', 'Channels', fallback = ConfigDefaults.channels)
 
-	# Default config
-	def __populateConfig(this, configPath):
-		with open(configPath, 'a') as infile:
-			config = configparser.ConfigParser()
-			config.optionxform = str
-			config['GENERAL'] = {'OnlineMode': '1', 'OfflinePrompted': '0', 'OfflineDownloaded': '0'}
-			config['DISCORD'] = {'Token': '', 'CommandPrefix' : '.', 'LimitToChannels': '0', 'Channels' : ''}
-			config.write(infile)
+		this.genDex = []
+		for i in range(1, 9):
+			this.genDex.append(config.get('DEFAULTS', 'Gen%iDex' % i, fallback = ConfigDefaults.genDex[i - 1]))
 
 class ConfigDefaults:
 	online = True
@@ -41,3 +70,5 @@ class ConfigDefaults:
 	commandPrefix = '.'
 	limitToChannels = False
 	channels = None
+
+	genDex = ['red', 'crystal', 'emerald', 'platinum', 'black-2', 'y', 'ultra-sun', 'sword']

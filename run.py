@@ -1,12 +1,16 @@
 import asyncio
+from bot.constants import Constants
 from bot.flygon import Flygon2
-from sql.pokedb import pokedb
+from config import Config
+from sql.pokedb import PokeDB
 
 async def main():
-	pokemonDB = pokedb()
+	config = Config(Constants.CONFIG_DEFAULT_PATH)
+
+	pokemonDB = PokeDB()
 	await pokemonDB.setup()
 
-	flygon = Flygon2('..\\config.ini', pokemonDB)
+	flygon = Flygon2(config, pokemonDB)
 	await flygon.run()
 	await pokemonDB.close()
 
