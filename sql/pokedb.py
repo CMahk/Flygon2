@@ -172,8 +172,11 @@ class PokeDB():
 
 		# 9 = English language
 		await this.cursor.execute('SELECT * FROM pokedex WHERE species LIKE ? AND version LIKE ? AND language LIKE ?', (value, version, language))
-		result = await this.cursor.fetchone()
-		result = list(result)
+		try:
+			result = await this.cursor.fetchone()
+			result = list(result)
 
-		# Return the flavor text
-		return result[4]
+			# Return the flavor text
+			return result[4]
+		except:
+			return ''
