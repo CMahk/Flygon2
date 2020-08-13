@@ -1,17 +1,6 @@
 class Constants:
 	CONFIG_DEFAULT_PATH = 'config.ini'
 
-	DICT_DEFAULT_VERSION = {
-		1: 1,
-		2: 6,
-		3: 9,
-		4: 14,
-		5: 21,
-		6: 26,
-		7: 29,
-		8: 29
-		}
-
 	# For comparing with DICT_GEN
 	DICT_GAME_REGION = {
 		'red': 'kanto',
