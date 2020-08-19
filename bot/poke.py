@@ -1,5 +1,4 @@
 import asyncio
-import aiosqlite
 import os
 import re
 
@@ -75,9 +74,8 @@ class Poke():
 		result = list(theSpecies)
 
 		# If the species is not available in the given gen, throw an error
-		if (result[3] > result[0]):
-			speciesGen = await this.__db.getPokemon(this.getDexNumber())
-			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN, PokeConstants.INFO_SPECIES_GEN % speciesGen[3])
+		if (result[3] > this.getGen()):
+			raise PokeError(str(species), PokeConstants.ERROR_SPECIES_GEN, PokeConstants.INFO_SPECIES_GEN % result[3])
 
 		# Convert the ints into booleans for easier checks later on
 		attributes = []
@@ -139,21 +137,8 @@ class Poke():
 			else:
 				raise PokeError(str(split), PokeConstants.ERROR_GMAX)
 
-		# Check that the species can have the given forms
-		if (this.__shiny and this.__gen == 1):
-			raise PokeError(str(split), PokeConstants.ERROR_SHINY)
-
-		elif (this.__mega and this.__gmax):
-			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GMAX)
-
-		elif (this.__mega and (this.__gen != 6 and this.__gen != 7)):
-			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GEN)
-
-		elif (this.__gmax and this.__gen != 8):
-			raise PokeError(str(split), PokeConstants.ERROR_GMAX_GEN)
-
-		elif (this.__galarian and this.__gen != 8):
-			raise PokeError(str(split), PokeConstants.ERROR_GALAR_GEN)
+		# Check for any discrepencies
+		this.__checkLegal(split)
 
 		# Get the valid formes and prep for checks
 		validFormes = attributes[4]
@@ -169,23 +154,21 @@ class Poke():
 				else:
 					# If the possible forme is invalid, throw an error
 					if (len(validFormes) > 0):
-						raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES, PokeConstants.INFO_FORMES % validFormes)
-					else:
-						raise PokeError(str(possibleFormes), PokeConstants.ERROR_FORME)
+						raise PokeError(str(possibleFormes), PokeConstants.ERROR_FORME, PokeConstants.INFO_FORMES % validFormes)
+		
+		# If no formes are available for the species but one is given, throw an error
+		elif (validFormes is None and len(possibleFormes) > 0):
+			raise PokeError(str(possibleFormes), PokeConstants.ERROR_FORME)
+
+		# Check for edge cases
+		this.__speciesEdges(possibleFormes)
 
 		# If there's valid formes but no formes are given, grab the first one
 		if (validFormes is not None and this.__forme == ''):
+			# Make sure the species can't mega evolve
 			if (not attributes[0]):
 				if validFormes[0] != 'f':
 					this.__forme = validFormes[0]
-			
-			# Also throw an error if there's more than one forme
-			if formeCount > 1:
-				# Unless it's Pikachu or Alcremie
-				if (this.getDexNumber() == 25 or this.getDexNumber() == 869):
-					pass #TODO
-				else:
-					raise PokeError(str(possibleFormes), PokeConstants.ERROR_MULTIPLE_FORMES)
 
 		# If a forme is given but it's only available in mega forme, throw an error (Charizard, Mewtwo)
 		if (attributes[0] and this.__forme != '' and not this.__mega):
@@ -195,6 +178,55 @@ class Poke():
 		elif (attributes[0] and this.__forme == '' and this.__mega):
 			if (attributes[4] is not None and validFormes[0] != 'f'):
 				this.__forme = validFormes[0]
+
+	# Edge cases
+	def __speciesEdges(this, possibleFormes):
+		dexNumber = this.getDexNumber()
+
+		# TODO: Pikachu edge case
+		if (dexNumber == 25):
+			pass
+
+		# Alcremie edge case
+		elif (dexNumber == 869):
+			alcremieBase = ['strawberry', 'berry', 'clover', 'flower', 'love', 'ribbon', 'star']
+			alcremieSwirl = ['caramel-swirl', 'lemon-cream', 'matcha-cream', 'mint-cream', 'rainbow-swirl', 'ruby-cream', 'ruby-swirl', 'salted-cream', 'vanilla-cream']
+				
+			# Default base and swirl
+			base = 'strawberry'
+			swirl = 'vanilla-cream'
+			count = 0
+
+			for word in possibleFormes:
+				if word in alcremieBase:
+					base = word
+					count += 1
+
+				elif word in alcremieSwirl:
+					swirl = word
+					count += 1
+
+			if (count > 2):
+				raise PokeError(str(possibleFormes), PokeConstants.ERROR_ALCREMIE_MULTIPLE)
+			else:
+				this.__forme = swirl + '-' + base
+
+	def __checkLegal(this, split):
+		# Check that the species can have the given forms
+		if (this.__shiny and this.__gen == 1):
+			raise PokeError(str(split), PokeConstants.ERROR_SHINY)
+
+		elif (this.__mega and this.__gmax):
+			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GMAX)
+
+		elif (this.__mega and (this.__gen != 6 and this.__gen != 7)):
+			raise PokeError(str(split), PokeConstants.ERROR_MEGA_GEN)
+
+		elif (this.__gmax and this.__gen != 8):
+			raise PokeError(str(split), PokeConstants.ERROR_GMAX_GEN)
+
+		elif (this.__galarian and this.__gen != 8):
+			raise PokeError(str(split), PokeConstants.ERROR_GALAR_GEN)
 
 	def getGen(this):
 		return this.__gen
@@ -234,6 +266,7 @@ class Poke():
 
 # Error messages
 class PokeConstants:
+	ERROR_ALCREMIE_MULTIPLE = 'Multiple swirls or bases were given. Only one base and/or one swirl at a time.'
 	ERROR_ALOLAN = 'This species does not have an Alolan forme.'
 	ERROR_ATTRIBUTES = 'Invalid attributes given.'
 	ERROR_FORME = 'This species does not have the specified forme.'
