@@ -1,0 +1,1141 @@
+ZKN_COMMENT_B_000_000, 15D5B114FC3D437F, 
+ZKN_COMMENT_B_001_000, 8D416B03E736991C, While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.
+ZKN_COMMENT_B_002_000, C18C4B31A3D966F9, Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.
+ZKN_COMMENT_B_003_000, E6E400F2FFF44516, A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.
+ZKN_COMMENT_B_004_000, 7059612330F33A53, From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.
+ZKN_COMMENT_B_005_000, 929A9B0FA7906890, If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.
+ZKN_COMMENT_B_006_000, CCA612E72ED2D42D, Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.
+ZKN_COMMENT_B_007_000, 561B73175FD1C96A, When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.
+ZKN_COMMENT_B_008_000, 7B7328D8BBECA787, It cleverly controls its furry ears and tail to maintain its balance while swimming.
+ZKN_COMMENT_B_009_000, AFBE0906788F7564, The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.
+ZKN_COMMENT_B_010_000, 483BE20183F91B86, Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.
+ZKN_COMMENT_B_011_000, 24392A2A9A6F1929, Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.
+ZKN_COMMENT_B_012_000, 99DB4C0FF73B408C, It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.
+ZKN_COMMENT_B_013_000, 742594390C3FA9AF, 
+ZKN_COMMENT_B_014_000, 640AD20DE268261A, 
+ZKN_COMMENT_B_015_000, 2DFDF3F5B2D7AA9D, 
+ZKN_COMMENT_B_016_000, F3F1FC1E2B946580, 
+ZKN_COMMENT_B_017_000, 80F2BBEE98AB4E83, 
+ZKN_COMMENT_B_018_000, C28CFBDB6ECFD6AE, 
+ZKN_COMMENT_B_019_000, 88812403E78CC7F1, 
+ZKN_COMMENT_B_020_000, 90AAD2EEA96D5CCD, 
+ZKN_COMMENT_B_021_000, C3AF331C64FA8E8A, 
+ZKN_COMMENT_B_022_000, E0971CFD1B3DB6F3, 
+ZKN_COMMENT_B_023_000, 569EDB17222A17B0, 
+ZKN_COMMENT_B_024_000, 2F200B36A9022C19, 
+ZKN_COMMENT_B_025_000, A83EC525956D1636, When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.
+ZKN_COMMENT_B_026_000, D57D75479044801F, If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.
+ZKN_COMMENT_B_027_000, FAD52B08EC5F5E3C, It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.
+ZKN_COMMENT_B_028_000, AFBCCC89443E195, It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.
+ZKN_COMMENT_B_035_000, A8D275CF6006B40B, Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.
+ZKN_COMMENT_B_036_000, 8BEAEBEEA9C42EC2, Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.
+ZKN_COMMENT_B_037_000, 17382BBF1568A9C5, As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.
+ZKN_COMMENT_B_038_000, 5C2D0C17706434AC, Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.
+ZKN_COMMENT_B_039_000, E36CD43E12DADCCF, By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.
+ZKN_COMMENT_B_040_000, B2B8C19F3C5658FB, It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.
+ZKN_COMMENT_B_043_000, 99CFB17DDDC58D72, During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.
+ZKN_COMMENT_B_044_000, 52F017D1AED90C47, What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.
+ZKN_COMMENT_B_045_000, 8C8EEFA935BF4924, The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
+ZKN_COMMENT_B_046_000, 3FAA99820B89EC1, 
+ZKN_COMMENT_B_047_000, 38B209C5DDB764FE, 
+ZKN_COMMENT_B_048_000, 4D2A47C5EE230E13, 
+ZKN_COMMENT_B_049_000, 6F6B81B264C03C50, 
+ZKN_COMMENT_B_050_000, A4B71289EC5979E2, It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.
+ZKN_COMMENT_B_051_000, 8120DAB3032B6FE5, These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.
+ZKN_COMMENT_B_052_000, 486A80C5EE7A1668, It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.
+ZKN_COMMENT_B_053_000, BEF52095BD7B212B, Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.
+ZKN_COMMENT_B_054_000, 9A09EAD461BC3B6E, As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.
+ZKN_COMMENT_B_055_000, 65520AA6A4BC9BB1, Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.
+ZKN_COMMENT_B_056_000, EC91D2CD473343D4, 
+ZKN_COMMENT_B_057_000, B447F8E032DDE2B7, 
+ZKN_COMMENT_B_058_000, 40DBB8B09F97F9DA, Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.
+ZKN_COMMENT_B_059_000, 57AE2EEA5C40F5D, A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.
+ZKN_COMMENT_B_060_000, 7FD80253BD7762A9, In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.
+ZKN_COMMENT_B_061_000, A3DABA2AA7016506, This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.
+ZKN_COMMENT_B_062_000, CFC46C622F47F32F, Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.
+ZKN_COMMENT_B_063_000, F57A24391A438A0C, Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.
+ZKN_COMMENT_B_064_000, 899CCC1ED5DFF41D, This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.
+ZKN_COMMENT_B_065_000, BFA9AA3705706F9A, Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.
+ZKN_COMMENT_B_066_000, DC919417BBB39803, Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.
+ZKN_COMMENT_B_067_000, 4F90D4474E9CAF00, Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.
+ZKN_COMMENT_B_068_000, E41FFC2D0A951171, With four arms that react more quickly than it can think, it can execute many punches at once.
+ZKN_COMMENT_B_069_000, 1E2BD40491D8202E, 
+ZKN_COMMENT_B_070_000, B23DB34045326130, 
+ZKN_COMMENT_B_071_000, 3C35F5263E460073, 
+ZKN_COMMENT_B_072_000, 1F4E0B458802D80A, This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.
+ZKN_COMMENT_B_073_000, EC49AB17CC75A64D, Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.
+ZKN_COMMENT_B_074_000, 567403320F67A7BC, 
+ZKN_COMMENT_B_075_000, 311C4D70B34CC99F, 
+ZKN_COMMENT_B_076_000, 3DD9D4EB8755FB6, 
+ZKN_COMMENT_B_077_000, 8ABEE35FCC0A7599, If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.
+ZKN_COMMENT_B_078_000, D7D14D17BC09C6D8, The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.
+ZKN_COMMENT_B_079_000, 9F1AF32AA7586D5B, When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.
+ZKN_COMMENT_B_080_000, A353A6408300D517, Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.
+ZKN_COMMENT_B_081_000, 33057C04F0781CB4, It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.
+ZKN_COMMENT_B_082_000, 53673C3211304491, This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.
+ZKN_COMMENT_B_083_000, 8BC014099701BECE, They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.
+ZKN_COMMENT_B_084_000, 4714DF8830EFD8B, 
+ZKN_COMMENT_B_085_000, 39292E26400E9D48, 
+ZKN_COMMENT_B_086_000, 72D703E83870F345, 
+ZKN_COMMENT_B_087_000, E789C417CCCC7842, 
+ZKN_COMMENT_B_088_000, 3F0BAC6735E3264F, 
+ZKN_COMMENT_B_089_000, B7CBE440936C7E2C, 
+ZKN_COMMENT_B_090_000, 9450E1EF00BFAE7E, Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.
+ZKN_COMMENT_B_091_000, 5F9981C143C0E841, Once it slams its shell shut, it is impossible to open, even by those with superior strength.
+ZKN_COMMENT_B_092_000, E82DC7D258C792A4, With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.
+ZKN_COMMENT_B_093_000, AE8EEFFAD1E155C7, If you get the feeling of being watched in darkness when nobody is around, Haunter is there.
+ZKN_COMMENT_B_094_000, F56E89A700CDD6F2, It is said to emerge from darkness to steal the lives of those who become lost in mountains.
+ZKN_COMMENT_B_095_000, 7CBD4FB814C09835, It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.
+ZKN_COMMENT_B_096_000, 42B177E08D7D8978, 
+ZKN_COMMENT_B_097_000, E5799C85F5EA27B, 
+ZKN_COMMENT_B_098_000, 19FFC81515E8F356, If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.
+ZKN_COMMENT_B_099_000, F9FC09FD84118439, Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.
+ZKN_COMMENT_B_100_000, 95B70E7020D151E4, 
+ZKN_COMMENT_B_101_000, 616C2E42642E8407, 
+ZKN_COMMENT_B_102_000, 472E2036930CDCBE, These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.
+ZKN_COMMENT_B_103_000, D22C85F0BCAA781, When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.
+ZKN_COMMENT_B_104_000, F58EB6281FCAB7B8, This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.
+ZKN_COMMENT_B_105_000, BBE0E066276861BB, When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.
+ZKN_COMMENT_B_106_000, A2F7D044C8D79632, The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.
+ZKN_COMMENT_B_107_000, 2A469655DCCA5775, Its punches slice the air. However, it seems to need a short break after fighting for three minutes.
+ZKN_COMMENT_B_108_000, 733A706D8F78759C, Bug Pokémon are Lickitung’s main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.
+ZKN_COMMENT_B_109_000, FBCEB67EA47F1FFF, It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.
+ZKN_COMMENT_B_110_000, F97752C41711CDFD, It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.
+ZKN_COMMENT_B_111_000, 322E2CB12BC400FA, It can remember only one thing at a time. Once it starts rushing, it forgets why it started.
+ZKN_COMMENT_B_112_000, 4C6C1ABCFCE571E3, Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.
+ZKN_COMMENT_B_113_000, 71B55293E7851060, This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.
+ZKN_COMMENT_B_114_000, 9D9F04CB6FCB9E89, The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.
+ZKN_COMMENT_B_115_000, 165F3CA4CD54F666, There are records of a lost human child being raised by a childless Kangaskhan.
+ZKN_COMMENT_B_116_000, F1E8EAAEC830548F, They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.
+ZKN_COMMENT_B_117_000, 65552ADE5B763D6C, Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.
+ZKN_COMMENT_B_118_000, 20604A86007AB285, Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.
+ZKN_COMMENT_B_119_000, 9A67025F5F19A682, Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.
+ZKN_COMMENT_B_120_000, B6BADB964AC28DF6, Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.
+ZKN_COMMENT_B_121_000, 3D9C21A75E57A3D9, Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.
+ZKN_COMMENT_B_122_000, 3FD49CFD77166FC, It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.
+ZKN_COMMENT_B_123_000, E3F98BB84599F7DF, If you come across an area in a forest where a lot of the trees have been cut down, what you’ve found is a Scyther’s territory.
+ZKN_COMMENT_B_127_000, E9BF3BC4064FBFB3, This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.
+ZKN_COMMENT_B_128_000, 2E61F99B5077919E, The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.
+ZKN_COMMENT_B_129_000, A4EC996B1F789C61, This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.
+ZKN_COMMENT_B_130_000, 82A1AAA9C195216F, Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
+ZKN_COMMENT_B_131_000, A3036AD6E24D494C, Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.
+ZKN_COMMENT_B_132_000, 32B5409B4FC490E9, When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.
+ZKN_COMMENT_B_133_000, 516400C86F0B2446, Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
+ZKN_COMMENT_B_134_000, 8A1ADAB583BD5743, Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.
+ZKN_COMMENT_B_135_000, 26E128EE0E9DD40, It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.
+ZKN_COMMENT_B_136_000, 372612BC9DE9B35D, It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.
+ZKN_COMMENT_B_137_000, 7286E87E97BD9DDA, In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.
+ZKN_COMMENT_B_143_000, 55162AED3A1A177D, This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.
+ZKN_COMMENT_B_152_000, 3F9863E168A2415F, 
+ZKN_COMMENT_B_153_000, 5F9C21F8FA79B07C, 
+ZKN_COMMENT_B_154_000, F571C9DEB787AF0D, 
+ZKN_COMMENT_B_155_000, 2DCA21B63D584FCA, 
+ZKN_COMMENT_B_156_000, 455E13ED29580933, 
+ZKN_COMMENT_B_157_000, C0B9C9B0FA87D8F0, 
+ZKN_COMMENT_B_158_000, 8B71944280E5E1, 
+ZKN_COMMENT_B_159_000, 8A00D1C4737FDB1E, 
+ZKN_COMMENT_B_160_000, 108C1049CE0134D2, 
+ZKN_COMMENT_B_161_000, F0F4D2323C85BE15, 
+ZKN_COMMENT_B_162_000, 622B7A58414359D8, 
+ZKN_COMMENT_B_163_000, 2975206B2C92005B, It begins to hoot at the same time every day. Some Trainers use them in place of clocks.
+ZKN_COMMENT_B_164_000, B32E03E0DA7655E, When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.
+ZKN_COMMENT_B_165_000, 7C69886412650121, 
+ZKN_COMMENT_B_166_000, 5C65CA4C808D9204, 
+ZKN_COMMENT_B_167_000, 22C6F274F9A75527, 
+ZKN_COMMENT_B_168_000, A9A838860D3C6B0A, 
+ZKN_COMMENT_B_170_000, C81D3F5CA88D29EB, On the dark ocean floor, its only means of communication is its constantly flashing lights.
+ZKN_COMMENT_B_171_000, 56E69736A3CF8E28, This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.
+ZKN_COMMENT_B_172_000, 8F9CF123B880E7A5, The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.
+ZKN_COMMENT_B_173_000, ADDF3150D76B82A2, Because of its unusual, starlike silhouette, people believe that it came here on a meteor.
+ZKN_COMMENT_B_174_000, C2C40F50E8335A77, Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.
+ZKN_COMMENT_B_175_000, FB0DE93DFC88BB94, It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.
+ZKN_COMMENT_B_176_000, 6E7A296D8FCEA471, It grows dispirited if it is not with kind people. It can float in midair without moving its wings.
+ZKN_COMMENT_B_177_000, A88601451711B32E, Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.
+ZKN_COMMENT_B_178_000, 66EBC15840ED2B03, This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.
+ZKN_COMMENT_B_179_000, D9EB0187D3D64200, 
+ZKN_COMMENT_B_180_000, BB3AFA221D81F9FC, 
+ZKN_COMMENT_B_181_000, 9B373C0A8BAA8ADF, 
+ZKN_COMMENT_B_182_000, 6DF88BE890D320F6, Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.
+ZKN_COMMENT_B_183_000, F4D9D1F9A46836D9, Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.
+ZKN_COMMENT_B_184_000, 1C58A1DA1D902270, These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.
+ZKN_COMMENT_B_185_000, A0FCEC164C6052B3, It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.
+ZKN_COMMENT_B_186_000, 8968F9DF6060994A, The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.
+ZKN_COMMENT_B_187_000, 5110A207DA8FF88D, 
+ZKN_COMMENT_B_188_000, 36D293FC096E5144, 
+ZKN_COMMENT_B_189_000, 287B3CE4CCB8367, 
+ZKN_COMMENT_B_190_000, 4C93AA5B5F8E0795, 
+ZKN_COMMENT_B_191_000, 6C2AE872F1097E52, 
+ZKN_COMMENT_B_192_000, 8513F8944F9A49DB, 
+ZKN_COMMENT_B_193_000, BDCA5281644BA358, 
+ZKN_COMMENT_B_194_000, D808608D356D4AA1, When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.
+ZKN_COMMENT_B_195_000, 66D1B86730AFAEDE, Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.
+ZKN_COMMENT_B_196_000, 7E65CA9E1CAF9EA7, It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.
+ZKN_COMMENT_B_197_000, B804A275A395DB84, On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.
+ZKN_COMMENT_B_198_000, D242B08174B782CD, 
+ZKN_COMMENT_B_199_000, 54710AF3044B48A, Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.
+ZKN_COMMENT_B_200_000, 7B9F36548295FC9, 
+ZKN_COMMENT_B_201_000, 7B263394DB6F48A6, 
+ZKN_COMMENT_B_202_000, 56AFE19ED64AA6CF, To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.
+ZKN_COMMENT_B_203_000, CF70197833D3FEAC, 
+ZKN_COMMENT_B_204_000, 6392415DEF6F8F3D, 
+ZKN_COMMENT_B_205_000, 9C491B4B0421C23A, 
+ZKN_COMMENT_B_206_000, B6870956D5433323, The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.
+ZKN_COMMENT_B_207_000, D67C4983F59F62A0, 
+ZKN_COMMENT_B_208_000, 6B0B7169B197C511, It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
+ZKN_COMMENT_B_209_000, A364494137693F4E, 
+ZKN_COMMENT_B_210_000, E2AE8F1328300650, 
+ZKN_COMMENT_B_211_000, C06D5526B192D813, The small spikes covering its body developed from scales. They inject a toxin that causes fainting.
+ZKN_COMMENT_B_212_000, A62F671AE071672A, Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.
+ZKN_COMMENT_B_213_000, 17660F40E52F02ED, The berries stored in its vaselike shell eventually become a thick, pulpy juice.
+ZKN_COMMENT_B_214_000, D801675D9D92C7DC, This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.
+ZKN_COMMENT_B_215_000, 6095AD6EB299723F, It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.
+ZKN_COMMENT_B_216_000, 31A3FD4CB65073D6, 
+ZKN_COMMENT_B_217_000, 11A03F35247904B9, 
+ZKN_COMMENT_B_218_000, 5A55AD182DE509F8, 
+ZKN_COMMENT_B_219_000, 25FBCEFFFFC622FB, 
+ZKN_COMMENT_B_220_000, 37F136DBE1E7781B, If it smells something enticing, it dashes off headlong to find the source of the aroma.
+ZKN_COMMENT_B_221_000, 70A790C8F698D198, Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.
+ZKN_COMMENT_B_222_000, FA1CF0F92797C6D5, These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.
+ZKN_COMMENT_B_223_000, 1F0826BA8356AC92, Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.
+ZKN_COMMENT_B_224_000, 314308E5AEFCCCE7, It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.
+ZKN_COMMENT_B_225_000, 658DE9136B9F9AC4, It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.
+ZKN_COMMENT_B_226_000, 8AE59ED4C7BA78E1, As it majestically swims, it doesn’t care if Remoraid attach to it to scavenge for its leftovers.
+ZKN_COMMENT_B_227_000, 145AFF04F8B96E1E, People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.
+ZKN_COMMENT_B_228_000, CFB8412DAE919C33, 
+ZKN_COMMENT_B_229_000, 4B13F6F17FC16BF0, 
+ZKN_COMMENT_B_230_000, 806007C9075B8302, Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.
+ZKN_COMMENT_B_231_000, 6594FEFA8BC8F05, 
+ZKN_COMMENT_B_232_000, D1FF71D77A9DA808, 
+ZKN_COMMENT_B_233_000, 97F399FFF35A994B, After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.
+ZKN_COMMENT_B_234_000, 1F426011074D5A8E, 
+ZKN_COMMENT_B_235_000, EC3D7FE34BBF4F51, 
+ZKN_COMMENT_B_236_000, C687C80C60C3B874, Even though it is small, it can’t be ignored because it will slug any handy target without warning.
+ZKN_COMMENT_B_237_000, 3C29E9F1BD8FDFD7, After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves.
+ZKN_COMMENT_B_241_000, 4A908EF1BD691DAA, This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
+ZKN_COMMENT_B_242_000, 64CE7CFD8E8A8E93, Blissey lays mysterious eggs that are filled with happiness. It’s said that anyone who eats a Blissey egg will start acting kindly to all others.
+ZKN_COMMENT_B_246_000, 4F6D5458F9128BF, It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.
+ZKN_COMMENT_B_247_000, 7C628F347A8A7E5C, It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.
+ZKN_COMMENT_B_248_000, 38C2ACC6921FCF35, The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.
+ZKN_COMMENT_B_251_000, CBEC2E17D3456337, This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.
+ZKN_COMMENT_B_261_000, 127960408CC6DEBC, 
+ZKN_COMMENT_B_262_000, 46C4406E4969AC99, 
+ZKN_COMMENT_B_263_000, BFE2FA5D35D496B6, Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.
+ZKN_COMMENT_B_264_000, F83B5234BBA53773, It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.
+ZKN_COMMENT_B_265_000, 6E43104EC2919830, 
+ZKN_COMMENT_B_266_000, A84F082649D4DD4D, 
+ZKN_COMMENT_B_267_000, DB53685405620F0A, 
+ZKN_COMMENT_B_268_000, 54722242F1CCF927, 
+ZKN_COMMENT_B_269_000, 8E10FA1A78B33604, 
+ZKN_COMMENT_B_270_000, 1F875B6BB866FF26, Its leaf grew too large for it to live on land. That is how it began to live floating in the water.
+ZKN_COMMENT_B_271_000, AC1B1B3C25211649, It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.
+ZKN_COMMENT_B_272_000, 73D1414F10CBB52C, If it hears festive music, it begins moving in rhythm in order to amplify its power.
+ZKN_COMMENT_B_273_000, FB110975B3425D4F, It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.
+ZKN_COMMENT_B_274_000, 40AA4321E11978BA, They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.
+ZKN_COMMENT_B_275_000, 7F36934CC6745BD, It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.
+ZKN_COMMENT_B_276_000, 7ADD715AD2971920, 
+ZKN_COMMENT_B_277_000, 5AE8312DB23AE9A3, 
+ZKN_COMMENT_B_278_000, 47C571181460F5CE, It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.
+ZKN_COMMENT_B_279_000, F6C99408E8F7B91, Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.
+ZKN_COMMENT_B_280_000, 42234F270DCB0BE1, If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.
+ZKN_COMMENT_B_281_000, CB98AF573ECA011E, It has a psychic power that enables it to distort the space around it and see into the future.
+ZKN_COMMENT_B_282_000, E880B937F50D5FE7, To protect its Trainer, it will expend all its psychic power to create a small black hole.
+ZKN_COMMENT_B_283_000, 1CCB9965B1B02DC4, 
+ZKN_COMMENT_B_284_000, B15AA14B6DA859D5, 
+ZKN_COMMENT_B_285_000, D645D70CC9673F92, 
+ZKN_COMMENT_B_286_000, EF2EE72E27F80B1B, 
+ZKN_COMMENT_B_287_000, 27E5411B3CA96498, 
+ZKN_COMMENT_B_288_000, DAD2D7634CAA1359, 
+ZKN_COMMENT_B_289_000, 53F191523914FD76, 
+ZKN_COMMENT_B_290_000, 893D2229C0AE3B08, It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.
+ZKN_COMMENT_B_291_000, 4F314A52396B2C4B, This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.
+ZKN_COMMENT_B_292_000, 379DB81B4D6C1602, A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.
+ZKN_COMMENT_B_293_000, BD970041EECD2205, When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.
+ZKN_COMMENT_B_294_000, 7DC5785EA6D44B74, The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them.
+ZKN_COMMENT_B_295_000, F3679A4403A072D7, This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body.
+ZKN_COMMENT_B_296_000, D68010634D5DED8E, 
+ZKN_COMMENT_B_297_000, A37B303591CFE251, 
+ZKN_COMMENT_B_298_000, EEC084FD5D77FE0, Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.
+ZKN_COMMENT_B_299_000, E9A2D078EB37E163, 
+ZKN_COMMENT_B_300_000, 3E2B3533E6C7FF4E, 
+ZKN_COMMENT_B_301_000, 5D25D5C60F68511, 
+ZKN_COMMENT_B_302_000, E5709D2F403E5D34, It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.
+ZKN_COMMENT_B_303_000, 55BEC76AD2C71597, It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.
+ZKN_COMMENT_B_307_000, B6DC6F22D2D53E0B, 
+ZKN_COMMENT_B_308_000, 15ED1F878ACE08A6, 
+ZKN_COMMENT_B_309_000, A280DF57F7881FC9, It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.
+ZKN_COMMENT_B_310_000, 4AD7E65EC43402A7, It rarely appears before people. It is said to nest where lightning has fallen.
+ZKN_COMMENT_B_311_000, 8476BE364B1A3F84, 
+ZKN_COMMENT_B_312_000, A47A7C4DDCF1AEA1, 
+ZKN_COMMENT_B_313_000, 3343D427D83412DE, 
+ZKN_COMMENT_B_314_000, 51861454F71EADDB, 
+ZKN_COMMENT_B_315_000, 8A3C6E420BD00758, It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.
+ZKN_COMMENT_B_316_000, 1905C61C07126B95, 
+ZKN_COMMENT_B_317_000, 389D0433988DE252, 
+ZKN_COMMENT_B_318_000, E3876E9B03130A1F, These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.
+ZKN_COMMENT_B_319_000, 8DF245C5F2DE83C, This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.
+ZKN_COMMENT_B_320_000, F6EA3C807D0D6C9C, When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.
+ZKN_COMMENT_B_321_000, 7F7E8291921416FF, Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.
+ZKN_COMMENT_B_322_000, 508CD26F95CB1896, 
+ZKN_COMMENT_B_323_000, 2B351CAE39B03A79, 
+ZKN_COMMENT_B_324_000, FC436C8C3D673C10, You find abandoned coal mines full of them. They dig tirelessly in search of coal.
+ZKN_COMMENT_B_325_000, DA02329FC6CA0DD3, 
+ZKN_COMMENT_B_326_000, BFC44493F5A89CEA, 
+ZKN_COMMENT_B_327_000, 364EE463C4A9A7AD, 
+ZKN_COMMENT_B_328_000, 1966DA830E6648E4, It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.
+ZKN_COMMENT_B_329_000, E51BFA5551C37B07, To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.
+ZKN_COMMENT_B_330_000, 2F2870E26486D8B5, It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.
+ZKN_COMMENT_B_331_000, A7D9AAD150941772, 
+ZKN_COMMENT_B_332_000, C0C2BAF2AF24E2FB, 
+ZKN_COMMENT_B_335_000, 46BC03195085EEFE, 
+ZKN_COMMENT_B_336_000, 60FA112521A79647, 
+ZKN_COMMENT_B_337_000, 9A98E8FCA88DD324, It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.
+ZKN_COMMENT_B_338_000, B22CFB33948DC2ED, Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.
+ZKN_COMMENT_B_339_000, 40F6530D8FD0272A, It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.
+ZKN_COMMENT_B_340_000, 2D580498FAD1620A, It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.
+ZKN_COMMENT_B_341_000, FA53A46B3F44304D, It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river.
+ZKN_COMMENT_B_342_000, C047AC93B800EB30, A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.
+ZKN_COMMENT_B_343_000, 4A3FEE79B1148A73, It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.
+ZKN_COMMENT_B_344_000, 11E796A22B43E9B6, It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.
+ZKN_COMMENT_B_349_000, 74A49E452A1AB515, It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.
+ZKN_COMMENT_B_350_000, EA9B8D6B2E822203, It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.
+ZKN_COMMENT_B_351_000, 5D9ACD9AC16B3900, 
+ZKN_COMMENT_B_352_000, 97A6C57248AE7E1D, 
+ZKN_COMMENT_B_353_000, CDB3A38A783EF99A, 
+ZKN_COMMENT_B_354_000, DDCE65B5A2167D2F, 
+ZKN_COMMENT_B_355_000, 3841D8C8D12140C, Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.
+ZKN_COMMENT_B_356_000, 8DE1FBA73045ECA9, It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.
+ZKN_COMMENT_B_357_000, B1E4B37E19CFEF06, 
+ZKN_COMMENT_B_358_000, 4BCD0B6F962220EB, 
+ZKN_COMMENT_B_360_000, 50BB7134004C1378, It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.
+ZKN_COMMENT_B_361_000, 1C61931BD22D2C7B, It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.
+ZKN_COMMENT_B_362_000, 37882FA739C60F2, It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
+ZKN_COMMENT_B_366_000, A25ADB42738E387E, 
+ZKN_COMMENT_B_367_000, 6DA37B14B68F7241, 
+ZKN_COMMENT_B_368_000, D914532EFA970FD0, 
+ZKN_COMMENT_B_370_000, 6171358583FECE91, 
+ZKN_COMMENT_B_385_000, 7F1134117E9914AD, It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.
+ZKN_COMMENT_B_386_000, 4505BC39F756A910, 
+ZKN_COMMENT_B_387_000, 22C4824D80B97AD3, 
+ZKN_COMMENT_B_388_000, 13A03BF73A9140BE, 
+ZKN_COMMENT_B_389_000, D994E41FB34F0B81, 
+ZKN_COMMENT_B_390_000, BE5B066F6FB4B88F, 
+ZKN_COMMENT_B_391_000, 31C7469F02FAA16C, 
+ZKN_COMMENT_B_392_000, 6A11208C17500289, 
+ZKN_COMMENT_B_393_000, E2D1586574D95A66, 
+ZKN_COMMENT_B_394_000, 18DE367DA469D5E3, 
+ZKN_COMMENT_B_395_000, 3E276E548F097460, 
+ZKN_COMMENT_B_396_000, C5E96E84BE9631FD, 
+ZKN_COMMENT_B_397_000, FEA04871D34864FA, 
+ZKN_COMMENT_B_398_000, 22A30048BCD26757, 
+ZKN_COMMENT_B_399_000, AD00DE6360063FF4, 
+ZKN_COMMENT_B_400_000, 53680D409C269333, 
+ZKN_COMMENT_B_401_000, CEC3C3046D5662F0, 
+ZKN_COMMENT_B_402_000, 37BC3322A56390D, 
+ZKN_COMMENT_B_403_000, 3BD41B09B026D9CA, Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.
+ZKN_COMMENT_B_404_000, 4DA25D34DB70CB5F, Upon encountering an opponent, this Pokémon prepares for battle by extending its claws, which can put out 1,000,000 volts of electricity.
+ZKN_COMMENT_B_405_000, 6DA61B4C6D483A7C, Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.
+ZKN_COMMENT_B_406_000, A744F323F42E7759, This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.
+ZKN_COMMENT_B_407_000, 2063AD12E0996176, The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.
+ZKN_COMMENT_B_408_000, BBA102EECF7C6F1B, 
+ZKN_COMMENT_B_409_000, F4575CDBE42DC898, 
+ZKN_COMMENT_B_410_000, 9BD6FE2DC19AD47A, 
+ZKN_COMMENT_B_411_000, 63202440ACE8A17D, 
+ZKN_COMMENT_B_412_000, DB5E24107D5BE3E0, 
+ZKN_COMMENT_B_413_000, B614EC3992BC4563, 
+ZKN_COMMENT_B_414_000, 80080E21632BC9E6, 
+ZKN_COMMENT_B_415_000, 747D64805A27209, It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.
+ZKN_COMMENT_B_416_000, CEFDFC5AF14D10EC, Vespiquen that give off more pheromones have larger swarms of Combee attendants.
+ZKN_COMMENT_B_417_000, 5B91BC2B5E07280F, 
+ZKN_COMMENT_B_418_000, 40FD3DBF4F07A02, 
+ZKN_COMMENT_B_419_000, 8A091C0296518605, 
+ZKN_COMMENT_B_420_000, 76CB99DBA1A17B01, The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!
+ZKN_COMMENT_B_421_000, B0D6F1B328E3B03E, Its folded petals are pretty tough. Bird Pokémon can peck at them all they want, and Cherrim won’t be bothered at all.
+ZKN_COMMENT_B_422_000, CB14FFBEFA055787, Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.
+ZKN_COMMENT_B_423_000, FF5FDFECB6A82564, The softness of its body helps disperse the force of impacts, so although its body is uncommonly squishy, it’s also surprisingly resilient.
+ZKN_COMMENT_B_424_000, 93EF67D272A12AF5, 
+ZKN_COMMENT_B_425_000, CA0A1C15EAE69B2, The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.
+ZKN_COMMENT_B_426_000, 2589B1E2BD3F353B, It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.
+ZKN_COMMENT_B_427_000, 5F3787A4B5A18B38, Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.
+ZKN_COMMENT_B_428_000, 112E2217E1F216F9, Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.
+ZKN_COMMENT_B_429_000, 3685D7D93E0CF516, 
+ZKN_COMMENT_B_430_000, C08F68B339A661A8, 
+ZKN_COMMENT_B_431_000, 31C610D93E63FD6B, 
+ZKN_COMMENT_B_432_000, 178802CD6D425622, 
+ZKN_COMMENT_B_433_000, F945C2A04E57BB25, 
+ZKN_COMMENT_B_434_000, 64B6BABA925F8F14, If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.
+ZKN_COMMENT_B_435_000, 2C6CE0CD7E0A2DF7, It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.
+ZKN_COMMENT_B_436_000, 122ED2C1ACE886AE, Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.
+ZKN_COMMENT_B_437_000, D822FAEA25A577F1, Many scientists suspect that this Pokémon originated outside the Galar region, based on the patterns on its body.
+ZKN_COMMENT_B_438_000, 4393D30469AD1580, This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.
+ZKN_COMMENT_B_439_000, D09492D4D6C3FE83, It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.
+ZKN_COMMENT_B_440_000, 643ADDDB881C8D57, Happiny’s willing to lend its precious round stone to those it’s friendly with, but if the stone isn’t returned, Happiny will cry and throw a tantrum.
+ZKN_COMMENT_B_441_000, EE98BBF62B5065F4, 
+ZKN_COMMENT_B_446_000, 2E6A43D973493C85, It stores food beneath its fur. It might share just one bite, but only if it really trusts you.
+ZKN_COMMENT_B_447_000, A870FBB2D1E83082, It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.
+ZKN_COMMENT_B_448_000, FFF2E4023AFEDE8F, It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust.
+ZKN_COMMENT_B_449_000, 735F2431CE44C76C, This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.
+ZKN_COMMENT_B_450_000, 5538198A05DB66BE, When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.
+ZKN_COMMENT_B_451_000, 1B2CC1B27E993181, It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.
+ZKN_COMMENT_B_452_000, A3C107C3939FDBE4, It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.
+ZKN_COMMENT_B_453_000, 6F762795D6FD0E07, Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.
+ZKN_COMMENT_B_454_000, B101C9983BA62032, It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.
+ZKN_COMMENT_B_455_000, 38508FA94F98E175, 
+ZKN_COMMENT_B_456_000, 398AF7B929941B8, 
+ZKN_COMMENT_B_457_000, C9EAD9B99A36EBBB, 
+ZKN_COMMENT_B_458_000, DAE6FFB01B04AB96, It swims along with a school of Remoraid, and they’ll all fight together to repel attackers.
+ZKN_COMMENT_B_459_000, B58F49EEBEE9CD79, The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.
+ZKN_COMMENT_B_460_000, 9DA6EA772B4F71A5, This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.
+ZKN_COMMENT_B_461_000, BBE92AA44A3A0CA2, With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.
+ZKN_COMMENT_B_462_000, D62738B01B5BB3EB, It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.
+ZKN_COMMENT_B_463_000, 64F0908A169E1828, Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky’s use of its fingers is clumsy.
+ZKN_COMMENT_B_464_000, 7C8422C1029D2E71, It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.
+ZKN_COMMENT_B_465_000, B68FFA9889E03D2E, Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.
+ZKN_COMMENT_B_468_000, 2200F2B2CDE8111D, Known as a bringer of blessings, it’s been depicted on good-luck charms since ancient times.
+ZKN_COMMENT_B_469_000, 580DD0CAFD788C9A, 
+ZKN_COMMENT_B_470_000, CAC3C5378241CCC, This Pokémon’s tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.
+ZKN_COMMENT_B_471_000, EC4A7C26576BF4EF, The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.
+ZKN_COMMENT_B_472_000, BB0CD24504E1F7C6, 
+ZKN_COMMENT_B_473_000, 9C5E1217E59B6469, It looks strong, and that’s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.
+ZKN_COMMENT_B_474_000, 6C16E40B76C0B0C0, Some say an additional program made this Pokémon evolve, but even academics can’t agree on whether Porygon-Z is really an evolution.
+ZKN_COMMENT_B_475_000, F3C3AC3219942AC3, Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.
+ZKN_COMMENT_B_476_000, DC2FB9FB2D94715A, 
+ZKN_COMMENT_B_477_000, A0CEE43933C086DD, With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.
+ZKN_COMMENT_B_478_000, 87E5D417D52FBB54, It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.
+ZKN_COMMENT_B_479_000, 4F9BFA2AC0DA5A37, With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.
+ZKN_COMMENT_B_489_000, 2AFEC1A39F988590, 
+ZKN_COMMENT_B_490_000, 604A527B2731C322, 
+ZKN_COMMENT_B_491_000, 4208124E08472825, 
+ZKN_COMMENT_B_492_000, 951B860F395CEA8, 
+ZKN_COMMENT_B_493_000, 7A886086F8536A6B, 
+ZKN_COMMENT_B_495_000, 20E54A97DF94E4F1, 
+ZKN_COMMENT_B_496_000, AD790A684C4EFC14, 
+ZKN_COMMENT_B_497_000, 752F307B37F99AF7, 
+ZKN_COMMENT_B_498_000, FC6EF8A1DA70431A, 
+ZKN_COMMENT_B_499_000, C6621A89AADFC79D, 
+ZKN_COMMENT_B_500_000, DA5062458C6FA518, 
+ZKN_COMMENT_B_501_000, A19A085877BE4B9B, 
+ZKN_COMMENT_B_502_000, 88B0F837192D8012, 
+ZKN_COMMENT_B_503_000, 63C5C275BD6E9A55, 
+ZKN_COMMENT_B_504_000, CF36BA9001766E44, 
+ZKN_COMMENT_B_505_000, 9AEBDA6244D3A067, 
+ZKN_COMMENT_B_506_000, 7E03D0818E90419E, This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.
+ZKN_COMMENT_B_507_000, F48E70515D914C61, The black fur that covers this Pokémon’s body is dense and springy. Even sharp fangs bounce right off.
+ZKN_COMMENT_B_508_000, B4BCC86E15983F70, Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.
+ZKN_COMMENT_B_509_000, 396112AA44686FB3, Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.
+ZKN_COMMENT_B_510_000, E69F115ADAFAEFB1, This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.
+ZKN_COMMENT_B_511_000, 1B56F18897FA8F6E, 
+ZKN_COMMENT_B_512_000, 3594FF94691C36B7, 
+ZKN_COMMENT_B_513_000, 6DDED9817D7197D4, 
+ZKN_COMMENT_B_514_000, 26DE1673969C3E5, 
+ZKN_COMMENT_B_515_000, 2604193E2297CDE2, 
+ZKN_COMMENT_B_516_000, 40422749F3B9752B, 
+ZKN_COMMENT_B_517_000, C9B7877A24B86A68, It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.
+ZKN_COMMENT_B_518_000, 825717818DDD40E9, It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.
+ZKN_COMMENT_B_519_000, A105D7AEAD23D446, It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.
+ZKN_COMMENT_B_520_000, B439606E533FF12A, These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.
+ZKN_COMMENT_B_521_000, 2570089457FD8CED, This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.
+ZKN_COMMENT_B_522_000, F0B888669AFE9050, 
+ZKN_COMMENT_B_523_000, CE774E7A24616213, 
+ZKN_COMMENT_B_524_000, 3FADF6A0291EFDD6, When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.
+ZKN_COMMENT_B_525_000, 1FAA388897478EB9, It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.
+ZKN_COMMENT_B_526_000, E60B60B1106151DC, Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.
+ZKN_COMMENT_B_527_000, 6E9FA6C22567FC3F, It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.
+ZKN_COMMENT_B_528_000, 1B1CB8321403E172, The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.
+ZKN_COMMENT_B_529_000, A26B7E4327F6A2B5, It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.
+ZKN_COMMENT_B_530_000, C49102AA4811BD23, Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.
+ZKN_COMMENT_B_532_000, 719C3AB1623E193D, Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.
+ZKN_COMMENT_B_533_000, AA53149E76F04C3A, Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.
+ZKN_COMMENT_B_534_000, 64B9DAF2491930CF, When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.
+ZKN_COMMENT_B_535_000, DD7A12CBA6A288AC, It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning.
+ZKN_COMMENT_B_536_000, 15C3ECB8BAF7E9C9, On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.
+ZKN_COMMENT_B_537_000, 89302CE84E3DD2A6, This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.
+ZKN_COMMENT_B_538_000, 2A1F7C839645080B, They train in groups of five. Any member that can’t keep up will discard its belt and leave the group.
+ZKN_COMMENT_B_539_000, 5ED75CB15344A7C8, The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.
+ZKN_COMMENT_B_540_000, 7C2231BD229DB23C, 
+ZKN_COMMENT_B_541_000, 56CA7BFBC682D41F, 
+ZKN_COMMENT_B_542_000, 298BCBD9CBAB6A36, 
+ZKN_COMMENT_B_543_000, B06D11EADF408019, Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.
+ZKN_COMMENT_B_544_000, D7EBE1CB58686BB0, Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.
+ZKN_COMMENT_B_545_000, 61E423B1517C0AF3, Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.
+ZKN_COMMENT_B_546_000, 44FC39D09B38E28A, Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.
+ZKN_COMMENT_B_547_000, 11F7D9A2DFABB0CD, As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.
+ZKN_COMMENT_B_548_000, F7B9CB970E8A0984, The deeper the color of a Petilil’s leaves, the healthier the Pokémon is. Petilil sometimes makes its home in a well-tended field or flowerbed.
+ZKN_COMMENT_B_549_000, BE1AF3BF87A3CCA7, Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive.
+ZKN_COMMENT_B_550_000, 826EA4C9A6650D5, In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it’s more popular with the youth.
+ZKN_COMMENT_B_551_000, 2D12200DF6253692, Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it’s swimming.
+ZKN_COMMENT_B_552_000, 45FB302F54B6021B, Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.
+ZKN_COMMENT_B_553_000, 7EB18A1C69675B98, While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey.
+ZKN_COMMENT_B_554_000, 98EF98283A8902E1, This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.
+ZKN_COMMENT_B_555_000, 2264F8586B87F81E, This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.
+ZKN_COMMENT_B_556_000, 3F4D023921CB56E7, Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.
+ZKN_COMMENT_B_557_000, 7397E266DE6E24C4, It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.
+ZKN_COMMENT_B_558_000, 8DD5F072AF8FCC0D, Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.
+ZKN_COMMENT_B_559_000, C62E484A35606CCA, It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.
+ZKN_COMMENT_B_560_000, BFB8195F74F245EE, While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.
+ZKN_COMMENT_B_561_000, 8B003931B7F2A631, A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.
+ZKN_COMMENT_B_562_000, 124001585A694E54, The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.
+ZKN_COMMENT_B_563_000, D9F6276B4613ED37, There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.
+ZKN_COMMENT_B_568_000, 4566FF858A1B8AC6, This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.
+ZKN_COMMENT_B_569_000, 26B83F586AD4F769, The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.
+ZKN_COMMENT_B_570_000, 789E465CC20F16C7, Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.
+ZKN_COMMENT_B_571_000, B23D1E3448F553A4, Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them.
+ZKN_COMMENT_B_572_000, 29A8D82333EEA941, They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.
+ZKN_COMMENT_B_573_000, 5E603850F0ED6F7E, A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.
+ZKN_COMMENT_B_574_000, D866F02A4F8C637B, Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.
+ZKN_COMMENT_B_575_000, CC0CE427DAB4A78, On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.
+ZKN_COMMENT_B_576_000, 46CCA61A04EE5935, A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.
+ZKN_COMMENT_B_577_000, BF7DE008F0FB97F2, Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.
+ZKN_COMMENT_B_578_000, 1300CE99025FB2BF, Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.
+ZKN_COMMENT_B_579_000, 8A6C8887ED59085C, It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.
+ZKN_COMMENT_B_580_000, 88E76AAE4565A320, 
+ZKN_COMMENT_B_581_000, 68F22A81250973A3, 
+ZKN_COMMENT_B_582_000, 4EB43C7553E802BA, Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.
+ZKN_COMMENT_B_583_000, 15FD62883F35CFBD, It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon.
+ZKN_COMMENT_B_584_000, 81DB3AA2839A3F2C, People believe this Pokémon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit.
+ZKN_COMMENT_B_585_000, 91B02C92610E74F, 
+ZKN_COMMENT_B_586_000, 2D9154BF2B358926, 
+ZKN_COMMENT_B_587_000, BA25148F97EFA049, This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly.
+ZKN_COMMENT_B_588_000, 3388488303C5E48, It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.
+ZKN_COMMENT_B_589_000, CE80A45A733CBE8B, It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.
+ZKN_COMMENT_B_590_000, 54CE39C1BC383699, The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.
+ZKN_COMMENT_B_591_000, CDECF3B0A8A320B6, Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.
+ZKN_COMMENT_B_592_000, FB2BA3D2A37A8A9F, Legend has it that the residents of a sunken ancient city changed into these Pokémon.
+ZKN_COMMENT_B_593_000, 20835993FF9568BC, Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.
+ZKN_COMMENT_B_594_000, B6590179BCA3674D, 
+ZKN_COMMENT_B_595_000, E95D61A77830990A, Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.
+ZKN_COMMENT_B_596_000, 6454B882E73C173, It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.
+ZKN_COMMENT_B_597_000, 7C4D09A235602230, Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.
+ZKN_COMMENT_B_598_000, BC1EB1857D592F21, Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.
+ZKN_COMMENT_B_599_000, 4AE8095F789B935E, It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.
+ZKN_COMMENT_B_600_000, B0AA20AA9E26B27D, Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.
+ZKN_COMMENT_B_601_000, E960FA97B2D8E57A, The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.
+ZKN_COMMENT_B_602_000, 39EE8A383FA5663, 
+ZKN_COMMENT_B_603_000, 28E8207A6E99F4E0, 
+ZKN_COMMENT_B_604_000, 54D1D2B1F6E08309, 
+ZKN_COMMENT_B_605_000, CD920A8B5469DAE6, This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.
+ZKN_COMMENT_B_606_000, A91BB8954F45390F, Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.
+ZKN_COMMENT_B_607_000, 1C87F8C4E28B21EC, The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.
+ZKN_COMMENT_B_608_000, D793186C878F9705, It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.
+ZKN_COMMENT_B_609_000, 5199D045E62E8B02, In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.
+ZKN_COMMENT_B_610_000, 4CE9DC56A7E63664, They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.
+ZKN_COMMENT_B_611_000, 189EFC28EB436887, Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.
+ZKN_COMMENT_B_612_000, FE60EE1D1A21C13E, While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
+ZKN_COMMENT_B_613_000, C455964592DF8C01, It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.
+ZKN_COMMENT_B_614_000, ACC1840EA6DF9C38, It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.
+ZKN_COMMENT_B_616_000, 5A2A9E2B4FEC7AB2, It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.
+ZKN_COMMENT_B_617_000, E179643C63DF3BF5, Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.
+ZKN_COMMENT_B_618_000, 2A6D3E54168D5A1C, For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.
+ZKN_COMMENT_B_619_000, B30184652B94047F, Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
+ZKN_COMMENT_B_620_000, 39D4789048AA05EF, Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.
+ZKN_COMMENT_B_621_000, 5A3638BD69622DCC, Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.
+ZKN_COMMENT_B_622_000, E9E80E81D6D97569, This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.
+ZKN_COMMENT_B_623_000, 896CEAEF62008C6, There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.
+ZKN_COMMENT_B_624_000, 414DA89C0AD23BC3, A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.
+ZKN_COMMENT_B_625_000, B9A0E07567FEC1C0, Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.
+ZKN_COMMENT_B_626_000, EE58E0A324FE97DD, These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.
+ZKN_COMMENT_B_627_000, 29B9B6651ED2825A, A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries.
+ZKN_COMMENT_B_628_000, 9D25F694B2186B37, Because this Pokémon is hotheaded and belligerent, it’s Corviknight that’s taken the role of transportation in Galar.
+ZKN_COMMENT_B_629_000, D56FD081C66DCC54, Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.
+ZKN_COMMENT_B_630_000, 6DEDA97CD1D77276, They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.
+ZKN_COMMENT_B_631_000, F4CEEF8DE56C8859, A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.
+ZKN_COMMENT_B_632_000, BB3017B65E864B7C, With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.
+ZKN_COMMENT_B_633_000, 9B2C599ECCAEDC5F, Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.
+ZKN_COMMENT_B_634_000, 895E1773A164EACA, Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.
+ZKN_COMMENT_B_635_000, 5105BF9C1B944A0D, The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down.
+ZKN_COMMENT_B_636_000, 1C4DBF6E5E9473F0, Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.
+ZKN_COMMENT_B_637_000, A0F209AA8D64A433, This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.
+ZKN_COMMENT_B_643_000, 16CEEFDF818E94FC, According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.
+ZKN_COMMENT_B_644_000, ACA497C53E9C938D, Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.
+ZKN_COMMENT_B_646_000, FC90E1D3B06CEDB3, It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.
+ZKN_COMMENT_B_648_000, B7BE3F7AC995CA61, 
+ZKN_COMMENT_B_650_000, 8486F8A391A23E60, 
+ZKN_COMMENT_B_651_000, 5F3DC0CCA7029FE3, 
+ZKN_COMMENT_B_652_000, 44FFD2C0D5E12EFA, 
+ZKN_COMMENT_B_653_000, C48F8D3C12EFBFD, 
+ZKN_COMMENT_B_654_000, 7826D0EE05936B6C, 
+ZKN_COMMENT_B_655_000, 4BA90BE724D828F, 
+ZKN_COMMENT_B_656_000, 2930E2B477722466, 
+ZKN_COMMENT_B_657_000, B070AADB19E8CC89, 
+ZKN_COMMENT_B_658_000, FED8127D7C78F988, 
+ZKN_COMMENT_B_659_000, C4CC3AA5F535EACB, It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments.
+ZKN_COMMENT_B_660_000, 7F500D432FA20E6B, The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon.
+ZKN_COMMENT_B_661_000, E19651D2AE472A8, When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.
+ZKN_COMMENT_B_662_000, 46CFBF0A3F95CC25, Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.
+ZKN_COMMENT_B_663_000, 6511FF375E806722, Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape.
+ZKN_COMMENT_B_664_000, 79F6DD376F483EF7, 
+ZKN_COMMENT_B_665_000, B240B724839DA014, 
+ZKN_COMMENT_B_666_000, 25ACF75416E388F1, 
+ZKN_COMMENT_B_667_000, 5FB8CF2B9E2697AE, 
+ZKN_COMMENT_B_668_000, 1E1E8F3EC8020F83, 
+ZKN_COMMENT_B_669_000, 911DCF6E5AEB2680, 
+ZKN_COMMENT_B_670_000, C7BEDE3055161952, 
+ZKN_COMMENT_B_671_000, A827A018C39AA295, 
+ZKN_COMMENT_B_672_000, 195E483EC8583E58, 
+ZKN_COMMENT_B_673_000, E0A7EE51B3A6E4DB, 
+ZKN_COMMENT_B_674_000, C265AE2494BC49DE, Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.
+ZKN_COMMENT_B_675_000, 339C564A9979E5A1, Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.
+ZKN_COMMENT_B_676_000, 1398983307A27684, 
+ZKN_COMMENT_B_677_000, D9F9C05B80BC39A7, There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome.
+ZKN_COMMENT_B_678_000, 60DB066C94514F8A, The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.
+ZKN_COMMENT_B_679_000, 2DD6A63ED8C41DCD, The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.
+ZKN_COMMENT_B_680_000, 3C67841E6A2EC15, The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.
+ZKN_COMMENT_B_681_000, 235DB659781E62D2, Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking.
+ZKN_COMMENT_B_682_000, 3C46C67AD6AF2E5B, The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.
+ZKN_COMMENT_B_683_000, 74FD2067EB6087D8, The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight.
+ZKN_COMMENT_B_684_000, 8F3B2E73BC822F21, The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.
+ZKN_COMMENT_B_685_000, 1E04864DB7C4935E, Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks.
+ZKN_COMMENT_B_686_000, 35989884A3C48327, By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.
+ZKN_COMMENT_B_687_000, 6F37705C2AAAC004, It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.
+ZKN_COMMENT_B_688_000, 89757E67FBCC674D, If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive.
+ZKN_COMMENT_B_689_000, BC79DE95B759990A, Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy’s defeat.
+ZKN_COMMENT_B_690_000, 726DC808A496DE7C, Skrelp looks like a piece of rotten seaweed, so it can blend in with seaweed drifting on the ocean and avoid being detected by enemies.
+ZKN_COMMENT_B_691_000, 526A09F112BF6F5F, Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight.
+ZKN_COMMENT_B_692_000, 252B59CF17E80576, By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.
+ZKN_COMMENT_B_693_000, AC0C9FE02B7D1B59, Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.
+ZKN_COMMENT_B_694_000, D38B6FC0A4A506F0, The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.
+ZKN_COMMENT_B_695_000, 582FB9FCD3753733, One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.
+ZKN_COMMENT_B_700_000, 3792D5AF8E706782, There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.
+ZKN_COMMENT_B_701_000, BD8C1DD62FD17385, It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.
+ZKN_COMMENT_B_702_000, 89323FBE01B28C88, Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
+ZKN_COMMENT_B_704_000, D6752DF78E623F0E, Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived.
+ZKN_COMMENT_B_705_000, A3704DC9D2D433D1, The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.
+ZKN_COMMENT_B_706_000, 7DBA95F2E7D89CF4, Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.
+ZKN_COMMENT_B_707_000, F35CB7D844A4C457, Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too.
+ZKN_COMMENT_B_708_000, CF5A00015B1AC1FA, With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees.
+ZKN_COMMENT_B_709_000, 96A3261446688EFD, Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.
+ZKN_COMMENT_B_710_000, EF2404C268FC5C9B, The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.
+ZKN_COMMENT_B_711_000, 27DA5EAF7DADB618, In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
+ZKN_COMMENT_B_712_000, B14FBEDFAEACAB55, This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place.
+ZKN_COMMENT_B_713_000, D63AF4A10A6B9112, As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.
+ZKN_COMMENT_B_714_000, E875D6CC3611B167, No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.
+ZKN_COMMENT_B_715_000, 1CC0B6F9F2B47F44, Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.
+ZKN_COMMENT_B_720_000, 99E15CF9AF44EAD0, 
+ZKN_COMMENT_B_722_000, 5D62350167864BAA, During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.
+ZKN_COMMENT_B_723_000, CE98DD276C43E76D, It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.
+ZKN_COMMENT_B_724_000, 8F34354424A7AC5C, In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.
+ZKN_COMMENT_B_725_000, 17C87B5539AE56BF, Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.
+ZKN_COMMENT_B_726_000, E8D6CB333D655856, When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.
+ZKN_COMMENT_B_727_000, C8D30D1BAB8DE939, Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.
+ZKN_COMMENT_B_728_000, 11887AFEB4F9EE78, If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.
+ZKN_COMMENT_B_729_000, DD2E9CE686DB077B, On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them.
+ZKN_COMMENT_B_730_000, BEECC14BCF3E4449, For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience.
+ZKN_COMMENT_B_731_000, 3259017B62842D26, 
+ZKN_COMMENT_B_732_000, DE2AF855D5F8B4F, 
+ZKN_COMMENT_B_733_000, 86A2E75EBAE8E32C, 
+ZKN_COMMENT_B_734_000, 1AC50F44768473BD, 
+ZKN_COMMENT_B_735_000, 537BE9318B36A6BA, 
+ZKN_COMMENT_B_736_000, 6DB9D73D5C5817A3, It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.
+ZKN_COMMENT_B_737_000, 8DAF176A7CB44720, Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.
+ZKN_COMMENT_B_738_000, 223E3F5038ACA991, If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.
+ZKN_COMMENT_B_739_000, 5A971727BE7E23CE, 
+ZKN_COMMENT_B_740_000, D6BA29523F7BE3A6, 
+ZKN_COMMENT_B_741_000, 634DE922AC35FAC9, 
+ZKN_COMMENT_B_742_000, 2B040F3597E099AC, An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.
+ZKN_COMMENT_B_743_000, B243D75C3A5741CF, Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.
+ZKN_COMMENT_B_744_000, F7DD1108682E5D3A, This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.
+ZKN_COMMENT_B_745_000, BF26371B537C2A3D, With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.
+ZKN_COMMENT_B_746_000, 32103F4159ABFDA0, When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.
+ZKN_COMMENT_B_747_000, 121AFF14394FCE23, Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.
+ZKN_COMMENT_B_748_000, FEF83EFE9B75DA4E, Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.
+ZKN_COMMENT_B_749_000, C69F672715A46011, It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.
+ZKN_COMMENT_B_750_000, A4547865B7C0E51F, Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.
+ZKN_COMMENT_B_751_000, C9AC2E2713DBC33C, Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.
+ZKN_COMMENT_B_752_000, FDF70E54D07E9119, It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.
+ZKN_COMMENT_B_753_000, 7715C843BCE97B36, During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night.
+ZKN_COMMENT_B_754_000, AF6E201B42BA1BF3, The petals on this Pokémon’s arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.
+ZKN_COMMENT_B_755_000, 2575DE3549A67CB0, Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.
+ZKN_COMMENT_B_756_000, 5F81D60CD0E9C1CD, If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep.
+ZKN_COMMENT_B_757_000, 9286363A8C76F38A, This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.
+ZKN_COMMENT_B_758_000, BA4F02978E1DDA7, The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.
+ZKN_COMMENT_B_759_000, 4543C800FFC81A84, The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.
+ZKN_COMMENT_B_760_000, BB68D5EB6EAFA8D4, The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.
+ZKN_COMMENT_B_761_000, 831EFBFE5A5A47B7, When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.
+ZKN_COMMENT_B_762_000, 68E0EDF28938A06E, Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.
+ZKN_COMMENT_B_763_000, 34290DC4CC3900B1, A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal.
+ZKN_COMMENT_B_764_000, 174183E415F67B68, These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.
+ZKN_COMMENT_B_765_000, 8DCC23B3E4F7862B, It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.
+ZKN_COMMENT_B_766_000, 738E15A813D5DEE2, Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.
+ZKN_COMMENT_B_767_000, 4FF7DDD12AA7D4E5, Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy’s presence.
+ZKN_COMMENT_B_768_000, 402F3E2711A40A4C, They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal.
+ZKN_COMMENT_B_769_000, 1FCD7DF9F0EBE26F, Sandygast mainly inhabits beaches. It takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.
+ZKN_COMMENT_B_770_000, 72FA04FE493B9DED, This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain.
+ZKN_COMMENT_B_771_000, 1C35CD8447E022A, It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.
+ZKN_COMMENT_B_772_000, 1C014AE4159F7313, It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.
+ZKN_COMMENT_B_773_000, 3E4284D08C3CA150, The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.
+ZKN_COMMENT_B_774_000, 6D3434F288859FB9, 
+ZKN_COMMENT_B_775_000, 8D37F30A1A5D0ED6, 
+ZKN_COMMENT_B_776_000, BC29A32C16A60D3F, Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.
+ZKN_COMMENT_B_777_000, 33955D1B019F62DC, When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.
+ZKN_COMMENT_B_778_000, EFF57AAD1934B3B5, There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.
+ZKN_COMMENT_B_779_000, 68A6B49C0541F272, 
+ZKN_COMMENT_B_780_000, C6F06C210D24F1DA, Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.
+ZKN_COMMENT_B_781_000, 8B8F965F1351075D, After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.
+ZKN_COMMENT_B_782_000, 56D7963156513140, Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal.
+ZKN_COMMENT_B_783_000, DE845E57F924AB43, Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.
+ZKN_COMMENT_B_784_000, A5CD846AE4727846, Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.
+ZKN_COMMENT_B_789_000, 7358E2370B867E5, Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.
+ZKN_COMMENT_B_790_000, D33EFB365BB00613, It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.
+ZKN_COMMENT_B_791_000, F5803522D24D3450, Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.
+ZKN_COMMENT_B_792_000, 2A37B5508F4C30ED, It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.
+ZKN_COMMENT_B_800_000, 20AB4454B48E727, It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.
+ZKN_COMMENT_B_801_000, 3BA98C1CD22F2404, 
+ZKN_COMMENT_B_802_000, 5BAD4A3464069321, This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time.
+ZKN_COMMENT_B_807_000, EFCFD21A1FA2C6D2, Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes.
+ZKN_COMMENT_B_808_000, 9ABA3C818A27EE9F, They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.
+ZKN_COMMENT_B_809_000, C011F242E642CCBC, Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.
+ZKN_COMMENT_B_810_000, F55E031A6DDCE3CE, It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.
+ZKN_COMMENT_B_811_000, BD052B42E80B6991, When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.
+ZKN_COMMENT_B_812_000, 9CA36B15C75341B4, The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.
+ZKN_COMMENT_B_813_000, CF1955159DBFA17, It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat.
+ZKN_COMMENT_B_814_000, 5127B328A3A79D42, It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.
+ZKN_COMMENT_B_815_000, DC74F2F90F4C1845, It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.
+ZKN_COMMENT_B_816_000, A2C71D3716E9C248, When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.
+ZKN_COMMENT_B_817_000, 6E0F3D0959EA228B, Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.
+ZKN_COMMENT_B_818_000, CD1FED6E11E2ED26, Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.
+ZKN_COMMENT_B_819_000, 59B3AD3E7E9D0449, It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.
+ZKN_COMMENT_B_820_000, E65B3EC8EB9BBD35, Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.
+ZKN_COMMENT_B_821_000, 5F0C78B7D7A8FBF2, Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.
+ZKN_COMMENT_B_822_000, 77F588D93639C77B, The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength.
+ZKN_COMMENT_B_823_000, AC4F66F16458AE78, With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.
+ZKN_COMMENT_B_824_000, C93770D21A9C0D41, Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.
+ZKN_COMMENT_B_825_000, FDEED0FFD79AD37E, As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.
+ZKN_COMMENT_B_826_000, 182CDF0BA8BC7AC7, It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.
+ZKN_COMMENT_B_827_000, 51CBB6E32FA2B7A4, Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.
+ZKN_COMMENT_B_828_000, 695FC91A1BA2A76D, With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.
+ZKN_COMMENT_B_829_000, F82920F416E50BAA, It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.
+ZKN_COMMENT_B_830_000, AE1D0A670422511C, The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.
+ZKN_COMMENT_B_831_000, 36B150781928FB7F, If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.
+ZKN_COMMENT_B_832_000, 7BFA0561CDFFD16, Its majestic horns are meant only to impress the opposite gender. They never see use in battle.
+ZKN_COMMENT_B_833_000, E267EA94C0C51EF9, It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.
+ZKN_COMMENT_B_834_000, B3763A72C47C2090, This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.
+ZKN_COMMENT_B_835_000, 913500864DDEF253, This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.
+ZKN_COMMENT_B_836_000, 76F7127A7CBD816A, It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.
+ZKN_COMMENT_B_837_000, ED81B24A4BBE8C2D, It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.
+ZKN_COMMENT_B_838_000, D099A869957B2D64, By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.
+ZKN_COMMENT_B_839_000, 9C4EC83BD8D85F87, While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.
+ZKN_COMMENT_B_840_000, A1CE5B51B5970683, As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.
+ZKN_COMMENT_B_841_000, 14CD9B8148801D80, It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.
+ZKN_COMMENT_B_842_000, 4ED99358CFC3629D, Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.
+ZKN_COMMENT_B_843_000, 84E67170FF53DE1A, It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.
+ZKN_COMMENT_B_844_000, 9501339C292B61AF, Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.
+ZKN_COMMENT_B_845_000, BAB6EB731426F88C, This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
+ZKN_COMMENT_B_846_000, 4514C98DB75AD129, After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.
+ZKN_COMMENT_B_847_000, 69178164A0E4D386, It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.
+ZKN_COMMENT_B_848_000, 2FFD9561D37056B, It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.
+ZKN_COMMENT_B_849_000, 91C93130187969A8, This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.
+ZKN_COMMENT_B_850_000, E48AD27F81E6468A, It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.
+ZKN_COMMENT_B_851_000, B1867251C65914CD, While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.
+ZKN_COMMENT_B_852_000, 777A7A7A3F15CFB0, Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.
+ZKN_COMMENT_B_853_000, 172BC6038296EF3, Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.
+ZKN_COMMENT_B_854_000, C91A6488B258CE36, The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.
+ZKN_COMMENT_B_855_000, 4FFBAA99C5EDE419, Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.
+ZKN_COMMENT_B_856_000, 1BB0CA6C094B163C, If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.
+ZKN_COMMENT_B_857_000, F65914AAAD30381F, Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.
+ZKN_COMMENT_B_858_000, 4B6EAA4342AB1052, If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.
+ZKN_COMMENT_B_859_000, 2BD76C2BB12F9995, It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.
+ZKN_COMMENT_B_860_000, 18A4036C0B13B311, With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.
+ZKN_COMMENT_B_861_000, 50FCDB4390E52D4E, Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.
+ZKN_COMMENT_B_862_000, 68906D7A7CE44397, It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.
+ZKN_COMMENT_B_863_000, F842433EEA5B8B34, After many battles, it evolved dangerous claws that come together to form daggers when extended.
+ZKN_COMMENT_B_864_000, 3813CB22325461C5, Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.
+ZKN_COMMENT_B_865_000, ACC68B51C6AFE6C2, After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.
+ZKN_COMMENT_B_866_000, C9AE15327CF26C0B, Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.
+ZKN_COMMENT_B_867_000, FE65F56039F20BC8, Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.
+ZKN_COMMENT_B_868_000, B5528567A1A54DC9, They say that any patisserie visited by Milcery is guaranteed success and good fortune.
+ZKN_COMMENT_B_869_000, 28BEC59734EB36A6, When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
+ZKN_COMMENT_B_870_000, 7EE3F1A8760F7F8, The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.
+ZKN_COMMENT_B_871_000, D3946102594210FB, It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.
+ZKN_COMMENT_B_872_000, BAAB50E0FAB14572, It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.
+ZKN_COMMENT_B_873_000, 41FA16F20EA406B5, It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.
+ZKN_COMMENT_B_874_000, AD6A8F0C52AB0124, Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.
+ZKN_COMMENT_B_875_000, 73CBB734CBC4C447, This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.
+ZKN_COMMENT_B_876_000, 598DA928FAA31CFE, Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.
+ZKN_COMMENT_B_877_000, 24D648FB3DA456C1, It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.
+ZKN_COMMENT_B_878_000, 9047211581ABF450, If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.
+ZKN_COMMENT_B_879_000, 6E05E7290B0EC613, These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.
+ZKN_COMMENT_B_880_000, 758DD455F6C99D0F, The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.
+ZKN_COMMENT_B_881_000, E8FA14858A0F85EC, This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.
+ZKN_COMMENT_B_882_000, 2143EE729E64E709, Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.
+ZKN_COMMENT_B_883_000, 9A04264BFBEE3EE6, The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.
+ZKN_COMMENT_B_884_000, D01104642B7EBA63, The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.
+ZKN_COMMENT_B_885_000, F55A3C3B161E58E0, If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.
+ZKN_COMMENT_B_886_000, 7D1C3C6B45AB167D, Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.
+ZKN_COMMENT_B_887_000, B5D316585A5D497A, Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
+ZKN_COMMENT_B_888_000, D9D5CE2F43E74BD7, This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.
+ZKN_COMMENT_B_889_000, 6433AC49E71B2474, This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.
+ZKN_COMMENT_B_890_000, 5081F003D6CF6A16, It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
+ZKN_COMMENT_B_891_000, 2B2A3A427AB48BF9, If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.
+ZKN_COMMENT_B_892_000, F6DF5A14BE11BE1C, Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.
+ZKN_COMMENT_B_893_000, 7F73A025D318687F, Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.
+ZKN_COMMENT_B_003_001, E6E401F2FFF446C9, 
+ZKN_COMMENT_B_003_999, 348476F32BD43493, Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
+ZKN_COMMENT_B_006_001, CCA611E72ED2D27A, 
+ZKN_COMMENT_B_006_002, CCA610E72ED2D0C7, 
+ZKN_COMMENT_B_006_999, A0A1CE751CF4FB0, The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
+ZKN_COMMENT_B_009_001, AFBE0A06788F7717, 
+ZKN_COMMENT_B_009_999, 72905F0655C12C71, Water fired from this Pokémon’s central main cannon has enough power to blast a hole into a mountain.
+ZKN_COMMENT_B_012_999, E77BC210231B3009, Once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.
+ZKN_COMMENT_B_015_001, 2DFDF2F5B2D7A8EA, 
+ZKN_COMMENT_B_018_001, C28CFCDB6ECFD861, 
+ZKN_COMMENT_B_019_001, 88812303E78CC63E, 
+ZKN_COMMENT_B_020_001, 90AAD1EEA96D5B1A, 
+ZKN_COMMENT_B_020_002, 90AAD0EEA96D5967, 
+ZKN_COMMENT_B_025_001, A83EC625956D17E9, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled across many regions together.
+ZKN_COMMENT_B_025_002, A83EC325956D12D0, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Hoenn region together.
+ZKN_COMMENT_B_025_003, A83EC425956D1483, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Sinnoh region together.
+ZKN_COMMENT_B_025_004, A83EC925956D1D02, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Unova region together.
+ZKN_COMMENT_B_025_005, A83ECA25956D1EB5, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Kalos region together
+ZKN_COMMENT_B_025_006, A83EC725956D199C, This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Alola region together.
+ZKN_COMMENT_B_025_007, A83EC825956D1B4F, This Pikachu is wearing its Trainer’s cap. The cap is a precious symbol of a fateful encounter.
+ZKN_COMMENT_B_025_008, A83ECD25956D23CE, 
+ZKN_COMMENT_B_025_009, A83ECE25956D2581, This Pikachu is wearing its Trainer’s cap. The cap is a precious symbol that travels across different regions with Pikachu.
+ZKN_COMMENT_B_025_999, F5DEBB25C14C2C33, When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
+ZKN_COMMENT_B_026_001, D57D744790447E6C, This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.
+ZKN_COMMENT_B_027_001, FAD52C08EC5F5FEF, It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away.
+ZKN_COMMENT_B_028_001, AFBCBC89443DFE2, Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn.
+ZKN_COMMENT_B_037_001, 17382ABF1568A812, If you observe its curly hairs through a microscope, you’ll see small ice particles springing up.
+ZKN_COMMENT_B_038_001, 5C2D0D177064365F, While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature.
+ZKN_COMMENT_B_050_001, A4B71389EC597B95, Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon.
+ZKN_COMMENT_B_051_001, 8120D9B3032B6E32, The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents.
+ZKN_COMMENT_B_052_001, 486A81C5EE7A181B, Deeply proud and keenly smart, this Pokémon moves with cunning during battle and relentlessly attacks enemies’ weak points.
+ZKN_COMMENT_B_052_002, 486A82C5EE7A19CE, These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
+ZKN_COMMENT_B_052_999, CB966C5CCEF1435, Its body has grown incredibly long and the coin on its forehead has grown incredibly large—all thanks to Gigantamax power.
+ZKN_COMMENT_B_053_001, BEF51F95BD7B1F78, This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty.
+ZKN_COMMENT_B_065_001, BFA9AB370570714D, 
+ZKN_COMMENT_B_068_999, 2184162D2D91A824, One of these Pokémon once used its immeasurable strength to lift a large ship that was in trouble. It then carried the ship to port.
+ZKN_COMMENT_B_074_001, 567404320F67A96F, 
+ZKN_COMMENT_B_075_001, 311C4C70B34CC7EC, 
+ZKN_COMMENT_B_076_001, 3DD9E4EB8756169, 
+ZKN_COMMENT_B_077_001, 8ABEE25FCC0A73E6, This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
+ZKN_COMMENT_B_078_001, D7D14E17BC09C88B, Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
+ZKN_COMMENT_B_079_001, 9F1AF22AA7586BA8, Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
+ZKN_COMMENT_B_080_001, A353A5408300D364, 
+ZKN_COMMENT_B_080_002, A353A8408300D87D, If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
+ZKN_COMMENT_B_083_001, 8BC015099701C081, The stalks of leeks are thicker and longer in the Galar region. Farfetch’d that adapted to these stalks took on a unique form.
+ZKN_COMMENT_B_088_001, 3F0BAB6735E3249C, 
+ZKN_COMMENT_B_089_001, B7CBE540936C7FDF, 
+ZKN_COMMENT_B_094_001, F56E8AA700CDD8A5, 
+ZKN_COMMENT_B_094_999, 43457FA72CDC2F5F, It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you’ll hear your loved ones’ voices calling out to you.
+ZKN_COMMENT_B_099_999, AC9223FD586018DC, The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
+ZKN_COMMENT_B_103_001, D22C75F0BCAA5CE, This Pokémon’s psychic powers aren’t as strong as they once were. The head on this Exeggutor’s tail scans surrounding areas with weak telepathy.
+ZKN_COMMENT_B_105_001, BBE0DF6627686008, The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade.
+ZKN_COMMENT_B_105_002, BBE0E26627686521, 
+ZKN_COMMENT_B_110_001, F97751C41711CC4A, Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
+ZKN_COMMENT_B_115_001, 165F3DA4CD54F819, 
+ZKN_COMMENT_B_122_001, 3FD4ACFD77168AF, It can radiate chilliness from the bottoms of its feet. It’ll spend the whole day tap-dancing on a frozen floor.
+ZKN_COMMENT_B_127_001, E9BF3AC4064FBE00, 
+ZKN_COMMENT_B_130_001, 82A1A9A9C1951FBC, 
+ZKN_COMMENT_B_131_999, F0A3E0D70E2D38C9, It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.
+ZKN_COMMENT_B_133_001, 516401C86F0B25F9, 
+ZKN_COMMENT_B_133_999, 9F0476C89AEB13C3, Having gotten even friendlier and more innocent, Eevee tries to play with anyone around, only to end up crushing them with its immense body.
+ZKN_COMMENT_B_142_001, 8DCD05DA4ECC4C2D, 
+ZKN_COMMENT_B_143_999, 927A34ED5D169300, Terrifyingly strong, this Pokémon is the size of a mountain—and moves about as much as one as well.
+ZKN_COMMENT_B_150_001, 993AF8D0815FEBA6, 
+ZKN_COMMENT_B_150_002, 993AF7D0815FE9F3, 
+ZKN_COMMENT_B_181_001, 9B373B0A8BAA892C, 
+ZKN_COMMENT_B_201_001, 7B263494DB6F4A59, 
+ZKN_COMMENT_B_201_002, 7B263194DB6F4540, 
+ZKN_COMMENT_B_201_003, 7B263294DB6F46F3, 
+ZKN_COMMENT_B_201_004, 7B263794DB6F4F72, 
+ZKN_COMMENT_B_201_005, 7B263894DB6F5125, 
+ZKN_COMMENT_B_201_006, 7B263594DB6F4C0C, 
+ZKN_COMMENT_B_201_007, 7B263694DB6F4DBF, 
+ZKN_COMMENT_B_201_008, 7B263B94DB6F563E, 
+ZKN_COMMENT_B_201_009, 7B263C94DB6F57F1, 
+ZKN_COMMENT_B_201_010, 7B29B994DB72622F, 
+ZKN_COMMENT_B_201_011, 7B29B894DB72607C, 
+ZKN_COMMENT_B_201_012, 7B29BB94DB726595, 
+ZKN_COMMENT_B_201_013, 7B29BA94DB7263E2, 
+ZKN_COMMENT_B_201_014, 7B29B594DB725B63, 
+ZKN_COMMENT_B_201_015, 7B29B494DB7259B0, 
+ZKN_COMMENT_B_201_016, 7B29B794DB725EC9, 
+ZKN_COMMENT_B_201_017, 7B29B694DB725D16, 
+ZKN_COMMENT_B_201_018, 7B29C194DB726FC7, 
+ZKN_COMMENT_B_201_019, 7B29C094DB726E14, 
+ZKN_COMMENT_B_201_020, 7B1FC794DB6A2574, 
+ZKN_COMMENT_B_201_021, 7B1FC894DB6A2727, 
+ZKN_COMMENT_B_201_022, 7B1FC994DB6A28DA, 
+ZKN_COMMENT_B_201_023, 7B1FCA94DB6A2A8D, 
+ZKN_COMMENT_B_201_024, 7B1FC394DB6A1EA8, 
+ZKN_COMMENT_B_201_025, 7B1FC494DB6A205B, 
+ZKN_COMMENT_B_201_026, 7B1FC594DB6A220E, 
+ZKN_COMMENT_B_201_027, 7B1FC694DB6A23C1, 
+ZKN_COMMENT_B_208_001, 6B0B7069B197C35E, 
+ZKN_COMMENT_B_212_001, A62F681AE07168DD, 
+ZKN_COMMENT_B_214_001, D801685D9D92C98F, 
+ZKN_COMMENT_B_222_001, FA1CEFF92797C522, Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others’ life-force through its branches.
+ZKN_COMMENT_B_229_001, 4B13F7F17FC16DA3, 
+ZKN_COMMENT_B_248_001, 38C2ABC6921FCD82, 
+ZKN_COMMENT_B_254_001, 600EB6FD8EE1989B, 
+ZKN_COMMENT_B_257_001, 98C50EEAA392EEB2, 
+ZKN_COMMENT_B_260_001, ED21A97F30ABFEEC, 
+ZKN_COMMENT_B_263_001, BFE2FB5D35D49869, Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.
+ZKN_COMMENT_B_264_001, F83B5134BBA535C0, This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
+ZKN_COMMENT_B_282_001, E880B837F50D5E34, 
+ZKN_COMMENT_B_302_001, E5709E2F403E5EE7, 
+ZKN_COMMENT_B_303_001, 55BEC66AD2C713E4, 
+ZKN_COMMENT_B_306_001, EB9450508FD4DF7B, 
+ZKN_COMMENT_B_308_001, 15ED20878ACE0A59, 
+ZKN_COMMENT_B_310_001, 4AD7E55EC43400F4, 
+ZKN_COMMENT_B_319_001, 8DF255C5F2DE9EF, 
+ZKN_COMMENT_B_323_001, 2B351BAE39B038C6, 
+ZKN_COMMENT_B_334_001, 1204A1EB9387270E, 
+ZKN_COMMENT_B_351_001, 5D9ACE9AC16B3AB3, 
+ZKN_COMMENT_B_351_002, 5D9ACF9AC16B3C66, 
+ZKN_COMMENT_B_351_003, 5D9AD09AC16B3E19, 
+ZKN_COMMENT_B_354_001, DDCE64B5A2167B7C, 
+ZKN_COMMENT_B_359_001, DA966449916486DB, 
+ZKN_COMMENT_B_362_001, 37883FA739C62A5, 
+ZKN_COMMENT_B_373_001, 410F76586346A867, 
+ZKN_COMMENT_B_376_001, 127B464BF5DD85D8, 
+ZKN_COMMENT_B_380_001, 994F231D4FBA8749, 
+ZKN_COMMENT_B_381_001, 73F76B5BF39FA5C6, 
+ZKN_COMMENT_B_382_001, 3FAC8D2E36FCDB4F, 
+ZKN_COMMENT_B_383_001, C840D13F4C03824C, 
+ZKN_COMMENT_B_384_001, 8869541AF980B9D, 
+ZKN_COMMENT_B_386_001, 4505BD39F756AAC3, 
+ZKN_COMMENT_B_386_002, 4505BE39F756AC76, 
+ZKN_COMMENT_B_386_003, 4505BF39F756AE29, 
+ZKN_COMMENT_B_412_001, DB5E25107D5BE593, 
+ZKN_COMMENT_B_412_002, DB5E26107D5BE746, 
+ZKN_COMMENT_B_413_001, B614EB3992BC43B0, 
+ZKN_COMMENT_B_413_002, B614EE3992BC48C9, 
+ZKN_COMMENT_B_414_001, 80080F21632BCB99, 
+ZKN_COMMENT_B_414_002, 80080C21632BC680, 
+ZKN_COMMENT_B_421_001, B0D6F2B328E3B1F1, The faint scent that emanates from its full blossom entices bug Pokémon to it.
+ZKN_COMMENT_B_422_001, CB14FEBEFA0555D4, Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.
+ZKN_COMMENT_B_423_001, FF5FE0ECB6A82717, Its body is covered in a sticky slime. It’s very susceptible to dehydration, so it can’t spend too much time on land.
+ZKN_COMMENT_B_428_001, 112E2117E1F21546, 
+ZKN_COMMENT_B_445_001, FA1066C1452A573B, 
+ZKN_COMMENT_B_448_001, FFF2E3023AFEDCDC, 
+ZKN_COMMENT_B_460_001, 9DA6E9772B4F6FF2, 
+ZKN_COMMENT_B_475_001, F3C3AB3219942910, 
+ZKN_COMMENT_B_479_001, 4F9BF92AC0DA5884, This form of Rotom enjoys making mischief by turning up the heat. It will gleefully burn your favorite outfit.
+ZKN_COMMENT_B_479_002, 4F9BFC2AC0DA5D9D, This Rotom has possessed a washing machine that uses a special motor. It blasts out water to get enemies to back down.
+ZKN_COMMENT_B_479_003, 4F9BFB2AC0DA5BEA, When it’s like this, Rotom likes to play pranks that are freezing cold. You may find it’s turned the bath you just filled to solid ice!
+ZKN_COMMENT_B_479_004, 4F9BF62AC0DA536B, This Rotom has taken over a fan that has a special motor. Its gusts of wind blow its opponents away!
+ZKN_COMMENT_B_479_005, 4F9BF52AC0DA51B8, In this form, Rotom focuses its antics on plants. Any flowers you were growing are going to get mowed down.
+ZKN_COMMENT_B_492_001, 951B960F395D05B, 
+ZKN_COMMENT_B_493_001, 7A885F86F85368B8, 
+ZKN_COMMENT_B_493_002, 7A886286F8536DD1, 
+ZKN_COMMENT_B_493_003, 7A886186F8536C1E, 
+ZKN_COMMENT_B_493_004, 7A886486F8537137, 
+ZKN_COMMENT_B_493_005, 7A886386F8536F84, 
+ZKN_COMMENT_B_493_006, 7A886686F853749D, 
+ZKN_COMMENT_B_493_007, 7A886586F85372EA, 
+ZKN_COMMENT_B_493_008, 7A885886F8535CD3, 
+ZKN_COMMENT_B_493_009, 7A885786F8535B20, 
+ZKN_COMMENT_B_493_010, 7A84DA86F85050E2, 
+ZKN_COMMENT_B_493_011, 7A84DB86F8505295, 
+ZKN_COMMENT_B_493_012, 7A84D886F8504D7C, 
+ZKN_COMMENT_B_493_013, 7A84D986F8504F2F, 
+ZKN_COMMENT_B_493_014, 7A84D686F8504A16, 
+ZKN_COMMENT_B_493_015, 7A84D786F8504BC9, 
+ZKN_COMMENT_B_493_016, 7A84D486F85046B0, 
+ZKN_COMMENT_B_493_017, 7A84D586F8504863, 
+ZKN_COMMENT_B_521_001, 2570079457FD8B3A, This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.
+ZKN_COMMENT_B_531_001, E48643D7686DEE53, 
+ZKN_COMMENT_B_550_001, 826E94C9A664F22, Known for their violence, these Pokémon have the most fights with schools of red- striped Basculin.
+ZKN_COMMENT_B_554_001, 98EF97283A89012E, The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights.
+ZKN_COMMENT_B_555_001, 2264F9586B87F9D1, When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
+ZKN_COMMENT_B_555_002, 2264F6586B87F4B8, Though it has a gentle disposition, it’s also very strong. It will quickly freeze the snowball on its head before going for a headbutt.
+ZKN_COMMENT_B_555_003, 2264F7586B87F66B, Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
+ZKN_COMMENT_B_562_001, 124002585A695007, It’s said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit.
+ZKN_COMMENT_B_569_999, D79AD9583DB11E0C, It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones.
+ZKN_COMMENT_B_585_001, 91B01C92610E59C, 
+ZKN_COMMENT_B_585_002, 91B04C92610EAB5, 
+ZKN_COMMENT_B_585_003, 91B03C92610E902, 
+ZKN_COMMENT_B_586_001, 2D9155BF2B358AD9, 
+ZKN_COMMENT_B_586_002, 2D9152BF2B3585C0, 
+ZKN_COMMENT_B_586_003, 2D9153BF2B358773, 
+ZKN_COMMENT_B_592_001, FB2BA2D2A37A88EC, Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers.
+ZKN_COMMENT_B_593_001, 20835A93FF956A6F, The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures.
+ZKN_COMMENT_B_618_001, 2A6D3F54168D5BCF, Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+ZKN_COMMENT_B_646_001, FC90E0D3B06CEC00, It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future.
+ZKN_COMMENT_B_646_002, FC90E3D3B06CF119, The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
+ZKN_COMMENT_B_648_001, B7BE3E7AC995C8AE, 
+ZKN_COMMENT_B_658_001, FED8137D7C78FB3B, 
+ZKN_COMMENT_B_658_002, FED8147D7C78FCEE, 
+ZKN_COMMENT_B_664_001, 79F6DC376F483D44, 
+ZKN_COMMENT_B_664_002, 79F6DF376F48425D, 
+ZKN_COMMENT_B_664_003, 79F6DE376F4840AA, 
+ZKN_COMMENT_B_664_004, 79F6D9376F48382B, 
+ZKN_COMMENT_B_664_005, 79F6D8376F483678, 
+ZKN_COMMENT_B_664_006, 79F6DB376F483B91, 
+ZKN_COMMENT_B_664_007, 79F6DA376F4839DE, 
+ZKN_COMMENT_B_664_008, 79F6D5376F48315F, 
+ZKN_COMMENT_B_664_009, 79F6D4376F482FAC, 
+ZKN_COMMENT_B_664_010, 79F357376F45256E, 
+ZKN_COMMENT_B_664_011, 79F358376F452721, 
+ZKN_COMMENT_B_664_012, 79F355376F452208, 
+ZKN_COMMENT_B_664_013, 79F356376F4523BB, 
+ZKN_COMMENT_B_664_014, 79F35B376F452C3A, 
+ZKN_COMMENT_B_664_015, 79F35C376F452DED, 
+ZKN_COMMENT_B_664_016, 79F359376F4528D4, 
+ZKN_COMMENT_B_664_017, 79F35A376F452A87, 
+ZKN_COMMENT_B_664_018, 79F34F376F4517D6, 
+ZKN_COMMENT_B_664_019, 79F350376F451989, 
+ZKN_COMMENT_B_665_001, B240B824839DA1C7, 
+ZKN_COMMENT_B_665_002, B240B924839DA37A, 
+ZKN_COMMENT_B_665_003, B240BA24839DA52D, 
+ZKN_COMMENT_B_665_004, B240B324839D9948, 
+ZKN_COMMENT_B_665_005, B240B424839D9AFB, 
+ZKN_COMMENT_B_665_006, B240B524839D9CAE, 
+ZKN_COMMENT_B_665_007, B240B624839D9E61, 
+ZKN_COMMENT_B_665_008, B240AF24839D927C, 
+ZKN_COMMENT_B_665_009, B240B024839D942F, 
+ZKN_COMMENT_B_665_010, B2443D2483A0B99D, 
+ZKN_COMMENT_B_665_011, B2443C2483A0B7EA, 
+ZKN_COMMENT_B_665_012, B2443B2483A0B637, 
+ZKN_COMMENT_B_665_013, B2443A2483A0B484, 
+ZKN_COMMENT_B_665_014, B244392483A0B2D1, 
+ZKN_COMMENT_B_665_015, B244382483A0B11E, 
+ZKN_COMMENT_B_665_016, B244372483A0AF6B, 
+ZKN_COMMENT_B_665_017, B244362483A0ADB8, 
+ZKN_COMMENT_B_665_018, B244352483A0AC05, 
+ZKN_COMMENT_B_665_019, B244342483A0AA52, 
+ZKN_COMMENT_B_666_001, 25ACF65416E3873E, 
+ZKN_COMMENT_B_666_002, 25ACF55416E3858B, 
+ZKN_COMMENT_B_666_003, 25ACF45416E383D8, 
+ZKN_COMMENT_B_666_004, 25ACFB5416E38FBD, 
+ZKN_COMMENT_B_666_005, 25ACFA5416E38E0A, 
+ZKN_COMMENT_B_666_006, 25ACF95416E38C57, 
+ZKN_COMMENT_B_666_007, 25ACF85416E38AA4, 
+ZKN_COMMENT_B_666_008, 25ACEF5416E37B59, 
+ZKN_COMMENT_B_666_009, 25ACEE5416E379A6, 
+ZKN_COMMENT_B_666_010, 25A9F15416E148E8, 
+ZKN_COMMENT_B_666_011, 25A9F25416E14A9B, 
+ZKN_COMMENT_B_666_012, 25A9F35416E14C4E, 
+ZKN_COMMENT_B_666_013, 25A9F45416E14E01, 
+ZKN_COMMENT_B_666_014, 25A9F55416E14FB4, 
+ZKN_COMMENT_B_666_015, 25A9F65416E15167, 
+ZKN_COMMENT_B_666_016, 25A9F75416E1531A, 
+ZKN_COMMENT_B_666_017, 25A9F85416E154CD, 
+ZKN_COMMENT_B_666_018, 25A9E95416E13B50, 
+ZKN_COMMENT_B_666_019, 25A9EA5416E13D03, 
+ZKN_COMMENT_B_669_001, 911DD06E5AEB2833, 
+ZKN_COMMENT_B_669_002, 911DD16E5AEB29E6, 
+ZKN_COMMENT_B_669_003, 911DD26E5AEB2B99, 
+ZKN_COMMENT_B_669_004, 911DD36E5AEB2D4C, 
+ZKN_COMMENT_B_670_001, C7BEDF3055161B05, 
+ZKN_COMMENT_B_670_002, C7BEDC30551615EC, 
+ZKN_COMMENT_B_670_003, C7BEDD305516179F, 
+ZKN_COMMENT_B_670_004, C7BEDA3055161286, 
+ZKN_COMMENT_B_670_005, C7BEDB3055161439, 
+ZKN_COMMENT_B_671_001, A8279F18C39AA0E2, 
+ZKN_COMMENT_B_671_002, A8279E18C39A9F2F, 
+ZKN_COMMENT_B_671_003, A8279D18C39A9D7C, 
+ZKN_COMMENT_B_671_004, A8279C18C39A9BC9, 
+ZKN_COMMENT_B_676_001, 1398993307A27837, 
+ZKN_COMMENT_B_676_002, 13989A3307A279EA, 
+ZKN_COMMENT_B_676_003, 13989B3307A27B9D, 
+ZKN_COMMENT_B_676_004, 1398943307A26FB8, 
+ZKN_COMMENT_B_676_005, 1398953307A2716B, 
+ZKN_COMMENT_B_676_006, 1398963307A2731E, 
+ZKN_COMMENT_B_676_007, 1398973307A274D1, 
+ZKN_COMMENT_B_676_008, 1398903307A268EC, 
+ZKN_COMMENT_B_676_009, 1398913307A26A9F, 
+ZKN_COMMENT_B_678_001, 60DB076C9451513D, If it doesn’t hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm.
+ZKN_COMMENT_B_681_001, 235DB759781E6485, Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
+ZKN_COMMENT_B_710_001, EF2403C268FC5AE8, Small Pumpkaboo are said to be the product of areas where few lost souls lingered.
+ZKN_COMMENT_B_710_002, EF2406C268FC6001, Large Pumpkaboo are said to be the product of areas where many lost souls lingered.
+ZKN_COMMENT_B_710_003, EF2405C268FC5E4E, Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered.
+ZKN_COMMENT_B_711_001, 27DA5FAF7DADB7CB, A small-sized Pumpkaboo evolves into a small-sized Gourgeist. Its bodily proportions also get passed on to its descendants.
+ZKN_COMMENT_B_711_002, 27DA60AF7DADB97E, A large-sized Pumpkaboo evolves into a large-sized Gourgeist. Its bodily proportions also get passed on to its descendants.
+ZKN_COMMENT_B_711_003, 27DA61AF7DADBB31, A supersized Pumpkaboo evolves into a supersized Gourgeist. Its bodily proportions also get passed on to its descendants.
+ZKN_COMMENT_B_719_001, 246C5D806D65223, 
+ZKN_COMMENT_B_720_001, 99E15DF9AF44EC83, 
+ZKN_COMMENT_B_735_001, 537BEA318B36A86D, 
+ZKN_COMMENT_B_738_001, 223E3E5038ACA7DE, 
+ZKN_COMMENT_B_741_001, 634DE822AC35F916, 
+ZKN_COMMENT_B_741_002, 634DE722AC35F763, 
+ZKN_COMMENT_B_741_003, 634DE622AC35F5B0, 
+ZKN_COMMENT_B_743_001, B243D65C3A57401C, 
+ZKN_COMMENT_B_744_001, F7DD1208682E5EED, This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.
+ZKN_COMMENT_B_745_001, BF26361B537C288A, It’s invigorated by powerful opponents—the stronger the better. A full-force headbutt from one of these Lycanroc can shatter giant boulders.
+ZKN_COMMENT_B_745_002, BF26351B537C26D7, These Pokémon have both calm and ferocious qualities. Their temperamental nature makes them a difficult species to raise.
+ZKN_COMMENT_B_746_001, 3210404159ABFF53, When facing tough opponents, they get into formation. But if they get wounded in battle, they’ll scatter and become solitary again.
+ZKN_COMMENT_B_752_001, FDF70D54D07E8F66, 
+ZKN_COMMENT_B_754_001, AF6E1F1B42BA1A40, 
+ZKN_COMMENT_B_758_001, BA4EF2978E1DBF4, 
+ZKN_COMMENT_B_773_001, 3E4285D08C3CA303, It has the ability to change its type based on the memory it’s holding. This is its Fighting-type form.
+ZKN_COMMENT_B_773_002, 3E4286D08C3CA4B6, It has the ability to change its type based on the memory it’s holding. This is its Flying-type form.
+ZKN_COMMENT_B_773_003, 3E4287D08C3CA669, It has the ability to change its type based on the memory it’s holding. This is its Poison-type form.
+ZKN_COMMENT_B_773_004, 3E4288D08C3CA81C, It has the ability to change its type based on the memory it’s holding. This is its Ground-type form.
+ZKN_COMMENT_B_773_005, 3E4289D08C3CA9CF, It has the ability to change its type based on the memory it’s holding. This is its Rock-type form.
+ZKN_COMMENT_B_773_006, 3E428AD08C3CAB82, It has the ability to change its type based on the memory it’s holding. This is its Bug-type form.
+ZKN_COMMENT_B_773_007, 3E428BD08C3CAD35, It has the ability to change its type based on the memory it’s holding. This is its Ghost-type form.
+ZKN_COMMENT_B_773_008, 3E428CD08C3CAEE8, It has the ability to change its type based on the memory it’s holding. This is its Steel-type form.
+ZKN_COMMENT_B_773_009, 3E428DD08C3CB09B, It has the ability to change its type based on the memory it’s holding. This is its Fire-type form.
+ZKN_COMMENT_B_773_010, 3E458AD08C3EE159, It has the ability to change its type based on the memory it’s holding. This is its Water-type form.
+ZKN_COMMENT_B_773_011, 3E4589D08C3EDFA6, It has the ability to change its type based on the memory it’s holding. This is its Grass-type form.
+ZKN_COMMENT_B_773_012, 3E4588D08C3EDDF3, It has the ability to change its type based on the memory it’s holding. This is its Electric-type form.
+ZKN_COMMENT_B_773_013, 3E4587D08C3EDC40, It has the ability to change its type based on the memory it’s holding. This is its Psychic-type form.
+ZKN_COMMENT_B_773_014, 3E458ED08C3EE825, It has the ability to change its type based on the memory it’s holding. This is its Ice-type form.
+ZKN_COMMENT_B_773_015, 3E458DD08C3EE672, It has the ability to change its type based on the memory it’s holding. This is its Dragon-type form.
+ZKN_COMMENT_B_773_016, 3E458CD08C3EE4BF, It has the ability to change its type based on the memory it’s holding. This is its Dark-type form.
+ZKN_COMMENT_B_773_017, 3E458BD08C3EE30C, It has the ability to change its type based on the memory it’s holding. This is its Fairy-type form.
+ZKN_COMMENT_B_774_001, 6D3433F288859E06, 
+ZKN_COMMENT_B_774_002, 6D3432F288859C53, 
+ZKN_COMMENT_B_774_003, 6D3431F288859AA0, 
+ZKN_COMMENT_B_774_004, 6D3438F28885A685, 
+ZKN_COMMENT_B_774_005, 6D3437F28885A4D2, 
+ZKN_COMMENT_B_774_006, 6D3436F28885A31F, 
+ZKN_COMMENT_B_774_007, 6D3435F28885A16C, 
+ZKN_COMMENT_B_774_008, 6D343CF28885AD51, 
+ZKN_COMMENT_B_774_009, 6D343BF28885AB9E, 
+ZKN_COMMENT_B_774_010, 6D30AEF288828630, 
+ZKN_COMMENT_B_774_011, 6D30AFF2888287E3, 
+ZKN_COMMENT_B_774_012, 6D30B0F288828996, 
+ZKN_COMMENT_B_774_013, 6D30B1F288828B49, 
+ZKN_COMMENT_B_777_001, 33955E1B019F648F, 
+ZKN_COMMENT_B_778_001, EFF579AD1934B202, Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it’s a Mimikyu.
+ZKN_COMMENT_B_778_002, EFF578AD1934B04F, 
+ZKN_COMMENT_B_778_003, EFF577AD1934AE9C, 
+ZKN_COMMENT_B_784_001, A5CD856AE47279F9, 
+ZKN_COMMENT_B_800_001, 20AB3454B48E574, Necrozma has attached itself to Solgaleo. It siphons away its host’s limitless energy, exploiting that energy to fuel a rampage.
+ZKN_COMMENT_B_800_002, 20AB6454B48EA8D, When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.
+ZKN_COMMENT_B_800_003, 20AB5454B48E8DA, 
+ZKN_COMMENT_B_801_001, 3BA98D1CD22F25B7, 
+ZKN_COMMENT_B_809_999, F656843139450B9, It can send electric beams streaking out from the hole in its belly. The beams’ tremendous energy can vaporize an opponent in one shot.
+ZKN_COMMENT_B_812_999, 6128C115A5F68D41, Rillaboom has become one with its forest of drums and continues to lay down beats that shake all of Galar.
+ZKN_COMMENT_B_815_999, 8E9DFCF8E33DBFD8, Gigantamax energy can sometimes cause the diameter of this Pokémon’s fireball to exceed 300 feet.
+ZKN_COMMENT_B_818_999, 1C73636E3F347123, It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
+ZKN_COMMENT_B_823_999, 709E4CF142CDAC45, The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently.
+ZKN_COMMENT_B_826_999, 555A790BCB8AA88A, If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity.
+ZKN_COMMENT_B_834_999, 14CC072F089BAAD, In the Galar region, there’s a tale about this Pokémon chewing up a mountain and using the rubble to stop a flood.
+ZKN_COMMENT_B_839_999, D97C623BFBA68D4A, When Galar was hit by a harsh cold wave, this Pokémon served as a giant heating stove and saved many lives.
+ZKN_COMMENT_B_841_999, 62A4A181748E911D, If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint.
+ZKN_COMMENT_B_842_999, 8A8A9D58F14E49A0, Due to Gigantamax energy, this Pokémon’s nectar has thickened. The increased viscosity lets the nectar absorb more damage than before.
+ZKN_COMMENT_B_844_999, 4760CD9BFD4B8D62, Sand swirls around its body with such speed and power that it could pulverize a skyscraper.
+ZKN_COMMENT_B_845_001, BAB6EC731426FA3F, The slightest shock is sometimes enough to get this Pokémon to spit out the Arrokuda lodged in its throat.
+ZKN_COMMENT_B_845_002, BAB6ED731426FBF2, The half-swallowed Pikachu is so startled that it isn’t struggling yet, but it’s still looking for a chance to strike back.
+ZKN_COMMENT_B_849_001, 91C9323018796B5B, It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.
+ZKN_COMMENT_B_849_999, 5618172FF6EE6775, Out of control after its own poison penetrated its brain, it tears across the land in a rampage, contaminating the earth with toxic sweat.
+ZKN_COMMENT_B_851_999, ED377C51E7E3FBD0, The heat that comes off a Gigantamax Centiskorch may destabilize air currents. Sometimes it can even cause storms.
+ZKN_COMMENT_B_854_001, C91A6588B258CFE9, It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting— it tastes so bad that it gets spat out immediately.
+ZKN_COMMENT_B_855_001, 4FFBA999C5EDE266, When angered, it launches tea from its body at the offender’s mouth. The tea causes strong chills if swallowed.
+ZKN_COMMENT_B_858_999, 994520436EB88F3F, Beams like lightning shoot down from its tentacles. It’s known to some as the Raging Goddess.
+ZKN_COMMENT_B_861_999, 151531436F2BA6FB, Gigantamax energy has caused more hair to sprout all over its body. With the added strength, it can jump over the world’s tallest building.
+ZKN_COMMENT_B_869_001, 28BEC69734EB3859, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sweet and tart flavor.
+ZKN_COMMENT_B_869_002, 28BEC39734EB3340, The cells that compose its cream fluctuated suddenly during evolution, giving the cream an aromatic flavor.
+ZKN_COMMENT_B_869_003, 28BEC49734EB34F3, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a refreshing flavor.
+ZKN_COMMENT_B_869_004, 28BEC99734EB3D72, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sour flavor.
+ZKN_COMMENT_B_869_005, 28BECA9734EB3F25, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a salty flavor.
+ZKN_COMMENT_B_869_006, 28BEC79734EB3A0C, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a mixed flavor.
+ZKN_COMMENT_B_869_007, 28BEC89734EB3BBF, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a bitter flavor.
+ZKN_COMMENT_B_869_008, 28BECD9734EB443E, The cells that compose its cream fluctuated suddenly during evolution, giving the cream a complex flavor.
+ZKN_COMMENT_B_869_999, 78123B97623CBAA3, It launches swarms of missiles, each made of cream and loaded with 100,000 kilocalories. Get hit by one of these, and your head will swim.
+ZKN_COMMENT_B_875_001, 73CBB634CBC4C294, The hair on its head connects to the surface of its brain. When this Pokémon has something on its mind, its hair chills the air around it.
+ZKN_COMMENT_B_876_001, 598DAA28FAA31EB1, They diligently serve people and Pokémon so they can gather feelings of gratitude. The females are particularly good at babysitting.
+ZKN_COMMENT_B_877_001, 24D647FB3DA4550E, Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds.
+ZKN_COMMENT_B_879_999, 202F0128DF0088D6, After this Pokémon has Gigantamaxed, its massive nose can utterly demolish large structures with a single smashing blow.
+ZKN_COMMENT_B_884_999, 823A1E63FF707D26, The hardness of its cells is exceptional, even among Steel types. It also has a body structure that’s resistant to earthquakes.
+ZKN_COMMENT_B_888_001, D9D5CD2F43E74A24, Able to cut down anything with a single strike, it became known as the Fairy King’s Sword, and it inspired awe in friend and foe alike.
+ZKN_COMMENT_B_889_001, 6433AD49E71B2627, Now that it’s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon.
+ZKN_COMMENT_B_890_001, 5081F103D6CF6BC9, [VAR]뷿ԃ
+ZKN_COMMENT_B_890_999, 9E22660402AF5993, Infinite amounts of energy pour from this Pokémon’s enlarged core, warping the surrounding space-time.
+ZKN_COMMENT_B_892_001, F6DF5B14BE11BFCF, This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river.
+ZKN_COMMENT_B_892_999, 447F5014E9F0D419, The energy released by this Pokémon’s fists forms shock waves that can blow away Dynamax Pokémon in just one hit.
+ZKN_COMMENT_B_892_998, 447F4F14E9F0D266, All it takes is a glare from this Pokémon to take the lives of those with evil in their hearts—or so they say.
+ZKN_COMMENT_B_893_001, 7F739F25D31866CC, This Zarude’s special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child’s infancy.

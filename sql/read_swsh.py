@@ -234,15 +234,8 @@ if __name__ == "__main__":
 			count = 0
 			for key, value in dictionary.items():
 				label = labels[count][0]
-				while (len(label) < 24):
-					label += " "
-
 				hash = hex(key[1]).replace("0x", "").upper()
-				while (len(hash) < 18):
-					hash += " "
-
-				print("%s:\t%s:\t%s\n" % (label, hash, value))
-				f.write("%s:\t%s:\t%s\n" % (label, hash, value))
+				f.write("%s, %s, %s\n" % (label, hash, value))
 				count += 1
 	except UserWarning as error:
 		print(error)
