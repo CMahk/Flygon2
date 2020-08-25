@@ -9,7 +9,7 @@ class Constants:
 		5: 21,
 		6: 26,
 		7: 29,
-		8: 29
+		8: 32
 		}
 
 	# For comparing with DICT_GEN
@@ -42,27 +42,22 @@ class Constants:
 		'moon': 'alola',
 		'ultra-sun': 'alola',
 		'ultra-moon': 'alola',
+		'lets-go': 'kanto',
 		'sword': 'galar',
 		'shield': 'galar'
 		}
 
 	DICT_LANG = {
-		'en': 'english',
-		'eng': 'english',
-		'fr': 'french',
-		'fre': 'french',
-		'ge': 'german',
-		'ger': 'german',
-		'it': 'italian',
-		'ita': 'italian',
-		'jpn': 'japanese',
-		'jp': 'japanese',
-		'ko': 'korean',
-		'kor': 'korean',
-		'de': 'dutch',
-		'deu': 'dutch',
-		'sp': 'spanish',
-		'es': 'spanish'
+		'japanese': 1,
+		'korean': 3,
+		'chinese-traditional': 4,
+		'french': 5,
+		'german': 6,
+		'spanish': 7,
+		'italian': 8,
+		'english': 9,
+		'japanese-kanji': 11,
+		'chinese-simplified': 12
 		}
 
 	DICT_VERSION_ID = {
@@ -96,8 +91,9 @@ class Constants:
 		'moon': 28,
 		'ultra-sun': 29,
 		'ultra-moon': 30,
-		'sword': 31,
-		'shield': 32
+		'lets-go': 31,
+		'sword': 32,
+		'shield': 33
 		}
 
 	TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'normal', 'poison', 'psychic', 'rock', 'steel', 'water']
