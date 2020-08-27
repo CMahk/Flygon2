@@ -28,6 +28,7 @@ class Config():
 						}
 
 			config['DEFAULTS'] = {
+						'Language': 'english',
 						'Gen1Dex': 'red', 
 						'Gen2Dex': 'crystal', 
 						'Gen3Dex': 'emerald', 
