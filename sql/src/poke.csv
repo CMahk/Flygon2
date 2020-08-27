@@ -1,894 +1,894 @@
 species,mega,alolan,galarian,gmax,forme,type,height,weight
-bulbasaur,0,0,0,0,,Seed PokÃ©mon,"2'4""",15.2
-ivysaur,0,0,0,0,,Seed PokÃ©mon,"3'3""",28.7
-venusaur,1,0,0,1,,Seed PokÃ©mon,"6'7""",220.5
-charmander,0,0,0,0,,Lizard PokÃ©mon,2',18.7
-charmeleon,0,0,0,0,,Flame PokÃ©mon,"3'7""",41.9
-charizard,1,0,0,1,"x, y",Flame PokÃ©mon,"5'7""",199.5
-squirtle,0,0,0,0,,Tiny Turtle PokÃ©mon,"1'8""",19.8
-wartortle,0,0,0,0,,Turtle PokÃ©mon,"3'3""",49.6
-blastoise,1,0,0,1,,Shellfish PokÃ©mon,"5'3""",188.5
-caterpie,0,0,0,0,,Worm PokÃ©mon,1',6.4
-metapod,0,0,0,0,,Cocoon PokÃ©mon,"2'4""",21.8
-butterfree,0,0,0,1,,Butterfly PokÃ©mon,"3'7""",70.5
-weedle,0,0,0,0,,Hairy Bug PokÃ©mon,1',7.1
-kakuna,0,0,0,0,,Cocoon PokÃ©mon,2',22.0
-beedrill,1,0,0,0,,Poison Bee PokÃ©mon,"3'3""",65.0
-pidgey,0,0,0,0,,Tiny Bird PokÃ©mon,1',4.0
-pidgeotto,0,0,0,0,,Bird PokÃ©mon,"3'7""",66.1
-pidgeot,1,0,0,0,,Bird PokÃ©mon,"4'11""",87.1
-rattata,0,1,0,0,f,Mouse PokÃ©mon,1',7.7
-raticate,0,1,0,0,f,Mouse PokÃ©mon,"2'4""",40.8
-spearow,0,0,0,0,,Tiny Bird PokÃ©mon,1',4.4
-fearow,0,0,0,0,,Beak PokÃ©mon,"3'11""",83.8
-ekans,0,0,0,0,,Snake PokÃ©mon,"6'7""",15.2
-arbok,0,0,0,0,,Cobra PokÃ©mon,"11'6""",143.3
-pikachu,0,0,0,1,"f, alola, hoenn, kalos, libre, original, partner, phd, popstar, rockstar, sinnoh, starter, starter-f, unova",Mouse PokÃ©mon,"1'4""",13.2
-raichu,0,1,0,0,,Mouse PokÃ©mon,"2'7""",66.1
-sandshrew,0,1,0,0,,Mouse PokÃ©mon,2',26.5
-sandslash,0,1,0,0,,Mouse PokÃ©mon,"3'3""",65.0
-nidoran,0,0,0,0,,Poison Pin PokÃ©mon,"1'4""",15.4
-nidorina,0,0,0,0,,Poison Pin PokÃ©mon,"2'7""",44.1
-nidoqueen,0,0,0,0,,Drill PokÃ©mon,"4'3""",132.3
-nidoran,0,0,0,0,,Poison Pin PokÃ©mon,"1'8""",19.8
-nidorino,0,0,0,0,,Poison Pin PokÃ©mon,"2'11""",43.0
-nidoking,0,0,0,0,,Drill PokÃ©mon,"4'7""",136.7
-clefairy,0,0,0,0,,Fairy PokÃ©mon,2',16.5
-clefable,0,0,0,0,,Fairy PokÃ©mon,"4'3""",88.2
-vulpix,0,1,0,0,,Fox PokÃ©mon,2',21.8
-ninetales,0,1,0,0,,Fox PokÃ©mon,"3'7""",43.9
-jigglypuff,0,0,0,0,,Balloon PokÃ©mon,"1'8""",12.1
-wigglytuff,0,0,0,0,,Balloon PokÃ©mon,"3'3""",26.5
-zubat,0,0,0,0,f,Bat PokÃ©mon,"2'7""",16.5
-golbat,0,0,0,0,f,Bat PokÃ©mon,"5'3""",121.3
-oddish,0,0,0,0,,Weed PokÃ©mon,"1'8""",11.9
-gloom,0,0,0,0,,Weed PokÃ©mon,"2'7""",19.0
-vileplume,0,0,0,0,,Flower PokÃ©mon,"3'11""",41.0
-paras,0,0,0,0,,Mushroom PokÃ©mon,1',11.9
-parasect,0,0,0,0,,Mushroom PokÃ©mon,"3'3""",65.0
-venonat,0,0,0,0,,Insect PokÃ©mon,"3'3""",66.1
-venomoth,0,0,0,0,,Poison Moth PokÃ©mon,"4'11""",27.6
-diglett,0,1,0,0,,Mole PokÃ©mon,"8""",1.8
-dugtrio,0,1,0,0,,Mole PokÃ©mon,"2'4""",73.4
-meowth,0,1,1,1,,Scratch Cat PokÃ©mon,"1'4""",9.3
-persian,0,1,0,0,,Classy Cat PokÃ©mon,"3'3""",70.5
-psyduck,0,0,0,0,,Duck PokÃ©mon,"2'7""",43.2
-golduck,0,0,0,0,,Duck PokÃ©mon,"5'7""",168.9
-mankey,0,0,0,0,,Pig Monkey PokÃ©mon,"1'8""",61.7
-primeape,0,0,0,0,,Pig Monkey PokÃ©mon,"3'3""",70.5
-growlithe,0,0,0,0,,Puppy PokÃ©mon,"2'4""",41.9
-arcanine,0,0,0,0,,Legendary PokÃ©mon,"6'3""",341.7
-poliwag,0,0,0,0,,Tadpole PokÃ©mon,2',27.3
-poliwhirl,0,0,0,0,,Tadpole PokÃ©mon,"3'3""",44.1
-poliwrath,0,0,0,0,,Tadpole PokÃ©mon,"4'3""",119.0
-abra,0,0,0,0,,Psi PokÃ©mon,"2'11""",43.0
-kadabra,0,0,0,0,,Psi PokÃ©mon,"4'3""",124.6
-alakazam,1,0,0,0,,Psi PokÃ©mon,"4'11""",105.8
-machop,0,0,0,0,,Superpower PokÃ©mon,"2'7""",43.0
-machoke,0,0,0,0,,Superpower PokÃ©mon,"4'11""",155.4
-machamp,0,0,0,1,,Superpower PokÃ©mon,"5'3""",286.6
-bellsprout,0,0,0,0,,Flower PokÃ©mon,"2'4""",8.8
-weepinbell,0,0,0,0,,Flycatcher PokÃ©mon,"3'3""",14.1
-victreebel,0,0,0,0,,Flycatcher PokÃ©mon,"5'7""",34.2
-tentacool,0,0,0,0,,Jellyfish PokÃ©mon,"2'11""",100.3
-tentacruel,0,0,0,0,,Jellyfish PokÃ©mon,"5'3""",121.3
-geodude,0,1,0,0,,Rock PokÃ©mon,"1'4""",44.1
-graveler,0,1,0,0,,Rock PokÃ©mon,"3'3""",231.5
-golem,0,1,0,0,,Megaton PokÃ©mon,"4'7""",661.4
-ponyta,0,0,1,0,,Fire Horse PokÃ©mon,"3'3""",66.1
-rapidash,0,0,1,0,,Fire Horse PokÃ©mon,"5'7""",209.4
-slowpoke,0,0,1,0,,Dopey PokÃ©mon,"3'11""",79.4
-slowbro,1,0,1,0,,Hermit Crab PokÃ©mon,"5'3""",173.1
-magnemite,0,0,0,0,,Magnet PokÃ©mon,1',13.2
-magneton,0,0,0,0,,Magnet PokÃ©mon,"3'3""",132.3
-farfetchd,0,0,1,0,,Wild Duck PokÃ©mon,"2'7""",33.1
-doduo,0,0,0,0,,Twin Bird PokÃ©mon,"4'7""",86.4
-dodrio,0,0,0,0,,Triple Bird PokÃ©mon,"5'11""",187.8
-seel,0,0,0,0,,Sea Lion PokÃ©mon,"3'7""",198.4
-dewgong,0,0,0,0,,Sea Lion PokÃ©mon,"5'7""",264.6
-grimer,0,1,0,0,,Sludge PokÃ©mon,"2'11""",66.1
-muk,0,1,0,0,,Sludge PokÃ©mon,"3'11""",66.1
-shellder,0,0,0,0,,Bivalve PokÃ©mon,1',8.8
-cloyster,0,0,0,0,,Bivalve PokÃ©mon,"4'11""",292.1
-gastly,0,0,0,0,,Gas PokÃ©mon,"4'3""",0.2
-haunter,0,0,0,0,,Gas PokÃ©mon,"5'3""",0.2
-gengar,1,0,0,1,,Shadow PokÃ©mon,"4'11""",89.3
-onix,0,0,0,0,,Rock Snake PokÃ©mon,"28'10""",463.0
-drowzee,0,0,0,0,,Hypnosis PokÃ©mon,"3'3""",71.4
-hypno,0,0,0,0,,Hypnosis PokÃ©mon,"5'3""",166.7
-krabby,0,0,0,0,,River Crab PokÃ©mon,"1'4""",14.3
-kingler,0,0,0,1,,Pincer PokÃ©mon,"4'3""",132.3
-voltorb,0,0,0,0,,Ball PokÃ©mon,"1'8""",22.9
-electrode,0,0,0,0,,Ball PokÃ©mon,"3'11""",146.8
-exeggcute,0,0,0,0,,Egg PokÃ©mon,"1'4""",5.5
-exeggutor,0,1,0,0,,Coconut PokÃ©mon,"6'7""",264.6
-cubone,0,0,0,0,,Lonely PokÃ©mon,"1'4""",14.3
-marowak,0,1,0,0,,Bone Keeper PokÃ©mon,"3'3""",99.2
-hitmonlee,0,0,0,0,,Kicking PokÃ©mon,"4'11""",109.8
-hitmonchan,0,0,0,0,,Punching PokÃ©mon,"4'7""",110.7
-lickitung,0,0,0,0,,Licking PokÃ©mon,"3'11""",144.4
-koffing,0,0,0,0,,Poison Gas PokÃ©mon,2',2.2
-weezing,0,0,1,0,,Poison Gas PokÃ©mon,"3'11""",20.9
-rhyhorn,0,0,0,0,,Spikes PokÃ©mon,"3'3""",253.5
-rhydon,0,0,0,0,f,Drill PokÃ©mon,"6'3""",264.6
-chansey,0,0,0,0,,Egg PokÃ©mon,"3'7""",76.3
-tangela,0,0,0,0,,Vine PokÃ©mon,"3'3""",77.2
-kangaskhan,1,0,0,0,,Parent PokÃ©mon,"7'3""",176.4
-horsea,0,0,0,0,,Dragon PokÃ©mon,"1'4""",17.6
-seadra,0,0,0,0,,Dragon PokÃ©mon,"3'11""",55.1
-goldeen,0,0,0,0,,Goldfish PokÃ©mon,2',33.1
-seaking,0,0,0,0,,Goldfish PokÃ©mon,"4'3""",86.0
-staryu,0,0,0,0,,Star Shape PokÃ©mon,"2'7""",76.1
-starmie,0,0,0,0,,Mysterious PokÃ©mon,"3'7""",176.4
-mrmime,0,0,1,0,,Barrier PokÃ©mon,"4'3""",120.2
-scyther,0,0,0,0,f,Mantis PokÃ©mon,"4'11""",123.5
-jynx,0,0,0,0,,Human Shape PokÃ©mon,"4'7""",89.5
-electabuzz,0,0,0,0,,Electric PokÃ©mon,"3'7""",66.1
-magmar,0,0,0,0,,Spitfire PokÃ©mon,"4'3""",98.1
-pinsir,1,0,0,0,,Stag Beetle PokÃ©mon,"4'11""",121.3
-tauros,0,0,0,0,,Wild Bull PokÃ©mon,"4'7""",194.9
-magikarp,0,0,0,0,f,Fish PokÃ©mon,"2'11""",22.0
-gyarados,1,0,0,0,,Atrocious PokÃ©mon,"21'4""",518.1
-lapras,0,0,0,1,,Transport PokÃ©mon,"8'2""",485.0
-ditto,0,0,0,0,,Transform PokÃ©mon,1',8.8
-eevee,0,0,0,1,starter,Evolution PokÃ©mon,1',14.3
-vaporeon,0,0,0,0,,Bubble Jet PokÃ©mon,"3'3""",63.9
-jolteon,0,0,0,0,,Lightning PokÃ©mon,"2'7""",54.0
-flareon,0,0,0,0,,Flame PokÃ©mon,"2'11""",55.1
-porygon,0,0,0,0,,Virtual PokÃ©mon,"2'7""",80.5
-omanyte,0,0,0,0,,Spiral PokÃ©mon,"1'4""",16.5
-omastar,0,0,0,0,,Spiral PokÃ©mon,"3'3""",77.2
-kabuto,0,0,0,0,,Shellfish PokÃ©mon,"1'8""",25.4
-kabutops,0,0,0,0,,Shellfish PokÃ©mon,"4'3""",89.3
-aerodactyl,1,0,0,0,,Fossil PokÃ©mon,"5'11""",130.1
-snorlax,0,0,0,1,,Sleeping PokÃ©mon,"6'11""",1014.1
-articuno,0,0,0,0,,Freeze PokÃ©mon,"5'7""",122.1
-zapdos,0,0,0,0,,Electric PokÃ©mon,"5'3""",116.0
-moltres,0,0,0,0,,Flame PokÃ©mon,"6'7""",132.3
-dratini,0,0,0,0,,Dragon PokÃ©mon,"5'11""",7.3
-dragonair,0,0,0,0,,Dragon PokÃ©mon,"13'1""",36.4
-dragonite,0,0,0,0,,Dragon PokÃ©mon,"7'3""",463.0
-mewtwo,1,0,0,0,"x, y",Genetic PokÃ©mon,"6'7""",269.0
-mew,0,0,0,0,,New Species PokÃ©mon,"1'4""",8.8
-chikorita,0,0,0,0,,Leaf PokÃ©mon,"2'11""",14.1
-bayleef,0,0,0,0,,Leaf PokÃ©mon,"3'11""",34.8
-meganium,0,0,0,0,f,Herb PokÃ©mon,"5'11""",221.6
-cyndaquil,0,0,0,0,,Fire Mouse PokÃ©mon,"1'8""",17.4
-quilava,0,0,0,0,,Volcano PokÃ©mon,"2'11""",41.9
-typhlosion,0,0,0,0,,Volcano PokÃ©mon,"5'7""",175.3
-totodile,0,0,0,0,,Big Jaw PokÃ©mon,2',20.9
-croconaw,0,0,0,0,,Big Jaw PokÃ©mon,"3'7""",55.1
-feraligatr,0,0,0,0,,Big Jaw PokÃ©mon,"7'7""",195.8
-sentret,0,0,0,0,,Scout PokÃ©mon,"2'7""",13.2
-furret,0,0,0,0,,Long Body PokÃ©mon,"5'11""",71.7
-hoothoot,0,0,0,0,,Owl PokÃ©mon,"2'4""",46.7
-noctowl,0,0,0,0,,Owl PokÃ©mon,"5'3""",89.9
-ledyba,0,0,0,0,f,Five Star PokÃ©mon,"3'3""",23.8
-ledian,0,0,0,0,f,Five Star PokÃ©mon,"4'7""",78.5
-spinarak,0,0,0,0,,String Spit PokÃ©mon,"1'8""",18.7
-ariados,0,0,0,0,,Long Leg PokÃ©mon,"3'7""",73.9
-crobat,0,0,0,0,,Bat PokÃ©mon,"5'11""",165.3
-chinchou,0,0,0,0,,Angler PokÃ©mon,"1'8""",26.5
-lanturn,0,0,0,0,,Light PokÃ©mon,"3'11""",49.6
-pichu,0,0,0,0,,Tiny Mouse PokÃ©mon,1',4.4
-cleffa,0,0,0,0,,Star Shape PokÃ©mon,1',6.6
-igglybuff,0,0,0,0,,Balloon PokÃ©mon,1',2.2
-togepi,0,0,0,0,,Spike Ball PokÃ©mon,1',3.3
-togetic,0,0,0,0,,Happiness PokÃ©mon,2',7.1
-natu,0,0,0,0,,Tiny Bird PokÃ©mon,"8""",4.4
-xatu,0,0,0,0,f,Mystic PokÃ©mon,"4'11""",33.1
-mareep,0,0,0,0,,Wool PokÃ©mon,2',17.2
-flaaffy,0,0,0,0,,Wool PokÃ©mon,"2'7""",29.3
-ampharos,1,0,0,0,,Light PokÃ©mon,"4'7""",135.6
-bellossom,0,0,0,0,,Flower PokÃ©mon,"1'4""",12.8
-marill,0,0,0,0,,Aqua Mouse PokÃ©mon,"1'4""",18.7
-azumarill,0,0,0,0,,Aqua Rabbit PokÃ©mon,"2'7""",62.8
-sudowoodo,0,0,0,0,f,Imitation PokÃ©mon,"3'11""",83.8
-politoed,0,0,0,0,f,Frog PokÃ©mon,"3'7""",74.7
-hoppip,0,0,0,0,,Cottonweed PokÃ©mon,"1'4""",1.1
-skiploom,0,0,0,0,,Cottonweed PokÃ©mon,2',2.2
-jumpluff,0,0,0,0,,Cottonweed PokÃ©mon,"2'7""",6.6
-aipom,0,0,0,0,f,Long Tail PokÃ©mon,"2'7""",25.4
-sunkern,0,0,0,0,,Seed PokÃ©mon,1',4.0
-sunflora,0,0,0,0,,Sun PokÃ©mon,"2'7""",18.7
-yanma,0,0,0,0,,Clear Wing PokÃ©mon,"3'11""",83.8
-wooper,0,0,0,0,f,Water Fish PokÃ©mon,"1'4""",18.7
-quagsire,0,0,0,0,f,Water Fish PokÃ©mon,"4'7""",165.3
-espeon,0,0,0,0,,Sun PokÃ©mon,"2'11""",58.4
-umbreon,0,0,0,0,,Moonlight PokÃ©mon,"3'3""",59.5
-murkrow,0,0,0,0,f,Darkness PokÃ©mon,"1'8""",4.6
-slowking,0,0,0,0,,Royal PokÃ©mon,"6'7""",175.3
-misdreavus,0,0,0,0,,Screech PokÃ©mon,"2'4""",2.2
-unown,0,0,0,0,"a, b, c, d, e ,f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, exclamation, question",Symbol PokÃ©mon,"1'8""",11.0
-wobbuffet,0,0,0,0,f,Patient PokÃ©mon,"4'3""",62.8
-girafarig,0,0,0,0,f,Long Neck PokÃ©mon,"4'11""",91.5
-pineco,0,0,0,0,,Bagworm PokÃ©mon,2',15.9
-forretress,0,0,0,0,,Bagworm PokÃ©mon,"3'11""",277.3
-dunsparce,0,0,0,0,,Land Snake PokÃ©mon,"4'11""",30.9
-gligar,0,0,0,0,f,Fly Scorpion PokÃ©mon,"3'7""",142.9
-steelix,1,0,0,0,f,Iron Snake PokÃ©mon,"30'2""",881.8
-snubbull,0,0,0,0,,Fairy PokÃ©mon,2',17.2
-granbull,0,0,0,0,,Fairy PokÃ©mon,"4'7""",107.4
-qwilfish,0,0,0,0,,Balloon PokÃ©mon,"1'8""",8.6
-scizor,1,0,0,0,f,Pincer PokÃ©mon,"5'11""",260.1
-shuckle,0,0,0,0,,Mold PokÃ©mon,2',45.2
-heracross,1,0,0,0,f,Single Horn PokÃ©mon,"4'11""",119.0
-sneasel,0,0,0,0,f,Sharp Claw PokÃ©mon,"2'11""",61.7
-teddiursa,0,0,0,0,,Little Bear PokÃ©mon,2',19.4
-ursaring,0,0,0,0,f,Hibernator PokÃ©mon,"5'11""",277.3
-slugma,0,0,0,0,,Lava PokÃ©mon,"2'4""",77.2
-magcargo,0,0,0,0,,Lava PokÃ©mon,"2'7""",121.3
-swinub,0,0,0,0,,Pig PokÃ©mon,"1'4""",14.3
-piloswine,0,0,0,0,f,Swine PokÃ©mon,"3'7""",123.0
-corsola,0,0,1,0,,Coral PokÃ©mon,2',11.0
-remoraid,0,0,0,0,,Jet PokÃ©mon,2',26.5
-octillery,0,0,0,0,f,Jet PokÃ©mon,"2'11""",62.8
-delibird,0,0,0,0,,Delivery PokÃ©mon,"2'11""",35.3
-mantine,0,0,0,0,,Kite PokÃ©mon,"6'11""",485.0
-skarmory,0,0,0,0,,Armor Bird PokÃ©mon,"5'7""",111.3
-houndour,0,0,0,0,,Dark PokÃ©mon,2',23.8
-houndoom,1,0,0,0,f,Dark PokÃ©mon,"4'7""",77.2
-kingdra,0,0,0,0,,Dragon PokÃ©mon,"5'11""",335.1
-phanpy,0,0,0,0,,Long Nose PokÃ©mon,"1'8""",73.9
-donphan,0,0,0,0,f,Armor PokÃ©mon,"3'7""",264.6
-porygon2,0,0,0,0,,Virtual PokÃ©mon,2',71.7
-stantler,0,0,0,0,,Big Horn PokÃ©mon,"4'7""",157.0
-smeargle,0,0,0,0,,Painter PokÃ©mon,"3'11""",127.9
-tyrogue,0,0,0,0,,Scuffle PokÃ©mon,"2'4""",46.3
-hitmontop,0,0,0,0,,Handstand PokÃ©mon,"4'7""",105.8
-smoochum,0,0,0,0,,Kiss PokÃ©mon,"1'4""",13.2
-elekid,0,0,0,0,,Electric PokÃ©mon,2',51.8
-magby,0,0,0,0,,Live Coal PokÃ©mon,"2'4""",47.2
-miltank,0,0,0,0,,Milk Cow PokÃ©mon,"3'11""",166.4
-blissey,0,0,0,0,,Happiness PokÃ©mon,"4'11""",103.2
-raikou,0,0,0,0,,Thunder PokÃ©mon,"6'3""",392.4
-entei,0,0,0,0,,Volcano PokÃ©mon,"6'11""",436.5
-suicune,0,0,0,0,,Aurora PokÃ©mon,"6'7""",412.3
-larvitar,0,0,0,0,,Rock Skin PokÃ©mon,2',158.7
-pupitar,0,0,0,0,,Hard Shell PokÃ©mon,"3'11""",335.1
-tyranitar,1,0,0,0,,Armor PokÃ©mon,"6'7""",445.3
-lugia,0,0,0,0,,Diving PokÃ©mon,"17'1""",476.2
-ho-oh,0,0,0,0,,Rainbow PokÃ©mon,"12'6""",438.7
-celebi,0,0,0,0,,Time Travel PokÃ©mon,2',11.0
-treecko,0,0,0,0,,Wood Gecko PokÃ©mon,"1'8""",11.0
-grovyle,0,0,0,0,,Wood Gecko PokÃ©mon,"2'11""",47.6
-sceptile,1,0,0,0,,Forest PokÃ©mon,"5'7""",115.1
-torchic,0,0,0,0,,Chick PokÃ©mon,"1'4""",5.5
-combusken,0,0,0,0,f,Young Fowl PokÃ©mon,"2'11""",43.0
-blaziken,1,0,0,0,f,Blaze PokÃ©mon,"6'3""",114.6
-mudkip,0,0,0,0,,Mud Fish PokÃ©mon,"1'4""",16.8
-marshtomp,0,0,0,0,,Mud Fish PokÃ©mon,"2'4""",61.7
-swampert,1,0,0,0,,Mud Fish PokÃ©mon,"4'11""",180.6
-poochyena,0,0,0,0,,Bite PokÃ©mon,"1'8""",30.0
-mightyena,0,0,0,0,,Bite PokÃ©mon,"3'3""",81.6
-zigzagoon,0,0,1,0,,Tiny Raccoon PokÃ©mon,"1'4""",38.6
-linoone,0,0,1,0,,Rushing PokÃ©mon,"1'8""",71.7
-wurmple,0,0,0,0,,Worm PokÃ©mon,1',7.9
-silcoon,0,0,0,0,,Cocoon PokÃ©mon,2',22.0
-beautifly,0,0,0,0,f,Butterfly PokÃ©mon,"3'3""",62.6
-cascoon,0,0,0,0,,Cocoon PokÃ©mon,"2'4""",25.4
-dustox,0,0,0,0,,Poison Moth PokÃ©mon,"3'11""",69.7
-lotad,0,0,0,0,,Water Weed PokÃ©mon,"1'8""",5.7
-lombre,0,0,0,0,,Jolly PokÃ©mon,"3'11""",71.7
-ludicolo,0,0,0,0,f,Carefree PokÃ©mon,"4'11""",121.3
-seedot,0,0,0,0,,Acorn PokÃ©mon,"1'8""",8.8
-nuzleaf,0,0,0,0,f,Wily PokÃ©mon,"3'3""",61.7
-shiftry,0,0,0,0,f,Wicked PokÃ©mon,"4'3""",131.4
-taillow,0,0,0,0,,Tiny Swallow PokÃ©mon,1',5.1
-swellow,0,0,0,0,,Swallow PokÃ©mon,"2'4""",43.7
-wingull,0,0,0,0,,Seagull PokÃ©mon,2',20.9
-pelipper,0,0,0,0,,Water Bird PokÃ©mon,"3'11""",61.7
-ralts,0,0,0,0,,Feeling PokÃ©mon,"1'4""",14.6
-kirlia,0,0,0,0,,Emotion PokÃ©mon,"2'7""",44.5
-gardevoir,1,0,0,0,,Embrace PokÃ©mon,"5'3""",106.7
-surskit,0,0,0,0,,Pond Skater PokÃ©mon,"1'8""",3.7
-masquerain,0,0,0,0,,Eyeball PokÃ©mon,"2'7""",7.9
-shroomish,0,0,0,0,,Mushroom PokÃ©mon,"1'4""",9.9
-breloom,0,0,0,0,,Mushroom PokÃ©mon,"3'11""",86.4
-slakoth,0,0,0,0,,Slacker PokÃ©mon,"2'7""",52.9
-vigoroth,0,0,0,0,,Wild Monkey PokÃ©mon,"4'7""",102.5
-slaking,0,0,0,0,,Lazy PokÃ©mon,"6'7""",287.7
-nincada,0,0,0,0,,Trainee PokÃ©mon,"1'8""",12.1
-ninjask,0,0,0,0,,Ninja PokÃ©mon,"2'7""",26.5
-shedinja,0,0,0,0,,Shed PokÃ©mon,"2'7""",2.6
-whismur,0,0,0,0,,Whisper PokÃ©mon,2',35.9
-loudred,0,0,0,0,,Big Voice PokÃ©mon,"3'3""",89.3
-exploud,0,0,0,0,,Loud Noise PokÃ©mon,"4'11""",185.2
-makuhita,0,0,0,0,,Guts PokÃ©mon,"3'3""",190.5
-hariyama,0,0,0,0,,Arm Thrust PokÃ©mon,"7'7""",559.5
-azurill,0,0,0,0,,Polka Dot PokÃ©mon,"8""",4.4
-nosepass,0,0,0,0,,Compass PokÃ©mon,"3'3""",213.8
-skitty,0,0,0,0,,Kitten PokÃ©mon,2',24.3
-delcatty,0,0,0,0,,Prim PokÃ©mon,"3'7""",71.9
-sableye,1,0,0,0,,Darkness PokÃ©mon,"1'8""",24.3
-mawile,1,0,0,0,,Deceiver PokÃ©mon,2',25.4
-aron,0,0,0,0,,Iron Armor PokÃ©mon,"1'4""",132.3
-lairon,0,0,0,0,,Iron Armor PokÃ©mon,"2'11""",264.6
-aggron,1,0,0,0,,Iron Armor PokÃ©mon,"6'11""",793.7
-meditite,0,0,0,0,,Meditate PokÃ©mon,2',24.7
-medicham,1,0,0,0,,Meditate PokÃ©mon,"4'3""",69.4
-electrike,0,0,0,0,,Lightning PokÃ©mon,2',33.5
-manectric,1,0,0,0,,Discharge PokÃ©mon,"4'11""",88.6
-plusle,0,0,0,0,,Cheering PokÃ©mon,"1'4""",9.3
-minun,0,0,0,0,,Cheering PokÃ©mon,"1'4""",9.3
-volbeat,0,0,0,0,,Firefly PokÃ©mon,"2'4""",39.0
-illumise,0,0,0,0,,Firefly PokÃ©mon,2',39.0
-roselia,0,0,0,0,f,Thorn PokÃ©mon,1',4.4
-gulpin,0,0,0,0,f,Stomach PokÃ©mon,"1'4""",22.7
-swalot,0,0,0,0,f,Poison Bag PokÃ©mon,"5'7""",176.4
-carvanha,0,0,0,0,,Savage PokÃ©mon,"2'7""",45.9
-sharpedo,1,0,0,0,,Brutal PokÃ©mon,"5'11""",195.8
-wailmer,0,0,0,0,,Ball Whale PokÃ©mon,"6'7""",286.6
-wailord,0,0,0,0,,Float Whale PokÃ©mon,"47'7""",877.4
-numel,0,0,0,0,f,Numb PokÃ©mon,"2'4""",52.9
-camerupt,1,0,0,0,f,Eruption PokÃ©mon,"6'3""",485.0
-torkoal,0,0,0,0,,Coal PokÃ©mon,"1'8""",177.3
-spoink,0,0,0,0,,Bounce PokÃ©mon,"2'4""",67.5
-grumpig,0,0,0,0,,Manipulate PokÃ©mon,"2'11""",157.6
-spinda,0,0,0,0,,Spot Panda PokÃ©mon,"3'7""",11.0
-trapinch,0,0,0,0,,Ant Pit PokÃ©mon,"2'4""",33.1
-vibrava,0,0,0,0,,Vibration PokÃ©mon,"3'7""",33.7
-flygon,0,0,0,0,,Mystic PokÃ©mon,"6'7""",180.8
-cacnea,0,0,0,0,,Cactus PokÃ©mon,"1'4""",113.1
-cacturne,0,0,0,0,f,Scarecrow PokÃ©mon,"4'3""",170.6
-swablu,0,0,0,0,,Cotton Bird PokÃ©mon,"1'4""",2.6
-altaria,1,0,0,0,,Humming PokÃ©mon,"3'7""",45.4
-zangoose,0,0,0,0,,Cat Ferret PokÃ©mon,"4'3""",88.8
-seviper,0,0,0,0,,Fang Snake PokÃ©mon,"8'10""",115.7
-lunatone,0,0,0,0,,Meteorite PokÃ©mon,"3'3""",370.4
-solrock,0,0,0,0,,Meteorite PokÃ©mon,"3'11""",339.5
-barboach,0,0,0,0,,Whiskers PokÃ©mon,"1'4""",4.2
-whiscash,0,0,0,0,,Whiskers PokÃ©mon,"2'11""",52.0
-corphish,0,0,0,0,,Ruffian PokÃ©mon,2',25.4
-crawdaunt,0,0,0,0,,Rogue PokÃ©mon,"3'7""",72.3
-baltoy,0,0,0,0,,Clay Doll PokÃ©mon,"1'8""",47.4
-claydol,0,0,0,0,,Clay Doll PokÃ©mon,"4'11""",238.1
-lileep,0,0,0,0,,Sea Lily PokÃ©mon,"3'3""",52.5
-cradily,0,0,0,0,,Barnacle PokÃ©mon,"4'11""",133.2
-anorith,0,0,0,0,,Old Shrimp PokÃ©mon,"2'4""",27.6
-armaldo,0,0,0,0,,Plate PokÃ©mon,"4'11""",150.4
-feebas,0,0,0,0,,Fish PokÃ©mon,2',16.3
-milotic,0,0,0,0,f,Tender PokÃ©mon,"20'4""",357.1
-castform,0,0,0,0,"normal, rainy, snowy, sunny",Weather PokÃ©mon,1',1.8
-kecleon,0,0,0,0,,Color Swap PokÃ©mon,"3'3""",48.5
-shuppet,0,0,0,0,,Puppet PokÃ©mon,2',5.1
-banette,1,0,0,0,,Marionette PokÃ©mon,"3'7""",27.6
-duskull,0,0,0,0,,Requiem PokÃ©mon,"2'7""",33.1
-dusclops,0,0,0,0,,Beckon PokÃ©mon,"5'3""",67.5
-tropius,0,0,0,0,,Fruit PokÃ©mon,"6'7""",220.5
-chimecho,0,0,0,0,,Wind Chime PokÃ©mon,2',2.2
-absol,1,0,0,0,,Disaster PokÃ©mon,"3'11""",103.6
-wynaut,0,0,0,0,,Bright PokÃ©mon,2',30.9
-snorunt,0,0,0,0,,Snow Hat PokÃ©mon,"2'4""",37.0
-glalie,1,0,0,0,,Face PokÃ©mon,"4'11""",565.5
-spheal,0,0,0,0,,Clap PokÃ©mon,"2'7""",87.1
-sealeo,0,0,0,0,,Ball Roll PokÃ©mon,"3'7""",193.1
-walrein,0,0,0,0,,Ice Break PokÃ©mon,"4'7""",332.0
-clamperl,0,0,0,0,,Bivalve PokÃ©mon,"1'4""",115.7
-huntail,0,0,0,0,,Deep Sea PokÃ©mon,"5'7""",59.5
-gorebyss,0,0,0,0,,South Sea PokÃ©mon,"5'11""",49.8
-relicanth,0,0,0,0,f,Longevity PokÃ©mon,"3'3""",51.6
-luvdisc,0,0,0,0,,Rendezvous PokÃ©mon,2',19.2
-bagon,0,0,0,0,,Rock Head PokÃ©mon,2',92.8
-shelgon,0,0,0,0,,Endurance PokÃ©mon,"3'7""",243.6
-salamence,1,0,0,0,,Dragon PokÃ©mon,"4'11""",226.2
-beldum,0,0,0,0,,Iron Ball PokÃ©mon,2',209.9
-metang,0,0,0,0,,Iron Claw PokÃ©mon,"3'11""",446.4
-metagross,1,0,0,0,,Iron Leg PokÃ©mon,"5'3""",1212.5
-regirock,0,0,0,0,,Rock Peak PokÃ©mon,"5'7""",507.1
-regice,0,0,0,0,,Iceberg PokÃ©mon,"5'11""",385.8
-registeel,0,0,0,0,,Iron PokÃ©mon,"6'3""",451.9
-latias,1,0,0,0,,Eon PokÃ©mon,"4'7""",88.2
-latios,1,0,0,0,,Eon PokÃ©mon,"6'7""",132.3
-kyogre,0,0,0,0,primal,Sea Basin PokÃ©mon,"14'9""",776.0
-groudon,0,0,0,0,primal,Continent PokÃ©mon,"11'6""",2094.4
-rayquaza,1,0,0,0,,Sky High PokÃ©mon,23',455.3
-jirachi,0,0,0,0,,Wish PokÃ©mon,1',2.4
-deoxys,0,0,0,0,"normal, attack, defense, speed",DNA PokÃ©mon,"5'7""",134.0
-turtwig,0,0,0,0,,Tiny Leaf PokÃ©mon,"1'4""",22.5
-grotle,0,0,0,0,,Grove PokÃ©mon,"3'7""",213.8
-torterra,0,0,0,0,,Continent PokÃ©mon,"7'3""",683.4
-chimchar,0,0,0,0,,Chimp PokÃ©mon,"1'8""",13.7
-monferno,0,0,0,0,,Playful PokÃ©mon,"2'11""",48.5
-infernape,0,0,0,0,,Flame PokÃ©mon,"3'11""",121.3
-piplup,0,0,0,0,,Penguin PokÃ©mon,"1'4""",11.5
-prinplup,0,0,0,0,,Penguin PokÃ©mon,"2'7""",50.7
-empoleon,0,0,0,0,,Emperor PokÃ©mon,"5'7""",186.3
-starly,0,0,0,0,f,Starling PokÃ©mon,1',4.4
-staravia,0,0,0,0,f,Starling PokÃ©mon,2',34.2
-staraptor,0,0,0,0,f,Predator PokÃ©mon,"3'11""",54.9
-bidoof,0,0,0,0,f,Plump Mouse PokÃ©mon,"1'8""",44.1
-bibarel,0,0,0,0,f,Beaver PokÃ©mon,"3'3""",69.4
-kricketot,0,0,0,0,f,Cricket PokÃ©mon,1',4.9
-kricketune,0,0,0,0,f,Cricket PokÃ©mon,"3'3""",56.2
-shinx,0,0,0,0,f,Flash PokÃ©mon,"1'8""",20.9
-luxio,0,0,0,0,f,Spark PokÃ©mon,"2'11""",67.2
-luxray,0,0,0,0,f,Gleam Eyes PokÃ©mon,"4'7""",92.6
-budew,0,0,0,0,,Bud PokÃ©mon,"8""",2.6
-roserade,0,0,0,0,f,Bouquet PokÃ©mon,"2'11""",32.0
-cranidos,0,0,0,0,,Head Butt PokÃ©mon,"2'11""",69.4
-rampardos,0,0,0,0,,Head Butt PokÃ©mon,"5'3""",226.0
-shieldon,0,0,0,0,,Shield PokÃ©mon,"1'8""",125.7
-bastiodon,0,0,0,0,,Shield PokÃ©mon,"4'3""",329.6
-burmy,0,0,0,0,"plant, sandy, trash",Bagworm PokÃ©mon,"8""",7.5
-wormadam,0,0,0,0,"plant, sandy, trash",Bagworm PokÃ©mon,"1'8""",14.3
-mothim,0,0,0,0,,Moth PokÃ©mon,"2'11""",51.4
-combee,0,0,0,0,f,Tiny Bee PokÃ©mon,1',12.1
-vespiquen,0,0,0,0,,Beehive PokÃ©mon,"3'11""",84.9
-pachirisu,0,0,0,0,f,EleSquirrel PokÃ©mon,"1'4""",8.6
-buizel,0,0,0,0,f,Sea Weasel PokÃ©mon,"2'4""",65.0
-floatzel,0,0,0,0,f,Sea Weasel PokÃ©mon,"3'7""",73.9
-cherubi,0,0,0,0,,Cherry PokÃ©mon,"1'4""",7.3
-cherrim,0,0,0,0,"overcast, sunshine",Blossom PokÃ©mon,"1'8""",20.5
-shellos,0,0,0,0,"east, west",Sea Slug PokÃ©mon,1',13.9
-gastrodon,0,0,0,0,"east, west",Sea Slug PokÃ©mon,"2'11""",65.9
-ambipom,0,0,0,0,f,Long Tail PokÃ©mon,"3'11""",44.8
-drifloon,0,0,0,0,,Balloon PokÃ©mon,"1'4""",2.6
-drifblim,0,0,0,0,,Blimp PokÃ©mon,"3'11""",33.1
-buneary,0,0,0,0,,Rabbit PokÃ©mon,"1'4""",12.1
-lopunny,1,0,0,0,,Rabbit PokÃ©mon,"3'11""",73.4
-mismagius,0,0,0,0,,Magical PokÃ©mon,"2'11""",9.7
-honchkrow,0,0,0,0,,Big Boss PokÃ©mon,"2'11""",60.2
-glameow,0,0,0,0,,Catty PokÃ©mon,"1'8""",8.6
-purugly,0,0,0,0,,Tiger Cat PokÃ©mon,"3'3""",96.6
-chingling,0,0,0,0,,Bell PokÃ©mon,"8""",1.3
-stunky,0,0,0,0,,Skunk PokÃ©mon,"1'4""",42.3
-skuntank,0,0,0,0,,Skunk PokÃ©mon,"3'3""",83.8
-bronzor,0,0,0,0,,Bronze PokÃ©mon,"1'8""",133.4
-bronzong,0,0,0,0,,Bronze Bell PokÃ©mon,"4'3""",412.3
-bonsly,0,0,0,0,,Bonsai PokÃ©mon,"1'8""",33.1
-mimejr,0,0,0,0,,Mime PokÃ©mon,2',28.7
-happiny,0,0,0,0,,Playhouse PokÃ©mon,2',53.8
-chatot,0,0,0,0,,Music Note PokÃ©mon,"1'8""",4.2
-spiritomb,0,0,0,0,,Forbidden PokÃ©mon,"3'3""",238.1
-gible,0,0,0,0,f,Land Shark PokÃ©mon,"2'4""",45.2
-gabite,0,0,0,0,f,Cave PokÃ©mon,"4'7""",123.5
-garchomp,1,0,0,0,f,Mach PokÃ©mon,"6'3""",209.4
-munchlax,0,0,0,0,,Big Eater PokÃ©mon,2',231.5
-riolu,0,0,0,0,,Emanation PokÃ©mon,"2'4""",44.5
-lucario,1,0,0,0,,Aura PokÃ©mon,"3'11""",119.0
-hippopotas,0,0,0,0,f,Hippo PokÃ©mon,"2'7""",109.1
-hippowdon,0,0,0,0,f,Heavyweight PokÃ©mon,"6'7""",661.4
-skorupi,0,0,0,0,,Scorpion PokÃ©mon,"2'7""",26.5
-drapion,0,0,0,0,,Ogre Scorpion PokÃ©mon,"4'3""",135.6
-croagunk,0,0,0,0,f,Toxic Mouth PokÃ©mon,"2'4""",50.7
-toxicroak,0,0,0,0,f,Toxic Mouth PokÃ©mon,"4'3""",97.9
-carnivine,0,0,0,0,,Bug Catcher PokÃ©mon,"4'7""",59.5
-finneon,0,0,0,0,f,Wing Fish PokÃ©mon,"1'4""",15.4
-lumineon,0,0,0,0,f,Neon PokÃ©mon,"3'11""",52.9
-mantyke,0,0,0,0,,Kite PokÃ©mon,"3'3""",143.3
-snover,0,0,0,0,f,Frost Tree PokÃ©mon,"3'3""",111.3
-abomasnow,1,0,0,0,f,Frost Tree PokÃ©mon,"7'3""",298.7
-weavile,0,0,0,0,f,Sharp Claw PokÃ©mon,"3'7""",75.0
-magnezone,0,0,0,0,,Magnet Area PokÃ©mon,"3'11""",396.8
-lickilicky,0,0,0,0,,Licking PokÃ©mon,"5'7""",308.6
-rhyperior,0,0,0,0,f,Drill PokÃ©mon,"7'10""",623.5
-tangrowth,0,0,0,0,f,Vine PokÃ©mon,"6'7""",283.5
-electivire,0,0,0,0,,Thunderbolt PokÃ©mon,"5'11""",305.6
-magmortar,0,0,0,0,,Blast PokÃ©mon,"5'3""",149.9
-togekiss,0,0,0,0,,Jubilee PokÃ©mon,"4'11""",83.8
-yanmega,0,0,0,0,,Ogre Darner PokÃ©mon,"6'3""",113.5
-leafeon,0,0,0,0,,Verdant PokÃ©mon,"3'3""",56.2
-glaceon,0,0,0,0,,Fresh Snow PokÃ©mon,"2'7""",57.1
-gliscor,0,0,0,0,,Fang Scorpion PokÃ©mon,"6'7""",93.7
-mamoswine,0,0,0,0,f,Twin Tusk PokÃ©mon,"8'2""",641.5
-porygon-z,0,0,0,0,,Virtual PokÃ©mon,"2'11""",75.0
-gallade,1,0,0,0,,Blade PokÃ©mon,"5'3""",114.6
-probopass,0,0,0,0,,Compass PokÃ©mon,"4'7""",749.6
-dusknoir,0,0,0,0,,Gripper PokÃ©mon,"7'3""",235.0
-froslass,0,0,0,0,,Snow Land PokÃ©mon,"4'3""",58.6
-rotom,0,0,0,0,"normal, heat, wash, frost, fan, mow",Plasma PokÃ©mon,1',0.7
-uxie,0,0,0,0,,Knowledge PokÃ©mon,1',0.7
-mesprit,0,0,0,0,,Emotion PokÃ©mon,1',0.7
-azelf,0,0,0,0,,Willpower PokÃ©mon,1',0.7
-dialga,0,0,0,0,,Temporal PokÃ©mon,"17'9""",1505.8
-palkia,0,0,0,0,,Spatial PokÃ©mon,"13'9""",740.8
-heatran,0,0,0,0,,Lava Dome PokÃ©mon,"5'7""",948.0
-regigigas,0,0,0,0,,Colossal PokÃ©mon,"12'2""",925.9
-giratina,0,0,0,0,"altered, origin",Renegade PokÃ©mon,"14'9""",1653.5
-cresselia,0,0,0,0,,Lunar PokÃ©mon,"4'11""",188.7
-phione,0,0,0,0,,Sea Drifter PokÃ©mon,"1'4""",6.8
-manaphy,0,0,0,0,,Seafaring PokÃ©mon,1',3.1
-darkrai,0,0,0,0,,Pitch-Black PokÃ©mon,"4'11""",111.3
-shaymin,0,0,0,0,"land, sky",Gratitude PokÃ©mon,"8""",4.6
-arceus,0,0,0,0,"bug, dark, dragon, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water",Alpha PokÃ©mon,"10'6""",705.5
-victini,0,0,0,0,,Victory PokÃ©mon,"1'4""",8.8
-snivy,0,0,0,0,,Grass Snake PokÃ©mon,2',17.9
-servine,0,0,0,0,,Grass Snake PokÃ©mon,"2'7""",35.3
-serperior,0,0,0,0,,Regal PokÃ©mon,"10'10""",138.9
-tepig,0,0,0,0,,Fire Pig PokÃ©mon,"1'8""",21.8
-pignite,0,0,0,0,,Fire Pig PokÃ©mon,"3'3""",122.4
-emboar,0,0,0,0,,Mega Fire Pig PokÃ©mon,"5'3""",330.7
-oshawott,0,0,0,0,,Sea Otter PokÃ©mon,"1'8""",13.0
-dewott,0,0,0,0,,Discipline PokÃ©mon,"2'7""",54.0
-samurott,0,0,0,0,,Formidable PokÃ©mon,"4'11""",208.6
-patrat,0,0,0,0,,Scout PokÃ©mon,"1'8""",25.6
-watchog,0,0,0,0,,Lookout PokÃ©mon,"3'7""",59.5
-lillipup,0,0,0,0,,Puppy PokÃ©mon,"1'4""",9.0
-herdier,0,0,0,0,,Loyal Dog PokÃ©mon,"2'11""",32.4
-stoutland,0,0,0,0,,Big-Hearted PokÃ©mon,"3'11""",134.5
-purrloin,0,0,0,0,,Devious PokÃ©mon,"1'4""",22.3
-liepard,0,0,0,0,,Cruel PokÃ©mon,"3'7""",82.7
-pansage,0,0,0,0,,Grass Monkey PokÃ©mon,2',23.1
-simisage,0,0,0,0,,Thorn Monkey PokÃ©mon,"3'7""",67.2
-pansear,0,0,0,0,,High Temp PokÃ©mon,2',24.3
-simisear,0,0,0,0,,Ember PokÃ©mon,"3'3""",61.7
-panpour,0,0,0,0,,Spray PokÃ©mon,2',29.8
-simipour,0,0,0,0,,Geyser PokÃ©mon,"3'3""",63.9
-munna,0,0,0,0,,Dream Eater PokÃ©mon,2',51.4
-musharna,0,0,0,0,,Drowsing PokÃ©mon,"3'7""",133.4
-pidove,0,0,0,0,,Tiny Pigeon PokÃ©mon,1',4.6
-tranquill,0,0,0,0,,Wild Pigeon PokÃ©mon,2',33.1
-unfezant,0,0,0,0,f,Proud PokÃ©mon,"3'11""",63.9
-blitzle,0,0,0,0,,Electrified PokÃ©mon,"2'7""",65.7
-zebstrika,0,0,0,0,,Thunderbolt PokÃ©mon,"5'3""",175.3
-roggenrola,0,0,0,0,,Mantle PokÃ©mon,"1'4""",39.7
-boldore,0,0,0,0,,Ore PokÃ©mon,"2'11""",224.9
-gigalith,0,0,0,0,,Compressed PokÃ©mon,"5'7""",573.2
-woobat,0,0,0,0,,Bat PokÃ©mon,"1'4""",4.6
-swoobat,0,0,0,0,,Courting PokÃ©mon,"2'11""",23.1
-drilbur,0,0,0,0,,Mole PokÃ©mon,1',18.7
-excadrill,0,0,0,0,,Subterrene PokÃ©mon,"2'4""",89.1
-audino,1,0,0,0,,Hearing PokÃ©mon,"3'7""",68.3
-timburr,0,0,0,0,,Muscular PokÃ©mon,2',27.6
-gurdurr,0,0,0,0,,Muscular PokÃ©mon,"3'11""",88.2
-conkeldurr,0,0,0,0,,Muscular PokÃ©mon,"4'7""",191.8
-tympole,0,0,0,0,,Tadpole PokÃ©mon,"1'8""",9.9
-palpitoad,0,0,0,0,,Vibration PokÃ©mon,"2'7""",37.5
-seismitoad,0,0,0,0,,Vibration PokÃ©mon,"4'11""",136.7
-throh,0,0,0,0,,Judo PokÃ©mon,"4'3""",122.4
-sawk,0,0,0,0,,Karate PokÃ©mon,"4'7""",112.4
-sewaddle,0,0,0,0,,Sewing PokÃ©mon,1',5.5
-swadloon,0,0,0,0,,Leaf-Wrapped PokÃ©mon,"1'8""",16.1
-leavanny,0,0,0,0,,Nurturing PokÃ©mon,"3'11""",45.2
-venipede,0,0,0,0,,Centipede PokÃ©mon,"1'4""",11.7
-whirlipede,0,0,0,0,,Curlipede PokÃ©mon,"3'11""",129.0
-scolipede,0,0,0,0,,Megapede PokÃ©mon,"8'2""",442.0
-cottonee,0,0,0,0,,Cotton Puff PokÃ©mon,1',1.3
-whimsicott,0,0,0,0,,Windveiled PokÃ©mon,"2'4""",14.6
-petilil,0,0,0,0,,Bulb PokÃ©mon,"1'8""",14.6
-lilligant,0,0,0,0,,Flowering PokÃ©mon,"3'7""",35.9
-basculin,0,0,0,0,"red, blue",Hostile PokÃ©mon,"3'3""",39.7
-sandile,0,0,0,0,,Desert Croc PokÃ©mon,"2'4""",33.5
-krokorok,0,0,0,0,,Desert Croc PokÃ©mon,"3'3""",73.6
-krookodile,0,0,0,0,,Intimidation PokÃ©mon,"4'11""",212.3
-darumaka,0,0,1,0,,Zen Charm PokÃ©mon,2',82.7
-darmanitan,0,0,1,0,zen,Blazing PokÃ©mon,"4'3""",204.8
-maractus,0,0,0,0,,Cactus PokÃ©mon,"3'3""",61.7
-dwebble,0,0,0,0,,Rock Inn PokÃ©mon,1',32.0
-crustle,0,0,0,0,,Stone Home PokÃ©mon,"4'7""",440.9
-scraggy,0,0,0,0,,Shedding PokÃ©mon,2',26.0
-scrafty,0,0,0,0,,Hoodlum PokÃ©mon,"3'7""",66.1
-sigilyph,0,0,0,0,,Avianoid PokÃ©mon,"4'7""",30.9
-yamask,0,0,1,0,,Spirit PokÃ©mon,"1'8""",3.3
-cofagrigus,0,0,0,0,,Coffin PokÃ©mon,"5'7""",168.7
-tirtouga,0,0,0,0,,Prototurtle PokÃ©mon,"2'4""",36.4
-carracosta,0,0,0,0,,Prototurtle PokÃ©mon,"3'11""",178.6
-archen,0,0,0,0,,First Bird PokÃ©mon,"1'8""",20.9
-archeops,0,0,0,0,,First Bird PokÃ©mon,"4'7""",70.5
-trubbish,0,0,0,0,,Trash Bag PokÃ©mon,2',68.3
-garbodor,0,0,0,1,,Trash Heap PokÃ©mon,"6'3""",236.6
-zorua,0,0,0,0,,Tricky Fox PokÃ©mon,"2'4""",27.6
-zoroark,0,0,0,0,,Illusion Fox PokÃ©mon,"5'3""",178.8
-minccino,0,0,0,0,,Chinchilla PokÃ©mon,"1'4""",12.8
-cinccino,0,0,0,0,,Scarf PokÃ©mon,"1'8""",16.5
-gothita,0,0,0,0,,Fixation PokÃ©mon,"1'4""",12.8
-gothorita,0,0,0,0,,Manipulate PokÃ©mon,"2'4""",39.7
-gothitelle,0,0,0,0,,Astral Body PokÃ©mon,"4'11""",97.0
-solosis,0,0,0,0,,Cell PokÃ©mon,1',2.2
-duosion,0,0,0,0,,Mitosis PokÃ©mon,2',17.6
-reuniclus,0,0,0,0,,Multiplying PokÃ©mon,"3'3""",44.3
-ducklett,0,0,0,0,,Water Bird PokÃ©mon,"1'8""",12.1
-swanna,0,0,0,0,,White Bird PokÃ©mon,"4'3""",53.4
-vanillite,0,0,0,0,,Fresh Snow PokÃ©mon,"1'4""",12.6
-vanillish,0,0,0,0,,Icy Snow PokÃ©mon,"3'7""",90.4
-vanilluxe,0,0,0,0,,Snowstorm PokÃ©mon,"4'3""",126.8
-deerling,0,0,0,0,"spring, autumn, summer, winter",Season PokÃ©mon,2',43.0
-sawsbuck,0,0,0,0,"spring, summer, autumn, winter",Season PokÃ©mon,"6'3""",203.9
-emolga,0,0,0,0,,Sky Squirrel PokÃ©mon,"1'4""",11.0
-karrablast,0,0,0,0,,Clamping PokÃ©mon,"1'8""",13.0
-escavalier,0,0,0,0,,Cavalry PokÃ©mon,"3'3""",72.8
-foongus,0,0,0,0,,Mushroom PokÃ©mon,"8""",2.2
-amoonguss,0,0,0,0,,Mushroom PokÃ©mon,2',23.1
-frillish,0,0,0,0,f,Floating PokÃ©mon,"3'11""",72.8
-jellicent,0,0,0,0,f,Floating PokÃ©mon,"7'3""",297.6
-alomomola,0,0,0,0,,Caring PokÃ©mon,"3'11""",69.7
-joltik,0,0,0,0,,Attaching PokÃ©mon,"4""",1.3
-galvantula,0,0,0,0,,EleSpider PokÃ©mon,"2'7""",31.5
-ferroseed,0,0,0,0,,Thorn Seed PokÃ©mon,2',41.4
-ferrothorn,0,0,0,0,,Thorn Pod PokÃ©mon,"3'3""",242.5
-klink,0,0,0,0,,Gear PokÃ©mon,1',46.3
-klang,0,0,0,0,,Gear PokÃ©mon,2',112.4
-klinklang,0,0,0,0,,Gear PokÃ©mon,2',178.6
-tynamo,0,0,0,0,,EleFish PokÃ©mon,"8""",0.7
-eelektrik,0,0,0,0,,EleFish PokÃ©mon,"3'11""",48.5
-eelektross,0,0,0,0,,EleFish PokÃ©mon,"6'11""",177.5
-elgyem,0,0,0,0,,Cerebral PokÃ©mon,"1'8""",19.8
-beheeyem,0,0,0,0,,Cerebral PokÃ©mon,"3'3""",76.1
-litwick,0,0,0,0,,Candle PokÃ©mon,1',6.8
-lampent,0,0,0,0,,Lamp PokÃ©mon,2',28.7
-chandelure,0,0,0,0,,Luring PokÃ©mon,"3'3""",75.6
-axew,0,0,0,0,,Tusk PokÃ©mon,2',39.7
-fraxure,0,0,0,0,,Axe Jaw PokÃ©mon,"3'3""",79.4
-haxorus,0,0,0,0,,Axe Jaw PokÃ©mon,"5'11""",232.6
-cubchoo,0,0,0,0,,Chill PokÃ©mon,"1'8""",18.7
-beartic,0,0,0,0,,Freezing PokÃ©mon,"8'6""",573.2
-cryogonal,0,0,0,0,,Crystallizing PokÃ©mon,"3'7""",326.3
-shelmet,0,0,0,0,,Snail PokÃ©mon,"1'4""",17.0
-accelgor,0,0,0,0,,Shell Out PokÃ©mon,"2'7""",55.8
-stunfisk,0,0,1,0,,Trap PokÃ©mon,"2'4""",24.3
-mienfoo,0,0,0,0,,Martial Arts PokÃ©mon,"2'11""",44.1
-mienshao,0,0,0,0,,Martial Arts PokÃ©mon,"4'7""",78.3
-druddigon,0,0,0,0,,Cave PokÃ©mon,"5'3""",306.4
-golett,0,0,0,0,,Automaton PokÃ©mon,"3'3""",202.8
-golurk,0,0,0,0,,Automaton PokÃ©mon,"9'2""",727.5
-pawniard,0,0,0,0,,Sharp Blade PokÃ©mon,"1'8""",22.5
-bisharp,0,0,0,0,,Sword Blade PokÃ©mon,"5'3""",154.3
-bouffalant,0,0,0,0,,Bash Buffalo PokÃ©mon,"5'3""",208.6
-rufflet,0,0,0,0,,Eaglet PokÃ©mon,"1'8""",23.1
-braviary,0,0,0,0,,Valiant PokÃ©mon,"4'11""",90.4
-vullaby,0,0,0,0,,Diapered PokÃ©mon,"1'8""",19.8
-mandibuzz,0,0,0,0,,Bone Vulture PokÃ©mon,"3'11""",87.1
-heatmor,0,0,0,0,,Anteater PokÃ©mon,"4'7""",127.9
-durant,0,0,0,0,,Iron Ant PokÃ©mon,1',72.8
-deino,0,0,0,0,,Irate PokÃ©mon,"2'7""",38.1
-zweilous,0,0,0,0,,Hostile PokÃ©mon,"4'7""",110.2
-hydreigon,0,0,0,0,,Brutal PokÃ©mon,"5'11""",352.7
-larvesta,0,0,0,0,,Torch PokÃ©mon,"3'7""",63.5
-volcarona,0,0,0,0,,Sun PokÃ©mon,"5'3""",101.4
-cobalion,0,0,0,0,,Iron Will PokÃ©mon,"6'11""",551.2
-terrakion,0,0,0,0,,Cavern PokÃ©mon,"6'3""",573.2
-virizion,0,0,0,0,,Grassland PokÃ©mon,"6'7""",440.9
-tornadus,0,0,0,0,therian,Cyclone PokÃ©mon,"4'11""",138.9
-thundurus,0,0,0,0,therian,Bolt Strike PokÃ©mon,"4'11""",134.5
-reshiram,0,0,0,0,,Vast White PokÃ©mon,"10'6""",727.5
-zekrom,0,0,0,0,,Deep Black PokÃ©mon,"9'6""",760.6
-landorus,0,0,0,0,therian,Abundance PokÃ©mon,"4'11""",149.9
-kyurem,0,0,0,0,"black, white",Boundary PokÃ©mon,"9'10""",716.5
-keldeo,0,0,0,0,resolute,Colt PokÃ©mon,"4'7""",106.9
-meloetta,0,0,0,0,pirouette,Melody PokÃ©mon,2',14.3
-genesect,0,0,0,0,"normal, shock, burn, chill, douse",Paleozoic PokÃ©mon,"4'11""",181.9
-chespin,0,0,0,0,,Spiny Nut PokÃ©mon,"1'4""",19.8
-quilladin,0,0,0,0,,Spiny Armor PokÃ©mon,"2'4""",63.9
-chesnaught,0,0,0,0,,Spiny Armor PokÃ©mon,"5'3""",198.4
-fennekin,0,0,0,0,,Fox PokÃ©mon,"1'4""",20.7
-braixen,0,0,0,0,,Fox PokÃ©mon,"3'3""",32.0
-delphox,0,0,0,0,,Fox PokÃ©mon,"4'11""",86.0
-froakie,0,0,0,0,,Bubble Frog PokÃ©mon,1',15.4
-frogadier,0,0,0,0,,Bubble Frog PokÃ©mon,2',24.0
-greninja,0,0,0,0,ash,Ninja PokÃ©mon,"4'11""",88.2
-bunnelby,0,0,0,0,,Digging PokÃ©mon,"1'4""",11.0
-diggersby,0,0,0,0,,Digging PokÃ©mon,"3'3""",93.5
-fletchling,0,0,0,0,,Tiny Robin PokÃ©mon,1',3.7
-fletchinder,0,0,0,0,,Ember PokÃ©mon,"2'4""",35.3
-talonflame,0,0,0,0,,Scorching PokÃ©mon,"3'11""",54.0
-scatter,0,0,0,0,,Scatterdust PokÃ©mon,1',5.5
-spewpa,0,0,0,0,,Scatterdust PokÃ©mon,1',18.5
-vivillon,0,0,0,0,"archipelago, continental, elegant, garden, highplains, icysnow, jungle, marine, meadow, modern, monsoon, ocean, polar, river, sandstorm, savanna, sun, tundra",Scale PokÃ©mon,"3'11""",37.5
-litleo,0,0,0,0,,Lion Cub PokÃ©mon,2',29.8
-pyroar,0,0,0,0,f,Royal PokÃ©mon,"4'11""",179.7
-flabebe,0,0,0,0,"red, blue, orange, white, yellow",Single Bloom PokÃ©mon,"4""",0.2
-floette,0,0,0,0,"red, blue, eternal, orange, white, yellow",Single Bloom PokÃ©mon,"8""",2.0
-florges,0,0,0,0,"red, blue, orange, white, yellow",Garden PokÃ©mon,"3'7""",22.0
-skiddo,0,0,0,0,,Mount PokÃ©mon,"2'11""",68.3
-gogoat,0,0,0,0,,Mount PokÃ©mon,"5'7""",200.6
-pancham,0,0,0,0,,Playful PokÃ©mon,2',17.6
-pangoro,0,0,0,0,,Daunting PokÃ©mon,"6'11""",299.8
-furfrou,0,0,0,0,"normal, heart, star, diamond, debutante, matron, dandy, lareine, kabuki, pharaoh",Poodle PokÃ©mon,"3'11""",61.7
-espurr,0,0,0,0,,Restraint PokÃ©mon,1',7.7
-meowstic,0,0,0,0,f,Constraint PokÃ©mon,2',18.7
-honedge,0,0,0,0,,Sword PokÃ©mon,"2'7""",4.4
-doublade,0,0,0,0,,Sword PokÃ©mon,"2'7""",9.9
-aegislash,0,0,0,0,"shield, blade",Royal Sword PokÃ©mon,"5'7""",116.8
-spritzee,0,0,0,0,,Perfume PokÃ©mon,"8""",1.1
-aromatisse,0,0,0,0,,Fragrance PokÃ©mon,"2'7""",34.2
-swirlix,0,0,0,0,,Cotton Candy PokÃ©mon,"1'4""",7.7
-slurpuff,0,0,0,0,,Meringue PokÃ©mon,"2'7""",11.0
-inkay,0,0,0,0,,Revolving PokÃ©mon,"1'4""",7.7
-malamar,0,0,0,0,,Overturning PokÃ©mon,"4'11""",103.6
-binacle,0,0,0,0,,Two-Handed PokÃ©mon,"1'8""",68.3
-barbaracle,0,0,0,0,,Collective PokÃ©mon,"4'3""",211.6
-skrelp,0,0,0,0,,Mock Kelp PokÃ©mon,"1'8""",16.1
-dragalge,0,0,0,0,,Mock Kelp PokÃ©mon,"5'11""",179.7
-clauncher,0,0,0,0,,Water Gun PokÃ©mon,"1'8""",18.3
-clawitzer,0,0,0,0,,Howitzer PokÃ©mon,"4'3""",77.8
-helioptile,0,0,0,0,,Generator PokÃ©mon,"1'8""",13.2
-heliolisk,0,0,0,0,,Generator PokÃ©mon,"3'3""",46.3
-tyrunt,0,0,0,0,,Royal Heir PokÃ©mon,"2'7""",57.3
-tyrantrum,0,0,0,0,,Despot PokÃ©mon,"8'2""",595.2
-amaura,0,0,0,0,,Tundra PokÃ©mon,"4'3""",55.6
-aurorus,0,0,0,0,,Tundra PokÃ©mon,"8'10""",496.0
-sylveon,0,0,0,0,,Intertwining PokÃ©mon,"3'3""",51.8
-hawlucha,0,0,0,0,,Wrestling PokÃ©mon,"2'7""",47.4
-dedenne,0,0,0,0,,Antenna PokÃ©mon,"8""",4.9
-carbink,0,0,0,0,,Jewel PokÃ©mon,1',12.6
-goomy,0,0,0,0,,Soft Tissue PokÃ©mon,1',6.2
-sliggoo,0,0,0,0,,Soft Tissue PokÃ©mon,"2'7""",38.6
-goodra,0,0,0,0,,Dragon PokÃ©mon,"6'7""",331.8
-klefki,0,0,0,0,,Key Ring PokÃ©mon,"8""",6.6
-phantump,0,0,0,0,,Stump PokÃ©mon,"1'4""",15.4
-trevenant,0,0,0,0,,Elder Tree PokÃ©mon,"4'11""",156.5
-pumpkaboo,0,0,0,0,"small, average, large, super",Pumpkin PokÃ©mon,"1'4""",11.0
-gourgeist,0,0,0,0,"small, average, large, super",Pumpkin PokÃ©mon,"2'11""",27.6
-bergmite,0,0,0,0,,Ice Chunk PokÃ©mon,"3'3""",219.4
-avalugg,0,0,0,0,,Iceberg PokÃ©mon,"6'7""",1113.3
-noibat,0,0,0,0,,Sound Wave PokÃ©mon,"1'8""",17.6
-noivern,0,0,0,0,,Sound Wave PokÃ©mon,"4'11""",187.4
-xerneas,0,0,0,0,,Life PokÃ©mon,"9'10""",474.0
-yveltal,0,0,0,0,,Destruction PokÃ©mon,19',447.5
-zygarde,0,0,0,0,"10, 50, complete",Order PokÃ©mon,"16'5""",672.4
-diancie,1,0,0,0,,Jewel PokÃ©mon,"2'4""",19.4
-hoopa,0,0,0,0,,Mischief PokÃ©mon,"1'8""",19.8
-volcanion,0,0,0,0,,Steam PokÃ©mon,"5'7""",429.9
-rowlet,0,0,0,0,,Grass Quill PokÃ©mon,1',3.3
-dartrix,0,0,0,0,,Blade Quill PokÃ©mon,"2'4""",35.3
-decidueye,0,0,0,0,,Arrow Quill PokÃ©mon,"5'3""",80.7
-litten,0,0,0,0,,Fire Cat PokÃ©mon,"1'4""",9.5
-torracat,0,0,0,0,,Fire Cat PokÃ©mon,"2'4""",55.1
-incineroar,0,0,0,0,,Heel PokÃ©mon,"5'11""",183.0
-popplio,0,0,0,0,,Sea Lion PokÃ©mon,"1'4""",16.5
-brionne,0,0,0,0,,Pop Star PokÃ©mon,2',38.6
-primarina,0,0,0,0,,Soloist PokÃ©mon,"5'11""",97.0
-pikipek,0,0,0,0,,Woodpecker PokÃ©mon,1',2.6
-trumbeak,0,0,0,0,,Bugle Beak PokÃ©mon,2',32.6
-toucannon,0,0,0,0,,Cannon PokÃ©mon,"3'7""",57.3
-yungoos,0,0,0,0,,Loitering PokÃ©mon,"1'4""",13.2
-gumshoos,0,0,0,0,,Stakeout PokÃ©mon,"2'4""",31.3
-grubbin,0,0,0,0,,Larva PokÃ©mon,"1'4""",9.7
-charjabug,0,0,0,0,,Battery PokÃ©mon,"1'8""",23.1
-vikavolt,0,0,0,0,,Stag Beetle PokÃ©mon,"4'11""",99.2
-crabrawler,0,0,0,0,,Boxing PokÃ©mon,2',15.4
-crabominable,0,0,0,0,,Woolly Crab PokÃ©mon,"5'7""",396.8
-oricorio,0,0,0,0,"baile, pompom, pau, sensu",Dancing PokÃ©mon,2',7.5
-cutiefly,0,0,0,0,,Bee Fly PokÃ©mon,"4""",0.4
-ribombee,0,0,0,0,,Bee Fly PokÃ©mon,"8""",1.1
-rockruff,0,0,0,0,,Puppy PokÃ©mon,"1'8""",20.3
-lycanroc,0,0,0,0,"midday, midnight, dusk",Wolf PokÃ©mon,"2'7""",55.1
-wishiwashi,0,0,0,0,school,Small Fry PokÃ©mon,"8""",0.7
-mareanie,0,0,0,0,,Brutal Star PokÃ©mon,"1'4""",17.6
-toxapex,0,0,0,0,,Brutal Star PokÃ©mon,"2'4""",32.0
-mudbray,0,0,0,0,,Donkey PokÃ©mon,"3'3""",242.5
-mudsdale,0,0,0,0,,Draft Horse PokÃ©mon,"8'2""",2028.3
-dewpider,0,0,0,0,,Water Bubble PokÃ©mon,1',8.8
-araquanid,0,0,0,0,,Water Bubble PokÃ©mon,"5'11""",180.8
-fomantis,0,0,0,0,,Sickle Grass PokÃ©mon,1',3.3
-lurantis,0,0,0,0,,Bloom Sickle PokÃ©mon,"2'11""",40.8
-morelull,0,0,0,0,,Illuminating PokÃ©mon,"8""",3.3
-shiinotic,0,0,0,0,,Illuminating PokÃ©mon,"3'3""",25.4
-salandit,0,0,0,0,,Toxic Lizard PokÃ©mon,2',10.6
-salazzle,0,0,0,0,,Toxic Lizard PokÃ©mon,"3'11""",48.9
-stufful,0,0,0,0,,Flailing PokÃ©mon,"1'8""",15.0
-bewear,0,0,0,0,,Strong Arm PokÃ©mon,"6'11""",297.6
-bounsweet,0,0,0,0,,Fruit PokÃ©mon,1',7.1
-steenee,0,0,0,0,,Fruit PokÃ©mon,"2'4""",18.1
-tsareena,0,0,0,0,,Fruit PokÃ©mon,"3'11""",47.2
-comfey,0,0,0,0,,Posy Picker PokÃ©mon,"4""",0.7
-oranguru,0,0,0,0,,Sage PokÃ©mon,"4'11""",167.6
-passimian,0,0,0,0,,Teamwork PokÃ©mon,"6'7""",182.5
-wimpod,0,0,0,0,,Turn Tail PokÃ©mon,"1'8""",26.5
-golisopod,0,0,0,0,,Hard Scale PokÃ©mon,"6'7""",238.1
-sandygast,0,0,0,0,,Sand Heap PokÃ©mon,"1'8""",154.3
-palossand,0,0,0,0,,Sand Castle PokÃ©mon,"4'3""",551.2
-pyukumuku,0,0,0,0,,Sea Cucumber PokÃ©mon,1',2.6
-typenull,0,0,0,0,,Synthetic PokÃ©mon,"6'3""",265.7
-silvally,0,0,0,0,"bug, dark, dragon, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water",Synthetic PokÃ©mon,"7'7""",221.6
-minior,0,0,0,0,"red, orange, yellow, green, blue, indigo, violet",Meteor PokÃ©mon,1',88.2
-komala,0,0,0,0,,Drowsing PokÃ©mon,"1'4""",43.9
-turtonator,0,0,0,0,,Blast Turtle PokÃ©mon,"6'7""",467.4
-togedemaru,0,0,0,0,,Roly-Poly PokÃ©mon,1',7.3
-mimikyu,0,0,0,0,busted,Disguise PokÃ©mon,"8""",1.5
-bruxish,0,0,0,0,,Gnash Teeth PokÃ©mon,"2'11""",41.9
-drampa,0,0,0,0,,Placid PokÃ©mon,"9'10""",407.9
-dhelmise,0,0,0,0,,Sea Creeper PokÃ©mon,"12'10""",463.0
-jangmoo,0,0,0,0,,Scaly PokÃ©mon,2',65.5
-hakamoo,0,0,0,0,,Scaly PokÃ©mon,"3'11""",103.6
-kommoo,0,0,0,0,,Scaly PokÃ©mon,"5'3""",172.4
-tapukoko,0,0,0,0,,Land Spirit PokÃ©mon,"5'11""",45.2
-tapulele,0,0,0,0,,Land Spirit PokÃ©mon,"3'11""",41.0
-tapubulu,0,0,0,0,,Land Spirit PokÃ©mon,"6'3""",100.3
-tapufini,0,0,0,0,,Land Spirit PokÃ©mon,"4'3""",46.7
-cosmog,0,0,0,0,,Nebula PokÃ©mon,"8""",0.2
-cosmoem,0,0,0,0,,Protostar PokÃ©mon,"4""",2204.4
-solgaleo,0,0,0,0,,Sunne PokÃ©mon,"11'2""",507.1
-lunala,0,0,0,0,,Moone PokÃ©mon,"13'1""",264.6
-nihilego,0,0,0,0,,Parasite PokÃ©mon,"3'11""",122.4
-buzzwole,0,0,0,0,,Swollen PokÃ©mon,"7'10""",735.5
-pheromosa,0,0,0,0,,Lissome PokÃ©mon,"5'11""",55.1
-xurkitree,0,0,0,0,,Glowing PokÃ©mon,"12'6""",220.5
-celesteela,0,0,0,0,,Launch PokÃ©mon,"30'2""",2204.4
-kartana,0,0,0,0,,Drawn Sword PokÃ©mon,1',0.2
-guzzlord,0,0,0,0,,Junkivore PokÃ©mon,"18'1""",1957.7
-necrozma,0,0,0,0,"dawnwings, duskmane, ultra",Prism PokÃ©mon,"7'10""",507.1
-magearna,0,0,0,0,original,Artificial PokÃ©mon,"3'3""",177.5
-marshadow,0,0,0,0,,Gloomdweller PokÃ©mon,"2'4""",48.9
-poipole,0,0,0,0,,Poison Pin PokÃ©mon,2',4.0
-naganadel,0,0,0,0,,Poison Pin PokÃ©mon,"11'10""",330.7
-stakataka,0,0,0,0,,Rampart PokÃ©mon,"18'1""",1807.8
-blacephalon,0,0,0,0,,Fireworks PokÃ©mon,"5'11""",28.7
-zeraora,0,0,0,0,,Thunderclap PokÃ©mon,"4'11""",98.1
-meltan,0,0,0,0,,Hex Nut PokÃ©mon,"8""",17.6
-melmetal,0,0,0,1,,Hex Nut PokÃ©mon,"8'2""",1763.7
-grookey,0,0,0,0,,Chimp PokÃ©mon,1',11.0
-thwakey,0,0,0,0,,Beat PokÃ©mon,"2'4""",30.9
-rillaboom,0,0,0,1,,Drummer PokÃ©mon,"6'11""",198.4
-scorbunny,0,0,0,0,,Rabbit PokÃ©mon,1',9.9
-raboot,0,0,0,0,,Rabbit PokÃ©mon,2',19.8
-cinderace,0,0,0,1,,Striker PokÃ©mon,"4'7""",72.8
-sobble,0,0,0,0,,Water Lizard PokÃ©mon,1',8.8
-drizzile,0,0,0,0,,Water Lizard PokÃ©mon,"2'4""",25.4
-inteleon,0,0,0,1,,Secret Agent PokÃ©mon,"6'3""",99.6
-skwovet,0,0,0,0,,Cheeky PokÃ©mon,1',5.5
-greedent,0,0,0,0,,Greedy PokÃ©mon,2',13.2
-rookidee,0,0,0,0,,Tiny Bird PokÃ©mon,"8""",4.0
-corvisquire,0,0,0,0,,Raven PokÃ©mon,"2'7""",35.3
-corviknight,0,0,0,1,,Raven PokÃ©mon,"7'3""",165.3
-blipbug,0,0,0,0,,Larva PokÃ©mon,"1'4""",17.6
-dottler,0,0,0,0,,Radome PokÃ©mon,"1'4""",43.0
-orbeetle,0,0,0,1,,Seven Spot PokÃ©mon,"1'4""",89.9
-nickit,0,0,0,0,,Fox PokÃ©mon,2',19.6
-thievul,0,0,0,0,,Fox PokÃ©mon,"3'11""",43.9
-gossifleur,0,0,0,0,,Flowering PokÃ©mon,"1'4""",4.9
-eldegoss,0,0,0,0,,Cotton Bloom PokÃ©mon,"1'8""",5.5
-wooloo,0,0,0,0,,Sheep PokÃ©mon,2',13.2
-dubwool,0,0,0,0,,Sheep PokÃ©mon,"4'3""",94.8
-chewtle,0,0,0,0,,Snapping PokÃ©mon,1',18.7
-drednaw,0,0,0,1,,Bite PokÃ©mon,"3'3""",254.6
-yamper,0,0,0,0,,Puppy PokÃ©mon,1',29.8
-boltund,0,0,0,0,,Dog PokÃ©mon,"3'3""",75.0
-rolycoly,0,0,0,0,,Coal PokÃ©mon,1',26.5
-carkol,0,0,0,0,,Coal PokÃ©mon,"3'7""",172.0
-coalossal,0,0,0,1,,Coal PokÃ©mon,"9'2""",684.5
-applin,0,0,0,0,,Apple Core PokÃ©mon,"8""",1.1
-flapple,0,0,0,1,,Apple Wing PokÃ©mon,1',2.2
-appletun,0,0,0,1,,Apple Nectar PokÃ©mon,"1'4""",28.7
-silivobra,0,0,0,0,,Sand Snake PokÃ©mon,"7'3""",16.8
-sandaconda,0,0,0,1,,Sand Snake PokÃ©mon,"12'6""",144.4
-cramorant,0,0,0,0,"normal, gorging, gulping",Gulp PokÃ©mon,"2'7""",39.7
-arrokuda,0,0,0,0,,Rush PokÃ©mon,"1'8""",2.2
-barraskewda,0,0,0,0,,Skewer PokÃ©mon,"4'3""",66.1
-toxel,0,0,0,0,,Baby PokÃ©mon,"1'4""",24.3
-toxtricity,0,0,0,1,"amped, lowkey",Punk PokÃ©mon,"5'3""",88.2
-sizzlipede,0,0,0,0,,Radiator PokÃ©mon,"2'4""",2.2
-centiskorch,0,0,0,1,,Radiator PokÃ©mon,"9'10""",264.6
-clobbopus,0,0,0,0,,Tantrum PokÃ©mon,2',8.8
-grapploct,0,0,0,0,,Jujitsu PokÃ©mon,"5'3""",86.0
-sinistea,0,0,0,0,"phony, antique",Black Tea PokÃ©mon,"4""",0.4
-polteageist,0,0,0,0,"phony, antique",Black Tea PokÃ©mon,"8""",0.9
-hatenna,0,0,0,0,,Calm PokÃ©mon,"1'4""",7.5
-hattrem,0,0,0,0,,Serene PokÃ©mon,2',10.6
-hatterene,0,0,0,1,,Silent PokÃ©mon,"6'11""",11.2
-impidimp,0,0,0,0,,Wily PokÃ©mon,"1'4""",12.1
-morgrem,0,0,0,0,,Devious PokÃ©mon,"2'7""",27.6
-grimmsnarl,0,0,0,1,,Bulk Up PokÃ©mon,"4'11""",134.5
-obstagoon,0,0,0,0,,Blocking PokÃ©mon,"5'3""",101.4
-perrserker,0,0,0,0,,Viking PokÃ©mon,"2'7""",61.7
-cursola,0,0,0,0,,Coral PokÃ©mon,"3'3""",0.9
-sirfetchd,0,0,0,0,,Wild Duck PokÃ©mon,"2'7""",257.9
-mr. rime,0,0,0,0,,Comedian PokÃ©mon,"4'11""",128.3
-runerigus,0,0,0,0,,Grudge PokÃ©mon,"5'3""",146.8
-milcery,0,0,0,0,,Cream PokÃ©mon,"8""",0.7
-alcremie,0,0,0,1,"berry, clover, flower, love, ribbon, star, strawberry, caramel-swirl, lemon-cream, matcha-cream, mint-cream, rainbow-swirl, ruby-cream, ruby-swirl, salted-cream, vanilla-cream",Cream PokÃ©mon,1',1.1
-falinks,0,0,0,0,,Formation PokÃ©mon,"9'10""",136.7
-pincurchin,0,0,0,0,,Sea Urchin PokÃ©mon,1',2.2
-snom,0,0,0,0,,Worm PokÃ©mon,1',8.4
-frosmoth,0,0,0,0,,Frost Moth PokÃ©mon,"4'3""",92.6
-stonjourner,0,0,0,0,,Big Rock PokÃ©mon,"8'2""",1146.4
-eiscue,0,0,0,0,"ice, noice",Penguin PokÃ©mon,"4'7""",196.2
-indeedee,0,0,0,0,f,Emotion PokÃ©mon,"2'11""",61.7
-morpeko,0,0,0,0,hangry,Two-Sided PokÃ©mon,1',6.6
-cufant,0,0,0,0,,Copperderm PokÃ©mon,"3'11""",220.5
-copperajah,0,0,0,1,,Copperderm PokÃ©mon,"9'10""",1433.0
-dracozolt,0,0,0,0,,Fossil PokÃ©mon,"5'11""",418.9
-arctozolt,0,0,0,0,,Fossil PokÃ©mon,"7'7""",330.7
-dracovish,0,0,0,0,,Fossil PokÃ©mon,"7'7""",474.0
-arctovish,0,0,0,0,,Fossil PokÃ©mon,"6'7""",385.8
-duraludon,0,0,0,1,,Alloy PokÃ©mon,"5'11""",88.2
-dreepy,0,0,0,0,,Lingering PokÃ©mon,"1'8""",4.4
-drakloak,0,0,0,0,,Caretaker PokÃ©mon,"4'7""",24.3
-dragapult,0,0,0,0,,Stealth PokÃ©mon,"9'10""",110.2
-zacian,0,0,0,0,crowned,Warrior PokÃ©mon,"9'2""",242.5
-zamazenta,0,0,0,0,crowned,Warrior PokÃ©mon,"9'6""",463.0
-eternatus,0,0,0,0,eternamax,Gigantic PokÃ©mon,"65'7""",2094.4
-kubfu,0,0,0,0,,Wushu PokÃ©mon,2',26.5
-urshifu,0,0,0,1,,Wushu PokÃ©mon,"6'3""",231.5
-zarude,0,0,0,0,,Rogue Monkey PokÃ©mon,"5'11""",154.3
+bulbasaur,0,0,0,0,,Seed Pokémon,2@4#,15.2
+ivysaur,0,0,0,0,,Seed Pokémon,3@3#,28.7
+venusaur,1,0,0,1,,Seed Pokémon,6@7#,220.5
+charmander,0,0,0,0,,Lizard Pokémon,2@,18.7
+charmeleon,0,0,0,0,,Flame Pokémon,3@7#,41.9
+charizard,1,0,0,1,x; y,Flame Pokémon,5@7#,199.5
+squirtle,0,0,0,0,,Tiny Turtle Pokémon,1@8#,19.8
+wartortle,0,0,0,0,,Turtle Pokémon,3@3#,49.6
+blastoise,1,0,0,1,,Shellfish Pokémon,5@3#,188.5
+caterpie,0,0,0,0,,Worm Pokémon,1@,6.4
+metapod,0,0,0,0,,Cocoon Pokémon,2@4#,21.8
+butterfree,0,0,0,1,,Butterfly Pokémon,3@7#,70.5
+weedle,0,0,0,0,,Hairy Bug Pokémon,1@,7.1
+kakuna,0,0,0,0,,Cocoon Pokémon,2@,22.0
+beedrill,1,0,0,0,,Poison Bee Pokémon,3@3#,65.0
+pidgey,0,0,0,0,,Tiny Bird Pokémon,1@,4.0
+pidgeotto,0,0,0,0,,Bird Pokémon,3@7#,66.1
+pidgeot,1,0,0,0,,Bird Pokémon,4@11#,87.1
+rattata,0,1,0,0,f,Mouse Pokémon,1@,7.7
+raticate,0,1,0,0,f,Mouse Pokémon,2@4#,40.8
+spearow,0,0,0,0,,Tiny Bird Pokémon,1@,4.4
+fearow,0,0,0,0,,Beak Pokémon,3@11#,83.8
+ekans,0,0,0,0,,Snake Pokémon,6@7#,15.2
+arbok,0,0,0,0,,Cobra Pokémon,11@6#,143.3
+pikachu,0,0,0,1,f; alola; hoenn; kalos; libre; original; partner; phd; popstar; rockstar; sinnoh; starter; starter-f; unova,Mouse Pokémon,1@4#,13.2
+raichu,0,1,0,0,,Mouse Pokémon,2@7#,66.1
+sandshrew,0,1,0,0,,Mouse Pokémon,2@,26.5
+sandslash,0,1,0,0,,Mouse Pokémon,3@3#,65.0
+nidoran,0,0,0,0,,Poison Pin Pokémon,1@4#,15.4
+nidorina,0,0,0,0,,Poison Pin Pokémon,2@7#,44.1
+nidoqueen,0,0,0,0,,Drill Pokémon,4@3#,132.3
+nidoran,0,0,0,0,,Poison Pin Pokémon,1@8#,19.8
+nidorino,0,0,0,0,,Poison Pin Pokémon,2@11#,43.0
+nidoking,0,0,0,0,,Drill Pokémon,4@7#,136.7
+clefairy,0,0,0,0,,Fairy Pokémon,2@,16.5
+clefable,0,0,0,0,,Fairy Pokémon,4@3#,88.2
+vulpix,0,1,0,0,,Fox Pokémon,2@,21.8
+ninetales,0,1,0,0,,Fox Pokémon,3@7#,43.9
+jigglypuff,0,0,0,0,,Balloon Pokémon,1@8#,12.1
+wigglytuff,0,0,0,0,,Balloon Pokémon,3@3#,26.5
+zubat,0,0,0,0,f,Bat Pokémon,2@7#,16.5
+golbat,0,0,0,0,f,Bat Pokémon,5@3#,121.3
+oddish,0,0,0,0,,Weed Pokémon,1@8#,11.9
+gloom,0,0,0,0,,Weed Pokémon,2@7#,19.0
+vileplume,0,0,0,0,,Flower Pokémon,3@11#,41.0
+paras,0,0,0,0,,Mushroom Pokémon,1@,11.9
+parasect,0,0,0,0,,Mushroom Pokémon,3@3#,65.0
+venonat,0,0,0,0,,Insect Pokémon,3@3#,66.1
+venomoth,0,0,0,0,,Poison Moth Pokémon,4@11#,27.6
+diglett,0,1,0,0,,Mole Pokémon,8#,1.8
+dugtrio,0,1,0,0,,Mole Pokémon,2@4#,73.4
+meowth,0,1,1,1,,Scratch Cat Pokémon,1@4#,9.3
+persian,0,1,0,0,,Classy Cat Pokémon,3@3#,70.5
+psyduck,0,0,0,0,,Duck Pokémon,2@7#,43.2
+golduck,0,0,0,0,,Duck Pokémon,5@7#,168.9
+mankey,0,0,0,0,,Pig Monkey Pokémon,1@8#,61.7
+primeape,0,0,0,0,,Pig Monkey Pokémon,3@3#,70.5
+growlithe,0,0,0,0,,Puppy Pokémon,2@4#,41.9
+arcanine,0,0,0,0,,Legendary Pokémon,6@3#,341.7
+poliwag,0,0,0,0,,Tadpole Pokémon,2@,27.3
+poliwhirl,0,0,0,0,,Tadpole Pokémon,3@3#,44.1
+poliwrath,0,0,0,0,,Tadpole Pokémon,4@3#,119.0
+abra,0,0,0,0,,Psi Pokémon,2@11#,43.0
+kadabra,0,0,0,0,,Psi Pokémon,4@3#,124.6
+alakazam,1,0,0,0,,Psi Pokémon,4@11#,105.8
+machop,0,0,0,0,,Superpower Pokémon,2@7#,43.0
+machoke,0,0,0,0,,Superpower Pokémon,4@11#,155.4
+machamp,0,0,0,1,,Superpower Pokémon,5@3#,286.6
+bellsprout,0,0,0,0,,Flower Pokémon,2@4#,8.8
+weepinbell,0,0,0,0,,Flycatcher Pokémon,3@3#,14.1
+victreebel,0,0,0,0,,Flycatcher Pokémon,5@7#,34.2
+tentacool,0,0,0,0,,Jellyfish Pokémon,2@11#,100.3
+tentacruel,0,0,0,0,,Jellyfish Pokémon,5@3#,121.3
+geodude,0,1,0,0,,Rock Pokémon,1@4#,44.1
+graveler,0,1,0,0,,Rock Pokémon,3@3#,231.5
+golem,0,1,0,0,,Megaton Pokémon,4@7#,661.4
+ponyta,0,0,1,0,,Fire Horse Pokémon,3@3#,66.1
+rapidash,0,0,1,0,,Fire Horse Pokémon,5@7#,209.4
+slowpoke,0,0,1,0,,Dopey Pokémon,3@11#,79.4
+slowbro,1,0,1,0,,Hermit Crab Pokémon,5@3#,173.1
+magnemite,0,0,0,0,,Magnet Pokémon,1@,13.2
+magneton,0,0,0,0,,Magnet Pokémon,3@3#,132.3
+farfetchd,0,0,1,0,,Wild Duck Pokémon,2@7#,33.1
+doduo,0,0,0,0,,Twin Bird Pokémon,4@7#,86.4
+dodrio,0,0,0,0,,Triple Bird Pokémon,5@11#,187.8
+seel,0,0,0,0,,Sea Lion Pokémon,3@7#,198.4
+dewgong,0,0,0,0,,Sea Lion Pokémon,5@7#,264.6
+grimer,0,1,0,0,,Sludge Pokémon,2@11#,66.1
+muk,0,1,0,0,,Sludge Pokémon,3@11#,66.1
+shellder,0,0,0,0,,Bivalve Pokémon,1@,8.8
+cloyster,0,0,0,0,,Bivalve Pokémon,4@11#,292.1
+gastly,0,0,0,0,,Gas Pokémon,4@3#,0.2
+haunter,0,0,0,0,,Gas Pokémon,5@3#,0.2
+gengar,1,0,0,1,,Shadow Pokémon,4@11#,89.3
+onix,0,0,0,0,,Rock Snake Pokémon,28@10#,463.0
+drowzee,0,0,0,0,,Hypnosis Pokémon,3@3#,71.4
+hypno,0,0,0,0,,Hypnosis Pokémon,5@3#,166.7
+krabby,0,0,0,0,,River Crab Pokémon,1@4#,14.3
+kingler,0,0,0,1,,Pincer Pokémon,4@3#,132.3
+voltorb,0,0,0,0,,Ball Pokémon,1@8#,22.9
+electrode,0,0,0,0,,Ball Pokémon,3@11#,146.8
+exeggcute,0,0,0,0,,Egg Pokémon,1@4#,5.5
+exeggutor,0,1,0,0,,Coconut Pokémon,6@7#,264.6
+cubone,0,0,0,0,,Lonely Pokémon,1@4#,14.3
+marowak,0,1,0,0,,Bone Keeper Pokémon,3@3#,99.2
+hitmonlee,0,0,0,0,,Kicking Pokémon,4@11#,109.8
+hitmonchan,0,0,0,0,,Punching Pokémon,4@7#,110.7
+lickitung,0,0,0,0,,Licking Pokémon,3@11#,144.4
+koffing,0,0,0,0,,Poison Gas Pokémon,2@,2.2
+weezing,0,0,1,0,,Poison Gas Pokémon,3@11#,20.9
+rhyhorn,0,0,0,0,,Spikes Pokémon,3@3#,253.5
+rhydon,0,0,0,0,f,Drill Pokémon,6@3#,264.6
+chansey,0,0,0,0,,Egg Pokémon,3@7#,76.3
+tangela,0,0,0,0,,Vine Pokémon,3@3#,77.2
+kangaskhan,1,0,0,0,,Parent Pokémon,7@3#,176.4
+horsea,0,0,0,0,,Dragon Pokémon,1@4#,17.6
+seadra,0,0,0,0,,Dragon Pokémon,3@11#,55.1
+goldeen,0,0,0,0,,Goldfish Pokémon,2@,33.1
+seaking,0,0,0,0,,Goldfish Pokémon,4@3#,86.0
+staryu,0,0,0,0,,Star Shape Pokémon,2@7#,76.1
+starmie,0,0,0,0,,Mysterious Pokémon,3@7#,176.4
+mrmime,0,0,1,0,,Barrier Pokémon,4@3#,120.2
+scyther,0,0,0,0,f,Mantis Pokémon,4@11#,123.5
+jynx,0,0,0,0,,Human Shape Pokémon,4@7#,89.5
+electabuzz,0,0,0,0,,Electric Pokémon,3@7#,66.1
+magmar,0,0,0,0,,Spitfire Pokémon,4@3#,98.1
+pinsir,1,0,0,0,,Stag Beetle Pokémon,4@11#,121.3
+tauros,0,0,0,0,,Wild Bull Pokémon,4@7#,194.9
+magikarp,0,0,0,0,f,Fish Pokémon,2@11#,22.0
+gyarados,1,0,0,0,,Atrocious Pokémon,21@4#,518.1
+lapras,0,0,0,1,,Transport Pokémon,8@2#,485.0
+ditto,0,0,0,0,,Transform Pokémon,1@,8.8
+eevee,0,0,0,1,starter,Evolution Pokémon,1@,14.3
+vaporeon,0,0,0,0,,Bubble Jet Pokémon,3@3#,63.9
+jolteon,0,0,0,0,,Lightning Pokémon,2@7#,54.0
+flareon,0,0,0,0,,Flame Pokémon,2@11#,55.1
+porygon,0,0,0,0,,Virtual Pokémon,2@7#,80.5
+omanyte,0,0,0,0,,Spiral Pokémon,1@4#,16.5
+omastar,0,0,0,0,,Spiral Pokémon,3@3#,77.2
+kabuto,0,0,0,0,,Shellfish Pokémon,1@8#,25.4
+kabutops,0,0,0,0,,Shellfish Pokémon,4@3#,89.3
+aerodactyl,1,0,0,0,,Fossil Pokémon,5@11#,130.1
+snorlax,0,0,0,1,,Sleeping Pokémon,6@11#,1014.1
+articuno,0,0,0,0,,Freeze Pokémon,5@7#,122.1
+zapdos,0,0,0,0,,Electric Pokémon,5@3#,116.0
+moltres,0,0,0,0,,Flame Pokémon,6@7#,132.3
+dratini,0,0,0,0,,Dragon Pokémon,5@11#,7.3
+dragonair,0,0,0,0,,Dragon Pokémon,13@1#,36.4
+dragonite,0,0,0,0,,Dragon Pokémon,7@3#,463.0
+mewtwo,1,0,0,0,x; y,Genetic Pokémon,6@7#,269.0
+mew,0,0,0,0,,New Species Pokémon,1@4#,8.8
+chikorita,0,0,0,0,,Leaf Pokémon,2@11#,14.1
+bayleef,0,0,0,0,,Leaf Pokémon,3@11#,34.8
+meganium,0,0,0,0,f,Herb Pokémon,5@11#,221.6
+cyndaquil,0,0,0,0,,Fire Mouse Pokémon,1@8#,17.4
+quilava,0,0,0,0,,Volcano Pokémon,2@11#,41.9
+typhlosion,0,0,0,0,,Volcano Pokémon,5@7#,175.3
+totodile,0,0,0,0,,Big Jaw Pokémon,2@,20.9
+croconaw,0,0,0,0,,Big Jaw Pokémon,3@7#,55.1
+feraligatr,0,0,0,0,,Big Jaw Pokémon,7@7#,195.8
+sentret,0,0,0,0,,Scout Pokémon,2@7#,13.2
+furret,0,0,0,0,,Long Body Pokémon,5@11#,71.7
+hoothoot,0,0,0,0,,Owl Pokémon,2@4#,46.7
+noctowl,0,0,0,0,,Owl Pokémon,5@3#,89.9
+ledyba,0,0,0,0,f,Five Star Pokémon,3@3#,23.8
+ledian,0,0,0,0,f,Five Star Pokémon,4@7#,78.5
+spinarak,0,0,0,0,,String Spit Pokémon,1@8#,18.7
+ariados,0,0,0,0,,Long Leg Pokémon,3@7#,73.9
+crobat,0,0,0,0,,Bat Pokémon,5@11#,165.3
+chinchou,0,0,0,0,,Angler Pokémon,1@8#,26.5
+lanturn,0,0,0,0,,Light Pokémon,3@11#,49.6
+pichu,0,0,0,0,,Tiny Mouse Pokémon,1@,4.4
+cleffa,0,0,0,0,,Star Shape Pokémon,1@,6.6
+igglybuff,0,0,0,0,,Balloon Pokémon,1@,2.2
+togepi,0,0,0,0,,Spike Ball Pokémon,1@,3.3
+togetic,0,0,0,0,,Happiness Pokémon,2@,7.1
+natu,0,0,0,0,,Tiny Bird Pokémon,8#,4.4
+xatu,0,0,0,0,f,Mystic Pokémon,4@11#,33.1
+mareep,0,0,0,0,,Wool Pokémon,2@,17.2
+flaaffy,0,0,0,0,,Wool Pokémon,2@7#,29.3
+ampharos,1,0,0,0,,Light Pokémon,4@7#,135.6
+bellossom,0,0,0,0,,Flower Pokémon,1@4#,12.8
+marill,0,0,0,0,,Aqua Mouse Pokémon,1@4#,18.7
+azumarill,0,0,0,0,,Aqua Rabbit Pokémon,2@7#,62.8
+sudowoodo,0,0,0,0,f,Imitation Pokémon,3@11#,83.8
+politoed,0,0,0,0,f,Frog Pokémon,3@7#,74.7
+hoppip,0,0,0,0,,Cottonweed Pokémon,1@4#,1.1
+skiploom,0,0,0,0,,Cottonweed Pokémon,2@,2.2
+jumpluff,0,0,0,0,,Cottonweed Pokémon,2@7#,6.6
+aipom,0,0,0,0,f,Long Tail Pokémon,2@7#,25.4
+sunkern,0,0,0,0,,Seed Pokémon,1@,4.0
+sunflora,0,0,0,0,,Sun Pokémon,2@7#,18.7
+yanma,0,0,0,0,,Clear Wing Pokémon,3@11#,83.8
+wooper,0,0,0,0,f,Water Fish Pokémon,1@4#,18.7
+quagsire,0,0,0,0,f,Water Fish Pokémon,4@7#,165.3
+espeon,0,0,0,0,,Sun Pokémon,2@11#,58.4
+umbreon,0,0,0,0,,Moonlight Pokémon,3@3#,59.5
+murkrow,0,0,0,0,f,Darkness Pokémon,1@8#,4.6
+slowking,0,0,0,0,,Royal Pokémon,6@7#,175.3
+misdreavus,0,0,0,0,,Screech Pokémon,2@4#,2.2
+unown,0,0,0,0,a; b; c; d; e ;f; g; h; i; j; k; l; m; n; o; p; q; r; s; t; u; v; w; x; y; z; exclamation; question,Symbol Pokémon,1@8#,11.0
+wobbuffet,0,0,0,0,f,Patient Pokémon,4@3#,62.8
+girafarig,0,0,0,0,f,Long Neck Pokémon,4@11#,91.5
+pineco,0,0,0,0,,Bagworm Pokémon,2@,15.9
+forretress,0,0,0,0,,Bagworm Pokémon,3@11#,277.3
+dunsparce,0,0,0,0,,Land Snake Pokémon,4@11#,30.9
+gligar,0,0,0,0,f,Fly Scorpion Pokémon,3@7#,142.9
+steelix,1,0,0,0,f,Iron Snake Pokémon,30@2#,881.8
+snubbull,0,0,0,0,,Fairy Pokémon,2@,17.2
+granbull,0,0,0,0,,Fairy Pokémon,4@7#,107.4
+qwilfish,0,0,0,0,,Balloon Pokémon,1@8#,8.6
+scizor,1,0,0,0,f,Pincer Pokémon,5@11#,260.1
+shuckle,0,0,0,0,,Mold Pokémon,2@,45.2
+heracross,1,0,0,0,f,Single Horn Pokémon,4@11#,119.0
+sneasel,0,0,0,0,f,Sharp Claw Pokémon,2@11#,61.7
+teddiursa,0,0,0,0,,Little Bear Pokémon,2@,19.4
+ursaring,0,0,0,0,f,Hibernator Pokémon,5@11#,277.3
+slugma,0,0,0,0,,Lava Pokémon,2@4#,77.2
+magcargo,0,0,0,0,,Lava Pokémon,2@7#,121.3
+swinub,0,0,0,0,,Pig Pokémon,1@4#,14.3
+piloswine,0,0,0,0,f,Swine Pokémon,3@7#,123.0
+corsola,0,0,1,0,,Coral Pokémon,2@,11.0
+remoraid,0,0,0,0,,Jet Pokémon,2@,26.5
+octillery,0,0,0,0,f,Jet Pokémon,2@11#,62.8
+delibird,0,0,0,0,,Delivery Pokémon,2@11#,35.3
+mantine,0,0,0,0,,Kite Pokémon,6@11#,485.0
+skarmory,0,0,0,0,,Armor Bird Pokémon,5@7#,111.3
+houndour,0,0,0,0,,Dark Pokémon,2@,23.8
+houndoom,1,0,0,0,f,Dark Pokémon,4@7#,77.2
+kingdra,0,0,0,0,,Dragon Pokémon,5@11#,335.1
+phanpy,0,0,0,0,,Long Nose Pokémon,1@8#,73.9
+donphan,0,0,0,0,f,Armor Pokémon,3@7#,264.6
+porygon2,0,0,0,0,,Virtual Pokémon,2@,71.7
+stantler,0,0,0,0,,Big Horn Pokémon,4@7#,157.0
+smeargle,0,0,0,0,,Painter Pokémon,3@11#,127.9
+tyrogue,0,0,0,0,,Scuffle Pokémon,2@4#,46.3
+hitmontop,0,0,0,0,,Handstand Pokémon,4@7#,105.8
+smoochum,0,0,0,0,,Kiss Pokémon,1@4#,13.2
+elekid,0,0,0,0,,Electric Pokémon,2@,51.8
+magby,0,0,0,0,,Live Coal Pokémon,2@4#,47.2
+miltank,0,0,0,0,,Milk Cow Pokémon,3@11#,166.4
+blissey,0,0,0,0,,Happiness Pokémon,4@11#,103.2
+raikou,0,0,0,0,,Thunder Pokémon,6@3#,392.4
+entei,0,0,0,0,,Volcano Pokémon,6@11#,436.5
+suicune,0,0,0,0,,Aurora Pokémon,6@7#,412.3
+larvitar,0,0,0,0,,Rock Skin Pokémon,2@,158.7
+pupitar,0,0,0,0,,Hard Shell Pokémon,3@11#,335.1
+tyranitar,1,0,0,0,,Armor Pokémon,6@7#,445.3
+lugia,0,0,0,0,,Diving Pokémon,17@1#,476.2
+ho-oh,0,0,0,0,,Rainbow Pokémon,12@6#,438.7
+celebi,0,0,0,0,,Time Travel Pokémon,2@,11.0
+treecko,0,0,0,0,,Wood Gecko Pokémon,1@8#,11.0
+grovyle,0,0,0,0,,Wood Gecko Pokémon,2@11#,47.6
+sceptile,1,0,0,0,,Forest Pokémon,5@7#,115.1
+torchic,0,0,0,0,,Chick Pokémon,1@4#,5.5
+combusken,0,0,0,0,f,Young Fowl Pokémon,2@11#,43.0
+blaziken,1,0,0,0,f,Blaze Pokémon,6@3#,114.6
+mudkip,0,0,0,0,,Mud Fish Pokémon,1@4#,16.8
+marshtomp,0,0,0,0,,Mud Fish Pokémon,2@4#,61.7
+swampert,1,0,0,0,,Mud Fish Pokémon,4@11#,180.6
+poochyena,0,0,0,0,,Bite Pokémon,1@8#,30.0
+mightyena,0,0,0,0,,Bite Pokémon,3@3#,81.6
+zigzagoon,0,0,1,0,,Tiny Raccoon Pokémon,1@4#,38.6
+linoone,0,0,1,0,,Rushing Pokémon,1@8#,71.7
+wurmple,0,0,0,0,,Worm Pokémon,1@,7.9
+silcoon,0,0,0,0,,Cocoon Pokémon,2@,22.0
+beautifly,0,0,0,0,f,Butterfly Pokémon,3@3#,62.6
+cascoon,0,0,0,0,,Cocoon Pokémon,2@4#,25.4
+dustox,0,0,0,0,,Poison Moth Pokémon,3@11#,69.7
+lotad,0,0,0,0,,Water Weed Pokémon,1@8#,5.7
+lombre,0,0,0,0,,Jolly Pokémon,3@11#,71.7
+ludicolo,0,0,0,0,f,Carefree Pokémon,4@11#,121.3
+seedot,0,0,0,0,,Acorn Pokémon,1@8#,8.8
+nuzleaf,0,0,0,0,f,Wily Pokémon,3@3#,61.7
+shiftry,0,0,0,0,f,Wicked Pokémon,4@3#,131.4
+taillow,0,0,0,0,,Tiny Swallow Pokémon,1@,5.1
+swellow,0,0,0,0,,Swallow Pokémon,2@4#,43.7
+wingull,0,0,0,0,,Seagull Pokémon,2@,20.9
+pelipper,0,0,0,0,,Water Bird Pokémon,3@11#,61.7
+ralts,0,0,0,0,,Feeling Pokémon,1@4#,14.6
+kirlia,0,0,0,0,,Emotion Pokémon,2@7#,44.5
+gardevoir,1,0,0,0,,Embrace Pokémon,5@3#,106.7
+surskit,0,0,0,0,,Pond Skater Pokémon,1@8#,3.7
+masquerain,0,0,0,0,,Eyeball Pokémon,2@7#,7.9
+shroomish,0,0,0,0,,Mushroom Pokémon,1@4#,9.9
+breloom,0,0,0,0,,Mushroom Pokémon,3@11#,86.4
+slakoth,0,0,0,0,,Slacker Pokémon,2@7#,52.9
+vigoroth,0,0,0,0,,Wild Monkey Pokémon,4@7#,102.5
+slaking,0,0,0,0,,Lazy Pokémon,6@7#,287.7
+nincada,0,0,0,0,,Trainee Pokémon,1@8#,12.1
+ninjask,0,0,0,0,,Ninja Pokémon,2@7#,26.5
+shedinja,0,0,0,0,,Shed Pokémon,2@7#,2.6
+whismur,0,0,0,0,,Whisper Pokémon,2@,35.9
+loudred,0,0,0,0,,Big Voice Pokémon,3@3#,89.3
+exploud,0,0,0,0,,Loud Noise Pokémon,4@11#,185.2
+makuhita,0,0,0,0,,Guts Pokémon,3@3#,190.5
+hariyama,0,0,0,0,,Arm Thrust Pokémon,7@7#,559.5
+azurill,0,0,0,0,,Polka Dot Pokémon,8#,4.4
+nosepass,0,0,0,0,,Compass Pokémon,3@3#,213.8
+skitty,0,0,0,0,,Kitten Pokémon,2@,24.3
+delcatty,0,0,0,0,,Prim Pokémon,3@7#,71.9
+sableye,1,0,0,0,,Darkness Pokémon,1@8#,24.3
+mawile,1,0,0,0,,Deceiver Pokémon,2@,25.4
+aron,0,0,0,0,,Iron Armor Pokémon,1@4#,132.3
+lairon,0,0,0,0,,Iron Armor Pokémon,2@11#,264.6
+aggron,1,0,0,0,,Iron Armor Pokémon,6@11#,793.7
+meditite,0,0,0,0,,Meditate Pokémon,2@,24.7
+medicham,1,0,0,0,,Meditate Pokémon,4@3#,69.4
+electrike,0,0,0,0,,Lightning Pokémon,2@,33.5
+manectric,1,0,0,0,,Discharge Pokémon,4@11#,88.6
+plusle,0,0,0,0,,Cheering Pokémon,1@4#,9.3
+minun,0,0,0,0,,Cheering Pokémon,1@4#,9.3
+volbeat,0,0,0,0,,Firefly Pokémon,2@4#,39.0
+illumise,0,0,0,0,,Firefly Pokémon,2@,39.0
+roselia,0,0,0,0,f,Thorn Pokémon,1@,4.4
+gulpin,0,0,0,0,f,Stomach Pokémon,1@4#,22.7
+swalot,0,0,0,0,f,Poison Bag Pokémon,5@7#,176.4
+carvanha,0,0,0,0,,Savage Pokémon,2@7#,45.9
+sharpedo,1,0,0,0,,Brutal Pokémon,5@11#,195.8
+wailmer,0,0,0,0,,Ball Whale Pokémon,6@7#,286.6
+wailord,0,0,0,0,,Float Whale Pokémon,47@7#,877.4
+numel,0,0,0,0,f,Numb Pokémon,2@4#,52.9
+camerupt,1,0,0,0,f,Eruption Pokémon,6@3#,485.0
+torkoal,0,0,0,0,,Coal Pokémon,1@8#,177.3
+spoink,0,0,0,0,,Bounce Pokémon,2@4#,67.5
+grumpig,0,0,0,0,,Manipulate Pokémon,2@11#,157.6
+spinda,0,0,0,0,,Spot Panda Pokémon,3@7#,11.0
+trapinch,0,0,0,0,,Ant Pit Pokémon,2@4#,33.1
+vibrava,0,0,0,0,,Vibration Pokémon,3@7#,33.7
+flygon,0,0,0,0,,Mystic Pokémon,6@7#,180.8
+cacnea,0,0,0,0,,Cactus Pokémon,1@4#,113.1
+cacturne,0,0,0,0,f,Scarecrow Pokémon,4@3#,170.6
+swablu,0,0,0,0,,Cotton Bird Pokémon,1@4#,2.6
+altaria,1,0,0,0,,Humming Pokémon,3@7#,45.4
+zangoose,0,0,0,0,,Cat Ferret Pokémon,4@3#,88.8
+seviper,0,0,0,0,,Fang Snake Pokémon,8@10#,115.7
+lunatone,0,0,0,0,,Meteorite Pokémon,3@3#,370.4
+solrock,0,0,0,0,,Meteorite Pokémon,3@11#,339.5
+barboach,0,0,0,0,,Whiskers Pokémon,1@4#,4.2
+whiscash,0,0,0,0,,Whiskers Pokémon,2@11#,52.0
+corphish,0,0,0,0,,Ruffian Pokémon,2@,25.4
+crawdaunt,0,0,0,0,,Rogue Pokémon,3@7#,72.3
+baltoy,0,0,0,0,,Clay Doll Pokémon,1@8#,47.4
+claydol,0,0,0,0,,Clay Doll Pokémon,4@11#,238.1
+lileep,0,0,0,0,,Sea Lily Pokémon,3@3#,52.5
+cradily,0,0,0,0,,Barnacle Pokémon,4@11#,133.2
+anorith,0,0,0,0,,Old Shrimp Pokémon,2@4#,27.6
+armaldo,0,0,0,0,,Plate Pokémon,4@11#,150.4
+feebas,0,0,0,0,,Fish Pokémon,2@,16.3
+milotic,0,0,0,0,f,Tender Pokémon,20@4#,357.1
+castform,0,0,0,0,normal; rainy; snowy; sunny,Weather Pokémon,1@,1.8
+kecleon,0,0,0,0,,Color Swap Pokémon,3@3#,48.5
+shuppet,0,0,0,0,,Puppet Pokémon,2@,5.1
+banette,1,0,0,0,,Marionette Pokémon,3@7#,27.6
+duskull,0,0,0,0,,Requiem Pokémon,2@7#,33.1
+dusclops,0,0,0,0,,Beckon Pokémon,5@3#,67.5
+tropius,0,0,0,0,,Fruit Pokémon,6@7#,220.5
+chimecho,0,0,0,0,,Wind Chime Pokémon,2@,2.2
+absol,1,0,0,0,,Disaster Pokémon,3@11#,103.6
+wynaut,0,0,0,0,,Bright Pokémon,2@,30.9
+snorunt,0,0,0,0,,Snow Hat Pokémon,2@4#,37.0
+glalie,1,0,0,0,,Face Pokémon,4@11#,565.5
+spheal,0,0,0,0,,Clap Pokémon,2@7#,87.1
+sealeo,0,0,0,0,,Ball Roll Pokémon,3@7#,193.1
+walrein,0,0,0,0,,Ice Break Pokémon,4@7#,332.0
+clamperl,0,0,0,0,,Bivalve Pokémon,1@4#,115.7
+huntail,0,0,0,0,,Deep Sea Pokémon,5@7#,59.5
+gorebyss,0,0,0,0,,South Sea Pokémon,5@11#,49.8
+relicanth,0,0,0,0,f,Longevity Pokémon,3@3#,51.6
+luvdisc,0,0,0,0,,Rendezvous Pokémon,2@,19.2
+bagon,0,0,0,0,,Rock Head Pokémon,2@,92.8
+shelgon,0,0,0,0,,Endurance Pokémon,3@7#,243.6
+salamence,1,0,0,0,,Dragon Pokémon,4@11#,226.2
+beldum,0,0,0,0,,Iron Ball Pokémon,2@,209.9
+metang,0,0,0,0,,Iron Claw Pokémon,3@11#,446.4
+metagross,1,0,0,0,,Iron Leg Pokémon,5@3#,1212.5
+regirock,0,0,0,0,,Rock Peak Pokémon,5@7#,507.1
+regice,0,0,0,0,,Iceberg Pokémon,5@11#,385.8
+registeel,0,0,0,0,,Iron Pokémon,6@3#,451.9
+latias,1,0,0,0,,Eon Pokémon,4@7#,88.2
+latios,1,0,0,0,,Eon Pokémon,6@7#,132.3
+kyogre,0,0,0,0,primal,Sea Basin Pokémon,14@9#,776.0
+groudon,0,0,0,0,primal,Continent Pokémon,11@6#,2094.4
+rayquaza,1,0,0,0,,Sky High Pokémon,23@,455.3
+jirachi,0,0,0,0,,Wish Pokémon,1@,2.4
+deoxys,0,0,0,0,normal; attack; defense; speed,DNA Pokémon,5@7#,134.0
+turtwig,0,0,0,0,,Tiny Leaf Pokémon,1@4#,22.5
+grotle,0,0,0,0,,Grove Pokémon,3@7#,213.8
+torterra,0,0,0,0,,Continent Pokémon,7@3#,683.4
+chimchar,0,0,0,0,,Chimp Pokémon,1@8#,13.7
+monferno,0,0,0,0,,Playful Pokémon,2@11#,48.5
+infernape,0,0,0,0,,Flame Pokémon,3@11#,121.3
+piplup,0,0,0,0,,Penguin Pokémon,1@4#,11.5
+prinplup,0,0,0,0,,Penguin Pokémon,2@7#,50.7
+empoleon,0,0,0,0,,Emperor Pokémon,5@7#,186.3
+starly,0,0,0,0,f,Starling Pokémon,1@,4.4
+staravia,0,0,0,0,f,Starling Pokémon,2@,34.2
+staraptor,0,0,0,0,f,Predator Pokémon,3@11#,54.9
+bidoof,0,0,0,0,f,Plump Mouse Pokémon,1@8#,44.1
+bibarel,0,0,0,0,f,Beaver Pokémon,3@3#,69.4
+kricketot,0,0,0,0,f,Cricket Pokémon,1@,4.9
+kricketune,0,0,0,0,f,Cricket Pokémon,3@3#,56.2
+shinx,0,0,0,0,f,Flash Pokémon,1@8#,20.9
+luxio,0,0,0,0,f,Spark Pokémon,2@11#,67.2
+luxray,0,0,0,0,f,Gleam Eyes Pokémon,4@7#,92.6
+budew,0,0,0,0,,Bud Pokémon,8#,2.6
+roserade,0,0,0,0,f,Bouquet Pokémon,2@11#,32.0
+cranidos,0,0,0,0,,Head Butt Pokémon,2@11#,69.4
+rampardos,0,0,0,0,,Head Butt Pokémon,5@3#,226.0
+shieldon,0,0,0,0,,Shield Pokémon,1@8#,125.7
+bastiodon,0,0,0,0,,Shield Pokémon,4@3#,329.6
+burmy,0,0,0,0,plant; sandy; trash,Bagworm Pokémon,8#,7.5
+wormadam,0,0,0,0,plant; sandy; trash,Bagworm Pokémon,1@8#,14.3
+mothim,0,0,0,0,,Moth Pokémon,2@11#,51.4
+combee,0,0,0,0,f,Tiny Bee Pokémon,1@,12.1
+vespiquen,0,0,0,0,,Beehive Pokémon,3@11#,84.9
+pachirisu,0,0,0,0,f,EleSquirrel Pokémon,1@4#,8.6
+buizel,0,0,0,0,f,Sea Weasel Pokémon,2@4#,65.0
+floatzel,0,0,0,0,f,Sea Weasel Pokémon,3@7#,73.9
+cherubi,0,0,0,0,,Cherry Pokémon,1@4#,7.3
+cherrim,0,0,0,0,overcast; sunshine,Blossom Pokémon,1@8#,20.5
+shellos,0,0,0,0,east; west,Sea Slug Pokémon,1@,13.9
+gastrodon,0,0,0,0,east; west,Sea Slug Pokémon,2@11#,65.9
+ambipom,0,0,0,0,f,Long Tail Pokémon,3@11#,44.8
+drifloon,0,0,0,0,,Balloon Pokémon,1@4#,2.6
+drifblim,0,0,0,0,,Blimp Pokémon,3@11#,33.1
+buneary,0,0,0,0,,Rabbit Pokémon,1@4#,12.1
+lopunny,1,0,0,0,,Rabbit Pokémon,3@11#,73.4
+mismagius,0,0,0,0,,Magical Pokémon,2@11#,9.7
+honchkrow,0,0,0,0,,Big Boss Pokémon,2@11#,60.2
+glameow,0,0,0,0,,Catty Pokémon,1@8#,8.6
+purugly,0,0,0,0,,Tiger Cat Pokémon,3@3#,96.6
+chingling,0,0,0,0,,Bell Pokémon,8#,1.3
+stunky,0,0,0,0,,Skunk Pokémon,1@4#,42.3
+skuntank,0,0,0,0,,Skunk Pokémon,3@3#,83.8
+bronzor,0,0,0,0,,Bronze Pokémon,1@8#,133.4
+bronzong,0,0,0,0,,Bronze Bell Pokémon,4@3#,412.3
+bonsly,0,0,0,0,,Bonsai Pokémon,1@8#,33.1
+mimejr,0,0,0,0,,Mime Pokémon,2@,28.7
+happiny,0,0,0,0,,Playhouse Pokémon,2@,53.8
+chatot,0,0,0,0,,Music Note Pokémon,1@8#,4.2
+spiritomb,0,0,0,0,,Forbidden Pokémon,3@3#,238.1
+gible,0,0,0,0,f,Land Shark Pokémon,2@4#,45.2
+gabite,0,0,0,0,f,Cave Pokémon,4@7#,123.5
+garchomp,1,0,0,0,f,Mach Pokémon,6@3#,209.4
+munchlax,0,0,0,0,,Big Eater Pokémon,2@,231.5
+riolu,0,0,0,0,,Emanation Pokémon,2@4#,44.5
+lucario,1,0,0,0,,Aura Pokémon,3@11#,119.0
+hippopotas,0,0,0,0,f,Hippo Pokémon,2@7#,109.1
+hippowdon,0,0,0,0,f,Heavyweight Pokémon,6@7#,661.4
+skorupi,0,0,0,0,,Scorpion Pokémon,2@7#,26.5
+drapion,0,0,0,0,,Ogre Scorpion Pokémon,4@3#,135.6
+croagunk,0,0,0,0,f,Toxic Mouth Pokémon,2@4#,50.7
+toxicroak,0,0,0,0,f,Toxic Mouth Pokémon,4@3#,97.9
+carnivine,0,0,0,0,,Bug Catcher Pokémon,4@7#,59.5
+finneon,0,0,0,0,f,Wing Fish Pokémon,1@4#,15.4
+lumineon,0,0,0,0,f,Neon Pokémon,3@11#,52.9
+mantyke,0,0,0,0,,Kite Pokémon,3@3#,143.3
+snover,0,0,0,0,f,Frost Tree Pokémon,3@3#,111.3
+abomasnow,1,0,0,0,f,Frost Tree Pokémon,7@3#,298.7
+weavile,0,0,0,0,f,Sharp Claw Pokémon,3@7#,75.0
+magnezone,0,0,0,0,,Magnet Area Pokémon,3@11#,396.8
+lickilicky,0,0,0,0,,Licking Pokémon,5@7#,308.6
+rhyperior,0,0,0,0,f,Drill Pokémon,7@10#,623.5
+tangrowth,0,0,0,0,f,Vine Pokémon,6@7#,283.5
+electivire,0,0,0,0,,Thunderbolt Pokémon,5@11#,305.6
+magmortar,0,0,0,0,,Blast Pokémon,5@3#,149.9
+togekiss,0,0,0,0,,Jubilee Pokémon,4@11#,83.8
+yanmega,0,0,0,0,,Ogre Darner Pokémon,6@3#,113.5
+leafeon,0,0,0,0,,Verdant Pokémon,3@3#,56.2
+glaceon,0,0,0,0,,Fresh Snow Pokémon,2@7#,57.1
+gliscor,0,0,0,0,,Fang Scorpion Pokémon,6@7#,93.7
+mamoswine,0,0,0,0,f,Twin Tusk Pokémon,8@2#,641.5
+porygon-z,0,0,0,0,,Virtual Pokémon,2@11#,75.0
+gallade,1,0,0,0,,Blade Pokémon,5@3#,114.6
+probopass,0,0,0,0,,Compass Pokémon,4@7#,749.6
+dusknoir,0,0,0,0,,Gripper Pokémon,7@3#,235.0
+froslass,0,0,0,0,,Snow Land Pokémon,4@3#,58.6
+rotom,0,0,0,0,normal; heat; wash; frost; fan; mow,Plasma Pokémon,1@,0.7
+uxie,0,0,0,0,,Knowledge Pokémon,1@,0.7
+mesprit,0,0,0,0,,Emotion Pokémon,1@,0.7
+azelf,0,0,0,0,,Willpower Pokémon,1@,0.7
+dialga,0,0,0,0,,Temporal Pokémon,17@9#,1505.8
+palkia,0,0,0,0,,Spatial Pokémon,13@9#,740.8
+heatran,0,0,0,0,,Lava Dome Pokémon,5@7#,948.0
+regigigas,0,0,0,0,,Colossal Pokémon,12@2#,925.9
+giratina,0,0,0,0,altered; origin,Renegade Pokémon,14@9#,1653.5
+cresselia,0,0,0,0,,Lunar Pokémon,4@11#,188.7
+phione,0,0,0,0,,Sea Drifter Pokémon,1@4#,6.8
+manaphy,0,0,0,0,,Seafaring Pokémon,1@,3.1
+darkrai,0,0,0,0,,Pitch-Black Pokémon,4@11#,111.3
+shaymin,0,0,0,0,land; sky,Gratitude Pokémon,8#,4.6
+arceus,0,0,0,0,bug; dark; dragon; electric; fairy; fighting; fire; flying; ghost; grass; ground; ice; normal; poison; psychic; rock; steel; water,Alpha Pokémon,10@6#,705.5
+victini,0,0,0,0,,Victory Pokémon,1@4#,8.8
+snivy,0,0,0,0,,Grass Snake Pokémon,2@,17.9
+servine,0,0,0,0,,Grass Snake Pokémon,2@7#,35.3
+serperior,0,0,0,0,,Regal Pokémon,10@10#,138.9
+tepig,0,0,0,0,,Fire Pig Pokémon,1@8#,21.8
+pignite,0,0,0,0,,Fire Pig Pokémon,3@3#,122.4
+emboar,0,0,0,0,,Mega Fire Pig Pokémon,5@3#,330.7
+oshawott,0,0,0,0,,Sea Otter Pokémon,1@8#,13.0
+dewott,0,0,0,0,,Discipline Pokémon,2@7#,54.0
+samurott,0,0,0,0,,Formidable Pokémon,4@11#,208.6
+patrat,0,0,0,0,,Scout Pokémon,1@8#,25.6
+watchog,0,0,0,0,,Lookout Pokémon,3@7#,59.5
+lillipup,0,0,0,0,,Puppy Pokémon,1@4#,9.0
+herdier,0,0,0,0,,Loyal Dog Pokémon,2@11#,32.4
+stoutland,0,0,0,0,,Big-Hearted Pokémon,3@11#,134.5
+purrloin,0,0,0,0,,Devious Pokémon,1@4#,22.3
+liepard,0,0,0,0,,Cruel Pokémon,3@7#,82.7
+pansage,0,0,0,0,,Grass Monkey Pokémon,2@,23.1
+simisage,0,0,0,0,,Thorn Monkey Pokémon,3@7#,67.2
+pansear,0,0,0,0,,High Temp Pokémon,2@,24.3
+simisear,0,0,0,0,,Ember Pokémon,3@3#,61.7
+panpour,0,0,0,0,,Spray Pokémon,2@,29.8
+simipour,0,0,0,0,,Geyser Pokémon,3@3#,63.9
+munna,0,0,0,0,,Dream Eater Pokémon,2@,51.4
+musharna,0,0,0,0,,Drowsing Pokémon,3@7#,133.4
+pidove,0,0,0,0,,Tiny Pigeon Pokémon,1@,4.6
+tranquill,0,0,0,0,,Wild Pigeon Pokémon,2@,33.1
+unfezant,0,0,0,0,f,Proud Pokémon,3@11#,63.9
+blitzle,0,0,0,0,,Electrified Pokémon,2@7#,65.7
+zebstrika,0,0,0,0,,Thunderbolt Pokémon,5@3#,175.3
+roggenrola,0,0,0,0,,Mantle Pokémon,1@4#,39.7
+boldore,0,0,0,0,,Ore Pokémon,2@11#,224.9
+gigalith,0,0,0,0,,Compressed Pokémon,5@7#,573.2
+woobat,0,0,0,0,,Bat Pokémon,1@4#,4.6
+swoobat,0,0,0,0,,Courting Pokémon,2@11#,23.1
+drilbur,0,0,0,0,,Mole Pokémon,1@,18.7
+excadrill,0,0,0,0,,Subterrene Pokémon,2@4#,89.1
+audino,1,0,0,0,,Hearing Pokémon,3@7#,68.3
+timburr,0,0,0,0,,Muscular Pokémon,2@,27.6
+gurdurr,0,0,0,0,,Muscular Pokémon,3@11#,88.2
+conkeldurr,0,0,0,0,,Muscular Pokémon,4@7#,191.8
+tympole,0,0,0,0,,Tadpole Pokémon,1@8#,9.9
+palpitoad,0,0,0,0,,Vibration Pokémon,2@7#,37.5
+seismitoad,0,0,0,0,,Vibration Pokémon,4@11#,136.7
+throh,0,0,0,0,,Judo Pokémon,4@3#,122.4
+sawk,0,0,0,0,,Karate Pokémon,4@7#,112.4
+sewaddle,0,0,0,0,,Sewing Pokémon,1@,5.5
+swadloon,0,0,0,0,,Leaf-Wrapped Pokémon,1@8#,16.1
+leavanny,0,0,0,0,,Nurturing Pokémon,3@11#,45.2
+venipede,0,0,0,0,,Centipede Pokémon,1@4#,11.7
+whirlipede,0,0,0,0,,Curlipede Pokémon,3@11#,129.0
+scolipede,0,0,0,0,,Megapede Pokémon,8@2#,442.0
+cottonee,0,0,0,0,,Cotton Puff Pokémon,1@,1.3
+whimsicott,0,0,0,0,,Windveiled Pokémon,2@4#,14.6
+petilil,0,0,0,0,,Bulb Pokémon,1@8#,14.6
+lilligant,0,0,0,0,,Flowering Pokémon,3@7#,35.9
+basculin,0,0,0,0,red; blue,Hostile Pokémon,3@3#,39.7
+sandile,0,0,0,0,,Desert Croc Pokémon,2@4#,33.5
+krokorok,0,0,0,0,,Desert Croc Pokémon,3@3#,73.6
+krookodile,0,0,0,0,,Intimidation Pokémon,4@11#,212.3
+darumaka,0,0,1,0,,Zen Charm Pokémon,2@,82.7
+darmanitan,0,0,1,0,zen,Blazing Pokémon,4@3#,204.8
+maractus,0,0,0,0,,Cactus Pokémon,3@3#,61.7
+dwebble,0,0,0,0,,Rock Inn Pokémon,1@,32.0
+crustle,0,0,0,0,,Stone Home Pokémon,4@7#,440.9
+scraggy,0,0,0,0,,Shedding Pokémon,2@,26.0
+scrafty,0,0,0,0,,Hoodlum Pokémon,3@7#,66.1
+sigilyph,0,0,0,0,,Avianoid Pokémon,4@7#,30.9
+yamask,0,0,1,0,,Spirit Pokémon,1@8#,3.3
+cofagrigus,0,0,0,0,,Coffin Pokémon,5@7#,168.7
+tirtouga,0,0,0,0,,Prototurtle Pokémon,2@4#,36.4
+carracosta,0,0,0,0,,Prototurtle Pokémon,3@11#,178.6
+archen,0,0,0,0,,First Bird Pokémon,1@8#,20.9
+archeops,0,0,0,0,,First Bird Pokémon,4@7#,70.5
+trubbish,0,0,0,0,,Trash Bag Pokémon,2@,68.3
+garbodor,0,0,0,1,,Trash Heap Pokémon,6@3#,236.6
+zorua,0,0,0,0,,Tricky Fox Pokémon,2@4#,27.6
+zoroark,0,0,0,0,,Illusion Fox Pokémon,5@3#,178.8
+minccino,0,0,0,0,,Chinchilla Pokémon,1@4#,12.8
+cinccino,0,0,0,0,,Scarf Pokémon,1@8#,16.5
+gothita,0,0,0,0,,Fixation Pokémon,1@4#,12.8
+gothorita,0,0,0,0,,Manipulate Pokémon,2@4#,39.7
+gothitelle,0,0,0,0,,Astral Body Pokémon,4@11#,97.0
+solosis,0,0,0,0,,Cell Pokémon,1@,2.2
+duosion,0,0,0,0,,Mitosis Pokémon,2@,17.6
+reuniclus,0,0,0,0,,Multiplying Pokémon,3@3#,44.3
+ducklett,0,0,0,0,,Water Bird Pokémon,1@8#,12.1
+swanna,0,0,0,0,,White Bird Pokémon,4@3#,53.4
+vanillite,0,0,0,0,,Fresh Snow Pokémon,1@4#,12.6
+vanillish,0,0,0,0,,Icy Snow Pokémon,3@7#,90.4
+vanilluxe,0,0,0,0,,Snowstorm Pokémon,4@3#,126.8
+deerling,0,0,0,0,spring; autumn; summer; winter,Season Pokémon,2@,43.0
+sawsbuck,0,0,0,0,spring; summer; autumn; winter,Season Pokémon,6@3#,203.9
+emolga,0,0,0,0,,Sky Squirrel Pokémon,1@4#,11.0
+karrablast,0,0,0,0,,Clamping Pokémon,1@8#,13.0
+escavalier,0,0,0,0,,Cavalry Pokémon,3@3#,72.8
+foongus,0,0,0,0,,Mushroom Pokémon,8#,2.2
+amoonguss,0,0,0,0,,Mushroom Pokémon,2@,23.1
+frillish,0,0,0,0,f,Floating Pokémon,3@11#,72.8
+jellicent,0,0,0,0,f,Floating Pokémon,7@3#,297.6
+alomomola,0,0,0,0,,Caring Pokémon,3@11#,69.7
+joltik,0,0,0,0,,Attaching Pokémon,4#,1.3
+galvantula,0,0,0,0,,EleSpider Pokémon,2@7#,31.5
+ferroseed,0,0,0,0,,Thorn Seed Pokémon,2@,41.4
+ferrothorn,0,0,0,0,,Thorn Pod Pokémon,3@3#,242.5
+klink,0,0,0,0,,Gear Pokémon,1@,46.3
+klang,0,0,0,0,,Gear Pokémon,2@,112.4
+klinklang,0,0,0,0,,Gear Pokémon,2@,178.6
+tynamo,0,0,0,0,,EleFish Pokémon,8#,0.7
+eelektrik,0,0,0,0,,EleFish Pokémon,3@11#,48.5
+eelektross,0,0,0,0,,EleFish Pokémon,6@11#,177.5
+elgyem,0,0,0,0,,Cerebral Pokémon,1@8#,19.8
+beheeyem,0,0,0,0,,Cerebral Pokémon,3@3#,76.1
+litwick,0,0,0,0,,Candle Pokémon,1@,6.8
+lampent,0,0,0,0,,Lamp Pokémon,2@,28.7
+chandelure,0,0,0,0,,Luring Pokémon,3@3#,75.6
+axew,0,0,0,0,,Tusk Pokémon,2@,39.7
+fraxure,0,0,0,0,,Axe Jaw Pokémon,3@3#,79.4
+haxorus,0,0,0,0,,Axe Jaw Pokémon,5@11#,232.6
+cubchoo,0,0,0,0,,Chill Pokémon,1@8#,18.7
+beartic,0,0,0,0,,Freezing Pokémon,8@6#,573.2
+cryogonal,0,0,0,0,,Crystallizing Pokémon,3@7#,326.3
+shelmet,0,0,0,0,,Snail Pokémon,1@4#,17.0
+accelgor,0,0,0,0,,Shell Out Pokémon,2@7#,55.8
+stunfisk,0,0,1,0,,Trap Pokémon,2@4#,24.3
+mienfoo,0,0,0,0,,Martial Arts Pokémon,2@11#,44.1
+mienshao,0,0,0,0,,Martial Arts Pokémon,4@7#,78.3
+druddigon,0,0,0,0,,Cave Pokémon,5@3#,306.4
+golett,0,0,0,0,,Automaton Pokémon,3@3#,202.8
+golurk,0,0,0,0,,Automaton Pokémon,9@2#,727.5
+pawniard,0,0,0,0,,Sharp Blade Pokémon,1@8#,22.5
+bisharp,0,0,0,0,,Sword Blade Pokémon,5@3#,154.3
+bouffalant,0,0,0,0,,Bash Buffalo Pokémon,5@3#,208.6
+rufflet,0,0,0,0,,Eaglet Pokémon,1@8#,23.1
+braviary,0,0,0,0,,Valiant Pokémon,4@11#,90.4
+vullaby,0,0,0,0,,Diapered Pokémon,1@8#,19.8
+mandibuzz,0,0,0,0,,Bone Vulture Pokémon,3@11#,87.1
+heatmor,0,0,0,0,,Anteater Pokémon,4@7#,127.9
+durant,0,0,0,0,,Iron Ant Pokémon,1@,72.8
+deino,0,0,0,0,,Irate Pokémon,2@7#,38.1
+zweilous,0,0,0,0,,Hostile Pokémon,4@7#,110.2
+hydreigon,0,0,0,0,,Brutal Pokémon,5@11#,352.7
+larvesta,0,0,0,0,,Torch Pokémon,3@7#,63.5
+volcarona,0,0,0,0,,Sun Pokémon,5@3#,101.4
+cobalion,0,0,0,0,,Iron Will Pokémon,6@11#,551.2
+terrakion,0,0,0,0,,Cavern Pokémon,6@3#,573.2
+virizion,0,0,0,0,,Grassland Pokémon,6@7#,440.9
+tornadus,0,0,0,0,therian,Cyclone Pokémon,4@11#,138.9
+thundurus,0,0,0,0,therian,Bolt Strike Pokémon,4@11#,134.5
+reshiram,0,0,0,0,,Vast White Pokémon,10@6#,727.5
+zekrom,0,0,0,0,,Deep Black Pokémon,9@6#,760.6
+landorus,0,0,0,0,therian,Abundance Pokémon,4@11#,149.9
+kyurem,0,0,0,0,black; white,Boundary Pokémon,9@10#,716.5
+keldeo,0,0,0,0,resolute,Colt Pokémon,4@7#,106.9
+meloetta,0,0,0,0,pirouette,Melody Pokémon,2@,14.3
+genesect,0,0,0,0,normal; shock; burn; chill; douse,Paleozoic Pokémon,4@11#,181.9
+chespin,0,0,0,0,,Spiny Nut Pokémon,1@4#,19.8
+quilladin,0,0,0,0,,Spiny Armor Pokémon,2@4#,63.9
+chesnaught,0,0,0,0,,Spiny Armor Pokémon,5@3#,198.4
+fennekin,0,0,0,0,,Fox Pokémon,1@4#,20.7
+braixen,0,0,0,0,,Fox Pokémon,3@3#,32.0
+delphox,0,0,0,0,,Fox Pokémon,4@11#,86.0
+froakie,0,0,0,0,,Bubble Frog Pokémon,1@,15.4
+frogadier,0,0,0,0,,Bubble Frog Pokémon,2@,24.0
+greninja,0,0,0,0,ash,Ninja Pokémon,4@11#,88.2
+bunnelby,0,0,0,0,,Digging Pokémon,1@4#,11.0
+diggersby,0,0,0,0,,Digging Pokémon,3@3#,93.5
+fletchling,0,0,0,0,,Tiny Robin Pokémon,1@,3.7
+fletchinder,0,0,0,0,,Ember Pokémon,2@4#,35.3
+talonflame,0,0,0,0,,Scorching Pokémon,3@11#,54.0
+scatter,0,0,0,0,,Scatterdust Pokémon,1@,5.5
+spewpa,0,0,0,0,,Scatterdust Pokémon,1@,18.5
+vivillon,0,0,0,0,archipelago; continental; elegant; garden; highplains; icysnow; jungle; marine; meadow; modern; monsoon; ocean; polar; river; sandstorm; savanna; sun; tundra,Scale Pokémon,3@11#,37.5
+litleo,0,0,0,0,,Lion Cub Pokémon,2@,29.8
+pyroar,0,0,0,0,f,Royal Pokémon,4@11#,179.7
+flabebe,0,0,0,0,red; blue; orange; white; yellow,Single Bloom Pokémon,4#,0.2
+floette,0,0,0,0,red; blue; eternal; orange; white; yellow,Single Bloom Pokémon,8#,2.0
+florges,0,0,0,0,red; blue; orange; white; yellow,Garden Pokémon,3@7#,22.0
+skiddo,0,0,0,0,,Mount Pokémon,2@11#,68.3
+gogoat,0,0,0,0,,Mount Pokémon,5@7#,200.6
+pancham,0,0,0,0,,Playful Pokémon,2@,17.6
+pangoro,0,0,0,0,,Daunting Pokémon,6@11#,299.8
+furfrou,0,0,0,0,normal; heart; star; diamond; debutante; matron; dandy; lareine; kabuki; pharaoh,Poodle Pokémon,3@11#,61.7
+espurr,0,0,0,0,,Restraint Pokémon,1@,7.7
+meowstic,0,0,0,0,f,Constraint Pokémon,2@,18.7
+honedge,0,0,0,0,,Sword Pokémon,2@7#,4.4
+doublade,0,0,0,0,,Sword Pokémon,2@7#,9.9
+aegislash,0,0,0,0,shield; blade,Royal Sword Pokémon,5@7#,116.8
+spritzee,0,0,0,0,,Perfume Pokémon,8#,1.1
+aromatisse,0,0,0,0,,Fragrance Pokémon,2@7#,34.2
+swirlix,0,0,0,0,,Cotton Candy Pokémon,1@4#,7.7
+slurpuff,0,0,0,0,,Meringue Pokémon,2@7#,11.0
+inkay,0,0,0,0,,Revolving Pokémon,1@4#,7.7
+malamar,0,0,0,0,,Overturning Pokémon,4@11#,103.6
+binacle,0,0,0,0,,Two-Handed Pokémon,1@8#,68.3
+barbaracle,0,0,0,0,,Collective Pokémon,4@3#,211.6
+skrelp,0,0,0,0,,Mock Kelp Pokémon,1@8#,16.1
+dragalge,0,0,0,0,,Mock Kelp Pokémon,5@11#,179.7
+clauncher,0,0,0,0,,Water Gun Pokémon,1@8#,18.3
+clawitzer,0,0,0,0,,Howitzer Pokémon,4@3#,77.8
+helioptile,0,0,0,0,,Generator Pokémon,1@8#,13.2
+heliolisk,0,0,0,0,,Generator Pokémon,3@3#,46.3
+tyrunt,0,0,0,0,,Royal Heir Pokémon,2@7#,57.3
+tyrantrum,0,0,0,0,,Despot Pokémon,8@2#,595.2
+amaura,0,0,0,0,,Tundra Pokémon,4@3#,55.6
+aurorus,0,0,0,0,,Tundra Pokémon,8@10#,496.0
+sylveon,0,0,0,0,,Intertwining Pokémon,3@3#,51.8
+hawlucha,0,0,0,0,,Wrestling Pokémon,2@7#,47.4
+dedenne,0,0,0,0,,Antenna Pokémon,8#,4.9
+carbink,0,0,0,0,,Jewel Pokémon,1@,12.6
+goomy,0,0,0,0,,Soft Tissue Pokémon,1@,6.2
+sliggoo,0,0,0,0,,Soft Tissue Pokémon,2@7#,38.6
+goodra,0,0,0,0,,Dragon Pokémon,6@7#,331.8
+klefki,0,0,0,0,,Key Ring Pokémon,8#,6.6
+phantump,0,0,0,0,,Stump Pokémon,1@4#,15.4
+trevenant,0,0,0,0,,Elder Tree Pokémon,4@11#,156.5
+pumpkaboo,0,0,0,0,small; average; large; super,Pumpkin Pokémon,1@4#,11.0
+gourgeist,0,0,0,0,small; average; large; super,Pumpkin Pokémon,2@11#,27.6
+bergmite,0,0,0,0,,Ice Chunk Pokémon,3@3#,219.4
+avalugg,0,0,0,0,,Iceberg Pokémon,6@7#,1113.3
+noibat,0,0,0,0,,Sound Wave Pokémon,1@8#,17.6
+noivern,0,0,0,0,,Sound Wave Pokémon,4@11#,187.4
+xerneas,0,0,0,0,,Life Pokémon,9@10#,474.0
+yveltal,0,0,0,0,,Destruction Pokémon,19@,447.5
+zygarde,0,0,0,0,10; 50; complete,Order Pokémon,16@5#,672.4
+diancie,1,0,0,0,,Jewel Pokémon,2@4#,19.4
+hoopa,0,0,0,0,,Mischief Pokémon,1@8#,19.8
+volcanion,0,0,0,0,,Steam Pokémon,5@7#,429.9
+rowlet,0,0,0,0,,Grass Quill Pokémon,1@,3.3
+dartrix,0,0,0,0,,Blade Quill Pokémon,2@4#,35.3
+decidueye,0,0,0,0,,Arrow Quill Pokémon,5@3#,80.7
+litten,0,0,0,0,,Fire Cat Pokémon,1@4#,9.5
+torracat,0,0,0,0,,Fire Cat Pokémon,2@4#,55.1
+incineroar,0,0,0,0,,Heel Pokémon,5@11#,183.0
+popplio,0,0,0,0,,Sea Lion Pokémon,1@4#,16.5
+brionne,0,0,0,0,,Pop Star Pokémon,2@,38.6
+primarina,0,0,0,0,,Soloist Pokémon,5@11#,97.0
+pikipek,0,0,0,0,,Woodpecker Pokémon,1@,2.6
+trumbeak,0,0,0,0,,Bugle Beak Pokémon,2@,32.6
+toucannon,0,0,0,0,,Cannon Pokémon,3@7#,57.3
+yungoos,0,0,0,0,,Loitering Pokémon,1@4#,13.2
+gumshoos,0,0,0,0,,Stakeout Pokémon,2@4#,31.3
+grubbin,0,0,0,0,,Larva Pokémon,1@4#,9.7
+charjabug,0,0,0,0,,Battery Pokémon,1@8#,23.1
+vikavolt,0,0,0,0,,Stag Beetle Pokémon,4@11#,99.2
+crabrawler,0,0,0,0,,Boxing Pokémon,2@,15.4
+crabominable,0,0,0,0,,Woolly Crab Pokémon,5@7#,396.8
+oricorio,0,0,0,0,baile; pompom; pau; sensu,Dancing Pokémon,2@,7.5
+cutiefly,0,0,0,0,,Bee Fly Pokémon,4#,0.4
+ribombee,0,0,0,0,,Bee Fly Pokémon,8#,1.1
+rockruff,0,0,0,0,,Puppy Pokémon,1@8#,20.3
+lycanroc,0,0,0,0,midday; midnight; dusk,Wolf Pokémon,2@7#,55.1
+wishiwashi,0,0,0,0,school,Small Fry Pokémon,8#,0.7
+mareanie,0,0,0,0,,Brutal Star Pokémon,1@4#,17.6
+toxapex,0,0,0,0,,Brutal Star Pokémon,2@4#,32.0
+mudbray,0,0,0,0,,Donkey Pokémon,3@3#,242.5
+mudsdale,0,0,0,0,,Draft Horse Pokémon,8@2#,2028.3
+dewpider,0,0,0,0,,Water Bubble Pokémon,1@,8.8
+araquanid,0,0,0,0,,Water Bubble Pokémon,5@11#,180.8
+fomantis,0,0,0,0,,Sickle Grass Pokémon,1@,3.3
+lurantis,0,0,0,0,,Bloom Sickle Pokémon,2@11#,40.8
+morelull,0,0,0,0,,Illuminating Pokémon,8#,3.3
+shiinotic,0,0,0,0,,Illuminating Pokémon,3@3#,25.4
+salandit,0,0,0,0,,Toxic Lizard Pokémon,2@,10.6
+salazzle,0,0,0,0,,Toxic Lizard Pokémon,3@11#,48.9
+stufful,0,0,0,0,,Flailing Pokémon,1@8#,15.0
+bewear,0,0,0,0,,Strong Arm Pokémon,6@11#,297.6
+bounsweet,0,0,0,0,,Fruit Pokémon,1@,7.1
+steenee,0,0,0,0,,Fruit Pokémon,2@4#,18.1
+tsareena,0,0,0,0,,Fruit Pokémon,3@11#,47.2
+comfey,0,0,0,0,,Posy Picker Pokémon,4#,0.7
+oranguru,0,0,0,0,,Sage Pokémon,4@11#,167.6
+passimian,0,0,0,0,,Teamwork Pokémon,6@7#,182.5
+wimpod,0,0,0,0,,Turn Tail Pokémon,1@8#,26.5
+golisopod,0,0,0,0,,Hard Scale Pokémon,6@7#,238.1
+sandygast,0,0,0,0,,Sand Heap Pokémon,1@8#,154.3
+palossand,0,0,0,0,,Sand Castle Pokémon,4@3#,551.2
+pyukumuku,0,0,0,0,,Sea Cucumber Pokémon,1@,2.6
+typenull,0,0,0,0,,Synthetic Pokémon,6@3#,265.7
+silvally,0,0,0,0,bug; dark; dragon; electric; fairy; fighting; fire; flying; ghost; grass; ground; ice; normal; poison; psychic; rock; steel; water,Synthetic Pokémon,7@7#,221.6
+minior,0,0,0,0,red; orange; yellow; green; blue; indigo; violet,Meteor Pokémon,1@,88.2
+komala,0,0,0,0,,Drowsing Pokémon,1@4#,43.9
+turtonator,0,0,0,0,,Blast Turtle Pokémon,6@7#,467.4
+togedemaru,0,0,0,0,,Roly-Poly Pokémon,1@,7.3
+mimikyu,0,0,0,0,busted,Disguise Pokémon,8#,1.5
+bruxish,0,0,0,0,,Gnash Teeth Pokémon,2@11#,41.9
+drampa,0,0,0,0,,Placid Pokémon,9@10#,407.9
+dhelmise,0,0,0,0,,Sea Creeper Pokémon,12@10#,463.0
+jangmoo,0,0,0,0,,Scaly Pokémon,2@,65.5
+hakamoo,0,0,0,0,,Scaly Pokémon,3@11#,103.6
+kommoo,0,0,0,0,,Scaly Pokémon,5@3#,172.4
+tapukoko,0,0,0,0,,Land Spirit Pokémon,5@11#,45.2
+tapulele,0,0,0,0,,Land Spirit Pokémon,3@11#,41.0
+tapubulu,0,0,0,0,,Land Spirit Pokémon,6@3#,100.3
+tapufini,0,0,0,0,,Land Spirit Pokémon,4@3#,46.7
+cosmog,0,0,0,0,,Nebula Pokémon,8#,0.2
+cosmoem,0,0,0,0,,Protostar Pokémon,4#,2204.4
+solgaleo,0,0,0,0,,Sunne Pokémon,11@2#,507.1
+lunala,0,0,0,0,,Moone Pokémon,13@1#,264.6
+nihilego,0,0,0,0,,Parasite Pokémon,3@11#,122.4
+buzzwole,0,0,0,0,,Swollen Pokémon,7@10#,735.5
+pheromosa,0,0,0,0,,Lissome Pokémon,5@11#,55.1
+xurkitree,0,0,0,0,,Glowing Pokémon,12@6#,220.5
+celesteela,0,0,0,0,,Launch Pokémon,30@2#,2204.4
+kartana,0,0,0,0,,Drawn Sword Pokémon,1@,0.2
+guzzlord,0,0,0,0,,Junkivore Pokémon,18@1#,1957.7
+necrozma,0,0,0,0,dawnwings; duskmane; ultra,Prism Pokémon,7@10#,507.1
+magearna,0,0,0,0,original,Artificial Pokémon,3@3#,177.5
+marshadow,0,0,0,0,,Gloomdweller Pokémon,2@4#,48.9
+poipole,0,0,0,0,,Poison Pin Pokémon,2@,4.0
+naganadel,0,0,0,0,,Poison Pin Pokémon,11@10#,330.7
+stakataka,0,0,0,0,,Rampart Pokémon,18@1#,1807.8
+blacephalon,0,0,0,0,,Fireworks Pokémon,5@11#,28.7
+zeraora,0,0,0,0,,Thunderclap Pokémon,4@11#,98.1
+meltan,0,0,0,0,,Hex Nut Pokémon,8#,17.6
+melmetal,0,0,0,1,,Hex Nut Pokémon,8@2#,1763.7
+grookey,0,0,0,0,,Chimp Pokémon,1@,11.0
+thwakey,0,0,0,0,,Beat Pokémon,2@4#,30.9
+rillaboom,0,0,0,1,,Drummer Pokémon,6@11#,198.4
+scorbunny,0,0,0,0,,Rabbit Pokémon,1@,9.9
+raboot,0,0,0,0,,Rabbit Pokémon,2@,19.8
+cinderace,0,0,0,1,,Striker Pokémon,4@7#,72.8
+sobble,0,0,0,0,,Water Lizard Pokémon,1@,8.8
+drizzile,0,0,0,0,,Water Lizard Pokémon,2@4#,25.4
+inteleon,0,0,0,1,,Secret Agent Pokémon,6@3#,99.6
+skwovet,0,0,0,0,,Cheeky Pokémon,1@,5.5
+greedent,0,0,0,0,,Greedy Pokémon,2@,13.2
+rookidee,0,0,0,0,,Tiny Bird Pokémon,8#,4.0
+corvisquire,0,0,0,0,,Raven Pokémon,2@7#,35.3
+corviknight,0,0,0,1,,Raven Pokémon,7@3#,165.3
+blipbug,0,0,0,0,,Larva Pokémon,1@4#,17.6
+dottler,0,0,0,0,,Radome Pokémon,1@4#,43.0
+orbeetle,0,0,0,1,,Seven Spot Pokémon,1@4#,89.9
+nickit,0,0,0,0,,Fox Pokémon,2@,19.6
+thievul,0,0,0,0,,Fox Pokémon,3@11#,43.9
+gossifleur,0,0,0,0,,Flowering Pokémon,1@4#,4.9
+eldegoss,0,0,0,0,,Cotton Bloom Pokémon,1@8#,5.5
+wooloo,0,0,0,0,,Sheep Pokémon,2@,13.2
+dubwool,0,0,0,0,,Sheep Pokémon,4@3#,94.8
+chewtle,0,0,0,0,,Snapping Pokémon,1@,18.7
+drednaw,0,0,0,1,,Bite Pokémon,3@3#,254.6
+yamper,0,0,0,0,,Puppy Pokémon,1@,29.8
+boltund,0,0,0,0,,Dog Pokémon,3@3#,75.0
+rolycoly,0,0,0,0,,Coal Pokémon,1@,26.5
+carkol,0,0,0,0,,Coal Pokémon,3@7#,172.0
+coalossal,0,0,0,1,,Coal Pokémon,9@2#,684.5
+applin,0,0,0,0,,Apple Core Pokémon,8#,1.1
+flapple,0,0,0,1,,Apple Wing Pokémon,1@,2.2
+appletun,0,0,0,1,,Apple Nectar Pokémon,1@4#,28.7
+silivobra,0,0,0,0,,Sand Snake Pokémon,7@3#,16.8
+sandaconda,0,0,0,1,,Sand Snake Pokémon,12@6#,144.4
+cramorant,0,0,0,0,normal; gorging; gulping,Gulp Pokémon,2@7#,39.7
+arrokuda,0,0,0,0,,Rush Pokémon,1@8#,2.2
+barraskewda,0,0,0,0,,Skewer Pokémon,4@3#,66.1
+toxel,0,0,0,0,,Baby Pokémon,1@4#,24.3
+toxtricity,0,0,0,1,amped; lowkey,Punk Pokémon,5@3#,88.2
+sizzlipede,0,0,0,0,,Radiator Pokémon,2@4#,2.2
+centiskorch,0,0,0,1,,Radiator Pokémon,9@10#,264.6
+clobbopus,0,0,0,0,,Tantrum Pokémon,2@,8.8
+grapploct,0,0,0,0,,Jujitsu Pokémon,5@3#,86.0
+sinistea,0,0,0,0,phony; antique,Black Tea Pokémon,4#,0.4
+polteageist,0,0,0,0,phony; antique,Black Tea Pokémon,8#,0.9
+hatenna,0,0,0,0,,Calm Pokémon,1@4#,7.5
+hattrem,0,0,0,0,,Serene Pokémon,2@,10.6
+hatterene,0,0,0,1,,Silent Pokémon,6@11#,11.2
+impidimp,0,0,0,0,,Wily Pokémon,1@4#,12.1
+morgrem,0,0,0,0,,Devious Pokémon,2@7#,27.6
+grimmsnarl,0,0,0,1,,Bulk Up Pokémon,4@11#,134.5
+obstagoon,0,0,0,0,,Blocking Pokémon,5@3#,101.4
+perrserker,0,0,0,0,,Viking Pokémon,2@7#,61.7
+cursola,0,0,0,0,,Coral Pokémon,3@3#,0.9
+sirfetchd,0,0,0,0,,Wild Duck Pokémon,2@7#,257.9
+mr. rime,0,0,0,0,,Comedian Pokémon,4@11#,128.3
+runerigus,0,0,0,0,,Grudge Pokémon,5@3#,146.8
+milcery,0,0,0,0,,Cream Pokémon,8#,0.7
+alcremie,0,0,0,1,berry; clover; flower; love; ribbon; star; strawberry; caramel-swirl; lemon-cream; matcha-cream; mint-cream; rainbow-swirl; ruby-cream; ruby-swirl; salted-cream; vanilla-cream,Cream Pokémon,1@,1.1
+falinks,0,0,0,0,,Formation Pokémon,9@10#,136.7
+pincurchin,0,0,0,0,,Sea Urchin Pokémon,1@,2.2
+snom,0,0,0,0,,Worm Pokémon,1@,8.4
+frosmoth,0,0,0,0,,Frost Moth Pokémon,4@3#,92.6
+stonjourner,0,0,0,0,,Big Rock Pokémon,8@2#,1146.4
+eiscue,0,0,0,0,ice; noice,Penguin Pokémon,4@7#,196.2
+indeedee,0,0,0,0,f,Emotion Pokémon,2@11#,61.7
+morpeko,0,0,0,0,hangry,Two-Sided Pokémon,1@,6.6
+cufant,0,0,0,0,,Copperderm Pokémon,3@11#,220.5
+copperajah,0,0,0,1,,Copperderm Pokémon,9@10#,1433.0
+dracozolt,0,0,0,0,,Fossil Pokémon,5@11#,418.9
+arctozolt,0,0,0,0,,Fossil Pokémon,7@7#,330.7
+dracovish,0,0,0,0,,Fossil Pokémon,7@7#,474.0
+arctovish,0,0,0,0,,Fossil Pokémon,6@7#,385.8
+duraludon,0,0,0,1,,Alloy Pokémon,5@11#,88.2
+dreepy,0,0,0,0,,Lingering Pokémon,1@8#,4.4
+drakloak,0,0,0,0,,Caretaker Pokémon,4@7#,24.3
+dragapult,0,0,0,0,,Stealth Pokémon,9@10#,110.2
+zacian,0,0,0,0,crowned,Warrior Pokémon,9@2#,242.5
+zamazenta,0,0,0,0,crowned,Warrior Pokémon,9@6#,463.0
+eternatus,0,0,0,0,eternamax,Gigantic Pokémon,65@7#,2094.4
+kubfu,0,0,0,0,,Wushu Pokémon,2@,26.5
+urshifu,0,0,0,1,,Wushu Pokémon,6@3#,231.5
+zarude,0,0,0,0,,Rogue Monkey Pokémon,5@11#,154.3

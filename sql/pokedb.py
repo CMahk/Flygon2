@@ -2,6 +2,7 @@ import aiosqlite
 import aiofiles
 import asyncio
 import bisect
+import csv
 import json
 import re
 import os
@@ -57,26 +58,29 @@ class PokeDB():
 			810: [892, 'galar', 8]
 			}
 
-		# Load the files into lists
-		listMega = await this.__loadList('mega.txt')
-		listAlolan = await  this.__loadList('alolan.txt')
-		listGalarian = await this.__loadList('galarian.txt')
-		listGmax = await this.__loadList('gmax.txt')
-
-		listFormes = []
-		async with aiofiles.open(this.path + '\\src\\forme.txt', 'r') as infile:
-			async for line in infile:
-				line = re.sub('[:,]', '', line.rstrip())
-				listFormes.append(line.split(' '))
-
 		# POKEMON TABLE
 		dexNumber = 1
-		async with aiofiles.open(this.path + '\\src\\species.txt', 'r') as infile:
-			async for line in infile:
+		with open(this.path + '\\src\\poke.csv', 'r') as infile:
+			reader = csv.reader(infile, delimiter = ",")
+			# Get the header out of the way
+			header = next(reader)
+			for row in infile:
+				# Parse the CSV data
+				row = row.split(",")
+				rowParsed = []
+				for item in row:
+					if (str.isdigit(item)):
+						rowParsed.append(int(item))
+					elif (item == ""):
+						rowParsed.append(None)
+					else:
+						# Replace stand-in characters (they exist to not interfere when splitting the row into a list)
+						item = item.replace(";", ",").replace("@", "'").replace("#", '"')
+						rowParsed.append(item)
+
 				# Use a bisect to create a range of indexes based on the species' generation
 				sortedDict = sorted(dictIndex.keys())
 				insertion = bisect.bisect_left(sortedDict, dexNumber)
-
 				# Offset if needed
 				if insertion == len(sortedDict) or sortedDict[insertion] != dexNumber:
 					 insertion -= 1
@@ -85,51 +89,13 @@ class PokeDB():
 				data = dictIndex[sortedDict[insertion]]
 				data = data[:]
 
-				# Append the species' name
-				line = line.rstrip()
-				data.append(line)
+				# Append the CSV data
+				for item in rowParsed:
+					data.append(item)
 
-				# Add attributes
-				if line in listMega:
-					data.append(1)
-				else:
-					data.append(0)
-
-				if line in listAlolan:
-					data.append(1)
-				else:
-					data.append(0)
-
-				if line in listGalarian:
-					data.append(1)
-				else:
-					data.append(0)
-
-				if line in listGmax:
-					data.append(1)
-				else:
-					data.append(0)
-
-				# Pad for formes
-				data.append(None)
-
-				await this.cursor.execute("INSERT INTO pokemon(dex_limit, region, gen, species, mega, alolan, galarian, gmax, forme) VALUES (?,?,?,?,?,?,?,?,?)", data)
+				# Write to the database
+				await this.cursor.execute("INSERT INTO pokemon(dex_limit, region, gen, species, mega, alolan, galarian, gmax, forme, type, height, weight) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)", data)
 				dexNumber += 1
-
-		# Add species formes
-		async with aiofiles.open(this.path + '\\src\\forme.txt', 'r') as infile:
-			async for line in infile:
-				line = re.sub('[:,]', '', line.rstrip())
-				split = line.split(' ')
-
-				# Find the species' row
-				await this.cursor.execute("SELECT * FROM pokemon WHERE species LIKE ?", (split[0],))
-				result = list(await this.cursor.fetchone())
-				del split[0]
-
-				# Add the forme to the row
-				joined = ', '.join(split)
-				await this.cursor.execute("UPDATE pokemon SET forme = ? WHERE dex = ?", (joined, result[0]))
 
 		await this.db.commit()
 
