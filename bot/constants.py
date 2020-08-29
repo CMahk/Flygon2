@@ -80,9 +80,10 @@ class Constants:
 		'moon': 28,
 		'ultra-sun': 29,
 		'ultra-moon': 30,
-		'lets-go': 31,
-		'sword': 32,
-		'shield': 33
+		'lets-go-pikachu': 31,
+		'lets-go-eevee': 32,
+		'sword': 33,
+		'shield': 34
 		}
 
 	TYPES = ['bug', 'dark', 'dragon', 'electric', 'fairy', 'fighting', 'fire', 'flying', 'ghost', 'grass', 'ground', 'ice', 'normal', 'poison', 'psychic', 'rock', 'steel', 'water']
