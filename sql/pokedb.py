@@ -60,7 +60,7 @@ class PokeDB():
 			494: [649, "unova", 5],
 			650: [721, "kalos", 6],
 			722: [809, "alola", 7],
-			810: [892, "galar", 8]
+			810: [893, "galar", 8]
 			}
 
 		# POKEMON TABLE
