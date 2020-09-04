@@ -1,8 +1,9 @@
 import asyncio
 from bot.constants import Constants
+from bot.embed import Embed
 from bot.poke import Poke
 from bot.poke import PokeError
-import os
+import webbrowser
 
 class Flygon2():
 	def __init__(this, config = None, db = None):
@@ -11,19 +12,31 @@ class Flygon2():
 
 	async def run(this):
 		# Get information on the given pokemon
-		try:
-			pokemon = Poke('.gen6 shield shiny aegislash', this.__db)
-			await pokemon.setup()
+		print('Please enter a command:\n .gen <attributes> <pokemon>\n')
 
-		except PokeError as err:
-			print(err)
-			found = False
+		loop = True
+		while(loop):
+			userInput = input()
+			if (userInput == 'x'):
+				break
 
-		else:
-			found = True
+			try:
+				pokemon = Poke(userInput, this.__db)
+				await pokemon.setup()
 
-		if (found):
-			print(pokemon)
-			version = Constants.DICT_VERSION_ID.get(this.__config.genDex[pokemon.getGen() - 1])
-			entry = await this.__db.getPokedex(pokemon.getDexNumber(), version, 9)
-			print(entry)
+			except PokeError as err:
+				print(err)
+				found = False
+
+			else:
+				found = True
+
+			if (found):
+				print(pokemon)
+				version = Constants.DICT_VERSION_ID.get(this.__config.genDex[pokemon.getGen() - 1])
+				entry = await this.__db.getPokedex(pokemon.getDexNumber(), version, 9)
+				print(entry)
+
+				embed = Embed(pokemon)
+				
+				webbrowser.open(str(embed))
