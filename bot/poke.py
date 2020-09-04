@@ -183,12 +183,8 @@ class Poke():
 	def __speciesEdges(this, possibleFormes):
 		dexNumber = this.getDexNumber()
 
-		# TODO: Pikachu edge case
-		if (dexNumber == 25):
-			pass
-
 		# Alcremie edge case
-		elif (dexNumber == 869):
+		if (dexNumber == 869):
 			alcremieBase = ['strawberry', 'berry', 'clover', 'flower', 'love', 'ribbon', 'star']
 			alcremieSwirl = ['caramel-swirl', 'lemon-cream', 'matcha-cream', 'mint-cream', 'rainbow-swirl', 'ruby-cream', 'ruby-swirl', 'salted-cream', 'vanilla-cream']
 				
